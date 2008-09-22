@@ -1,0 +1,35 @@
+[PROJECT]
+Target=debugger.HEX
+Development_Mode=2
+Processor=0xB750
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=debugger.c;
+BuildTool=C-COMPILER
+OptionString=+FH
+AdditionalOptionString=
+BuildRequired=1
+
+[debugger.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=debugger.c
+
+[Windows]
+0=0000 debugger.c 0 0 796 451 3 0
+
+[Units]
+Count=1
+1=debugger.c (main)

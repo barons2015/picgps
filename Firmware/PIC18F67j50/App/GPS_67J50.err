@@ -1,0 +1,29 @@
+>>> Warning 225 "GPS_67J50.c" Line 60(1,1): Interrupt level changed  EXT: NORMAL=>HIGH
+>>> Warning 225 "GPS_67J50.c" Line 87(1,1): Interrupt level changed  EXT3: NORMAL=>HIGH
+>>> Warning 203 "GPS_67J50.c" Line 421(1,1): Condition always TRUE
+>>> Warning 216 "GPS_67J50.c" Line 637(0,1): Interrupts disabled during call to prevent re-entrancy:  (@MUL1616)
+>>> Warning 202 "C:\Users\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h" Line 22(5,8): Variable never used:   rs232_errors
+>>> Warning 202 "C:\Users\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.c" Line 47(6,14): Variable never used:   sFATName
+>>> Warning 202 "GPS_67J50.c" Line 7(8,13): Variable never used:   hFile
+>>> Warning 202 "GPS_67J50.c" Line 8(6,15): Variable never used:   gfilename
+>>> Warning 202 "GPS_67J50.c" Line 35(25,42): Variable never used:   fStandardPressure
+>>> Warning 202 "C:\Users\Projects\PIC\GPS\Firmware\PIC18F67j50\App\gpsParser.c" Line 31(5,19): Variable never used:   nStillSecCount
+>>> Warning 202 "C:\Users\Projects\PIC\GPS\Firmware\PIC18F67j50\App\gpsParser.c" Line 61(7,19): Variable never used:   fAccDistance
+>>> Warning 202 "GPS_67J50.c" Line 110(12,21): Variable never used:   sCmdBTLNM
+>>> Warning 202 "GPS_67J50.c" Line 111(12,21): Variable never used:   sCmdBTSRV
+>>> Warning 202 "GPS_67J50.c" Line 112(12,21): Variable never used:   sCmdBTAUT
+>>> Warning 202 "GPS_67J50.c" Line 208(5,13): Variable never used:   gActCard
+>>> Warning 202 "GPS_67J50.c" Line 215(5,15): Variable never used:   nSCPStatus
+>>> Warning 202 "GPS_67J50.c" Line 216(7,22): Variable never used:   nSCPTemperature
+>>> Warning 202 "GPS_67J50.c" Line 216(24,36): Variable never used:   nSCPPressure
+>>> Warning 202 "GPS_67J50.c" Line 217(8,23): Variable never used:   fSCPTemperature
+>>> Warning 202 "GPS_67J50.c" Line 217(25,37): Variable never used:   fSCPPressure
+>>> Warning 202 "GPS_67J50.c" Line 218(8,20): Variable never used:   fSCPAltitude
+>>> Warning 202 "GPS_67J50.c" Line 323(10,15): Variable never used:   nTemp
+>>> Warning 202 "GPS_67J50.c" Line 324(10,19): Variable never used:   nPressure
+>>> Warning 202 "GPS_67J50.c" Line 325(10,15): Variable never used:   fTemp
+>>> Warning 202 "GPS_67J50.c" Line 326(10,15): Variable never used:   nTick
+>>> Warning 202 "GPS_67J50.c" Line 327(9,17): Variable never used:   bSDReady
+>>> Warning 202 "GPS_67J50.c" Line 328(8,13): Variable never used:   error
+      Memory usage:   ROM=7%      RAM=66% - 68%
+      0 Errors,  27 Warnings.

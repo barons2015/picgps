@@ -1,0 +1,1 @@
+hex2bin gpsdrv.hex GPSDRVSW.BIN

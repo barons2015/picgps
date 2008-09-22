@@ -1,0 +1,721 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADCCH_BATT::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	28;"	d	line:28	file:
+ADCCH_HMCA::1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	29;"	d	line:29	file:
+ADCCH_HMCB::2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	30;"	d	line:30	file:
+ADCCH_TEMP::3	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	31;"	d	line:31	file:
+ADC_CLOCK_DIV_16::0x05	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	340;"	d	line:340
+ADC_CLOCK_DIV_2::0x100	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	337;"	d	line:337
+ADC_CLOCK_DIV_32::0x02	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	341;"	d	line:341
+ADC_CLOCK_DIV_4::0x04	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	338;"	d	line:338
+ADC_CLOCK_DIV_64::0x06	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	342;"	d	line:342
+ADC_CLOCK_DIV_8::0x01	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	339;"	d	line:339
+ADC_CLOCK_INTERNAL::0x07	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	343;"	d	line:343
+ADC_OFF::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	336;"	d	line:336
+ADC_READ_ONLY::6	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	381;"	d	line:381
+ADC_START_AND_READ::7	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	379;"	d	line:379
+ADC_START_ONLY::1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	380;"	d	line:380
+ADC_TAD_MUL_0::0x00	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	345;"	d	line:345
+ADC_TAD_MUL_12::0x28	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	350;"	d	line:350
+ADC_TAD_MUL_16::0x30	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	351;"	d	line:351
+ADC_TAD_MUL_20::0x38	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	352;"	d	line:352
+ADC_TAD_MUL_2::0x08	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	346;"	d	line:346
+ADC_TAD_MUL_4::0x10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	347;"	d	line:347
+ADC_TAD_MUL_6::0x18	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	348;"	d	line:348
+ADC_TAD_MUL_8::0x20	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	349;"	d	line:349
+ADS1112_ADDRESS::0x9A	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	39;"	d	line:39	file:
+ADS1112_CONFIG::(ADS11XX_CONTINUOUS_CONVERSION	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	40;"	d	line:40	file:
+ALL_ANALOG::0x03	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	357;"	d	line:357
+AN0::0x0E	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	368;"	d	line:368
+AN0_TO_AN10::0x04	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	358;"	d	line:358
+AN0_TO_AN1::0x0D	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	367;"	d	line:367
+AN0_TO_AN2::0x0C	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	366;"	d	line:366
+AN0_TO_AN3::0x0B	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	365;"	d	line:365
+AN0_TO_AN4::0x0A	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	364;"	d	line:364
+AN0_TO_AN5::0x09	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	363;"	d	line:363
+AN0_TO_AN6::0x08	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	362;"	d	line:362
+AN0_TO_AN7::0x07	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	361;"	d	line:361
+AN0_TO_AN8::0x06	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	360;"	d	line:360
+AN0_TO_AN9::0x05	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	359;"	d	line:359
+ASIN_COS	C:\Program Files\PICC\Drivers\MATH.H	449;"	f	line:449	signature:(float x, int n)
+BOOLEAN::shortint	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	84;"	d	line:84
+BROWNOUT_RESTART::14	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	102;"	d	line:102
+BT_RST::PIN_G4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	12;"	d	line:12	file:
+BYTE::int	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	83;"	d	line:83
+BytsPerSec	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	14;"	m	line:14	struct:_diskinforec
+CCP_1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	205;"	v	line:205
+CCP_2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	237;"	v	line:237
+CCP_3	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	241;"	v	line:241
+CCP_4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	245;"	v	line:245
+CCP_5	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	249;"	v	line:249
+CCP_CAPTURE_DIV_16::7	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	194;"	d	line:194
+CCP_CAPTURE_DIV_4::6	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	193;"	d	line:193
+CCP_CAPTURE_FE::4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	191;"	d	line:191
+CCP_CAPTURE_RE::5	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	192;"	d	line:192
+CCP_COMPARE_CLR_ON_MATCH::9	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	196;"	d	line:196
+CCP_COMPARE_INT::0xA	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	197;"	d	line:197
+CCP_COMPARE_INT_AND_TOGGLE::0x2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	198;"	d	line:198
+CCP_COMPARE_RESET_TIMER::0xB	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	199;"	d	line:199
+CCP_COMPARE_SET_ON_MATCH::8	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	195;"	d	line:195
+CCP_OFF::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	190;"	d	line:190
+CCP_PWM::0xC	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	200;"	d	line:200
+CCP_PWM_FULL_BRIDGE::0x40	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	215;"	d	line:215
+CCP_PWM_FULL_BRIDGE_REV::0xC0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	216;"	d	line:216
+CCP_PWM_HALF_BRIDGE::0x80	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	217;"	d	line:217
+CCP_PWM_H_H::0x0c	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	210;"	d	line:210
+CCP_PWM_H_L::0x0d	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	211;"	d	line:211
+CCP_PWM_L_H::0x0e	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	212;"	d	line:212
+CCP_PWM_L_L::0x0f	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	213;"	d	line:213
+CCP_PWM_PLUS_1::0x1c	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	201;"	d	line:201
+CCP_PWM_PLUS_2::0x2c	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	202;"	d	line:202
+CCP_PWM_PLUS_3::0x3c	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	203;"	d	line:203
+CCP_SHUTDOWN_AC_F::0x080000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	229;"	d	line:229
+CCP_SHUTDOWN_AC_H::0x040000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	228;"	d	line:228
+CCP_SHUTDOWN_AC_L::0x000000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	227;"	d	line:227
+CCP_SHUTDOWN_BD_F::0x020000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	233;"	d	line:233
+CCP_SHUTDOWN_BD_H::0x010000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	232;"	d	line:232
+CCP_SHUTDOWN_BD_L::0x000000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	231;"	d	line:231
+CCP_SHUTDOWN_ON_COMP1::0x100000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	219;"	d	line:219
+CCP_SHUTDOWN_ON_COMP1_INT0::0x500000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	223;"	d	line:223
+CCP_SHUTDOWN_ON_COMP2::0x200000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	220;"	d	line:220
+CCP_SHUTDOWN_ON_COMP2_INT0::0x600000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	224;"	d	line:224
+CCP_SHUTDOWN_ON_COMP::0x300000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	221;"	d	line:221
+CCP_SHUTDOWN_ON_COMP_INT0::0x700000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	225;"	d	line:225
+CCP_SHUTDOWN_ON_INT0::0x400000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	222;"	d	line:222
+CCP_SHUTDOWN_RESTART::0x80000000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	235;"	d	line:235
+CCP_USE_TIMER3::0x100	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	204;"	d	line:204
+CEIL_FLOOR	C:\Program Files\PICC\Drivers\MATH.H	36;"	f	line:36	signature:(float x, int n)
+CHARGE_IND::PIN_A5	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	16;"	d	line:16	file:
+CardInserted::PIN_D4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	207;"	d	line:207	file:
+CurrentCluster	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	54;"	m	line:54
+DIR	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	45;"	t	line:45
+DIR_BUFFER::gFiles[hFile].DIRbuffer	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	7;"	d	line:7
+DIR_BUFFER::gFiles[hFile].IObuffer	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	5;"	d	line:5
+DIRbuffer	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	51;"	m	line:51
+DirEntry	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	53;"	m	line:53
+EXT1_isr	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	70;"	f	line:70
+EXT2_isr	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	79;"	f	line:79
+EXT3_isr	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	88;"	f	line:88
+EXT_isr	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	61;"	f	line:61
+ExtFlags	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	29;"	m	line:29	struct:_diskinforec
+F5_VR_F3_VR::0x28ff0e	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	305;"	d	line:305
+F6_F5_F4_F3::0x78ff02	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	302;"	d	line:302
+F6_F5_F4_F3_OUT_ON_F2_F1::0x78F903	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	299;"	d	line:299
+F6_F5_F4_F5::0x70ff04	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	298;"	d	line:298
+F6_F5_F4_F5_OUT_ON_F2_F1::0x70F905	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	300;"	d	line:300
+F6_F5_NC_NC_OUT_ON_F2::0x60FB01	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	303;"	d	line:303
+F6_VR_F4_VR::0x50ff06	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	304;"	d	line:304
+FALSE::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	80;"	d	line:80
+FAT32Vars	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	77;"	t	line:77
+FATSz16	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	21;"	m	line:21	struct:_diskinforec
+FATSz32	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	28;"	m	line:28	struct:_diskinforec
+FATstartidx	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	67;"	m	line:67
+FILE	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	62;"	t	line:62
+FSVer	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	30;"	m	line:30	struct:_diskinforec
+FindDirEntry	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	82;"	p	line:82	signature:(char *fname, HANDLE hFile)
+Free	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	61;"	m	line:61
+GLOBAL::0xF2C0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	393;"	d	line:393
+GPS_EN::PIN_A4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	17;"	d	line:17	file:
+HANDLE::char	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	79;"	d	line:79
+HMC_RESET::PIN_F5	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	14;"	d	line:14	file:
+H_TO_L::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	391;"	d	line:391
+HiddSec	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	24;"	m	line:24	struct:_diskinforec
+INT_AD::0x9D40	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	405;"	d	line:405
+INT_BUSCOL2::0xA340	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	420;"	d	line:420
+INT_BUSCOL::0xA008	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	411;"	d	line:411
+INT_CCP1::0x9D04	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	409;"	d	line:409
+INT_CCP2::0xA001	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	410;"	d	line:410
+INT_CCP3::0xA301	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	416;"	d	line:416
+INT_CCP4::0xA302	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	417;"	d	line:417
+INT_CCP5::0xA304	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	418;"	d	line:418
+INT_COMP::0xA040	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	412;"	d	line:412
+INT_EXT1::0xF008	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	400;"	d	line:400
+INT_EXT2::0xF010	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	401;"	d	line:401
+INT_EXT3::0xF020	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	402;"	d	line:402
+INT_EXT::0xF210	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	399;"	d	line:399
+INT_OSCF::0xA080	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	419;"	d	line:419
+INT_PSP::0x9D80	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	404;"	d	line:404
+INT_RB::0xFFF208	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	403;"	d	line:403
+INT_RDA2::0xA320	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	413;"	d	line:413
+INT_RDA::0x9D20	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	406;"	d	line:406
+INT_RTCC::0xF220	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	394;"	d	line:394
+INT_SSP2::0xA380	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	421;"	d	line:421
+INT_SSP::0x9D08	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	408;"	d	line:408
+INT_TBE2::0xA310	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	414;"	d	line:414
+INT_TBE::0x9D10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	407;"	d	line:407
+INT_TIMER0::0xF220	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	395;"	d	line:395
+INT_TIMER1::0x9D01	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	396;"	d	line:396
+INT_TIMER2::0x9D02	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	397;"	d	line:397
+INT_TIMER3::0xA002	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	398;"	d	line:398
+INT_TIMER4::0xA308	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	415;"	d	line:415
+IObuffer	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	49;"	m	line:49
+InitFAT	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	81;"	p	line:81	signature:()
+Init_MMC	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	11;"	p	line:11	signature:(int max_tries)
+JumpCode	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	12;"	m	line:12	struct:_diskinforec
+KB_CENTER::0x04	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	45;"	d	line:45	file:
+KB_DOWN::0x02	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	44;"	d	line:44	file:
+KB_LEFT::0x08	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	46;"	d	line:46	file:
+KB_POWER::0x01	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	43;"	d	line:43	file:
+KB_RIGHT::0x10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	47;"	d	line:47	file:
+KB_UP::0x20	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	48;"	d	line:48	file:
+KEY_CENTER::PIN_B2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	22;"	d	line:22	file:
+KEY_DOWN::PIN_B1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	21;"	d	line:21	file:
+KEY_LEFT::PIN_B3	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	23;"	d	line:23	file:
+KEY_POWER::PIN_B0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	20;"	d	line:20	file:
+KEY_RIGHT::PIN_B4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	24;"	d	line:24	file:
+KEY_UP::PIN_B5	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	25;"	d	line:25	file:
+LCD_BKLT::PIN_G0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	10;"	d	line:10	file:
+LN10::2.30258509	C:\Program Files\PICC\Drivers\MATH.H	260;"	d	line:260
+LN2::0.6931471806	C:\Program Files\PICC\Drivers\MATH.H	145;"	d	line:145
+LOG2::.30102999566398119521	C:\Program Files\PICC\Drivers\MATH.H	707;"	d	line:707
+L_TO_H::0x40	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	390;"	d	line:390
+MATH_H	C:\Program Files\PICC\Drivers\MATH.H	21;"	d	line:21
+MAXFILES::1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	1;"	d	line:1
+MCLR_FROM_RUN::15	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	100;"	d	line:100
+MCLR_FROM_SLEEP::11	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	99;"	d	line:99
+MEM_CS::PIN_F6	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	13;"	d	line:13	file:
+MMCAddress	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	66;"	m	line:66
+MMC_INIT_IDLE_ERR::0x31	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	9;"	d	line:9
+MMC_INIT_RESET_ERR::0x30	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	8;"	d	line:8
+MMC_NO_ERR::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	1;"	d	line:1
+MMC_READ_GEN_ERR::0x10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	2;"	d	line:2
+MMC_READ_INVALID_ERR::0x11	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	3;"	d	line:3
+MMC_READ_TOKEN_ERR::0x12	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	4;"	d	line:4
+MMC_WRITE_GEN_ERR::0x20	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	5;"	d	line:5
+MMC_WRITE_INVALID_ERR::0x22	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	7;"	d	line:7
+MMC_WRITE_SEC0_ERR::0x21	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	6;"	d	line:6
+Media	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	20;"	m	line:20	struct:_diskinforec
+NC_NC_NC_NC::0x00ff07	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	301;"	d	line:301
+NORMAL_POWER_UP::12	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	101;"	d	line:101
+NO_ANALOGS::0x0F	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	355;"	d	line:355
+NULL::0	C:\Program Files\PICC\Drivers\STDDEF.H	23;"	d	line:23
+NumFATs	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	17;"	m	line:17	struct:_diskinforec
+NumHeads	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	23;"	m	line:23	struct:_diskinforec
+OEMName	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	13;"	m	line:13	struct:_diskinforec
+OSC_IDLE_ON_SLEEP::0x80	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	327;"	d	line:327
+OSC_INTRC::3	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	324;"	d	line:324
+OSC_NORMAL::2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	325;"	d	line:325
+OSC_PLL_OFF::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	323;"	d	line:323
+OSC_PLL_ON::0x4000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	322;"	d	line:322
+OSC_STATE_EXT_RUNNING::8	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	329;"	d	line:329
+OSC_TIMER1::1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	326;"	d	line:326
+PI	C:\Program Files\PICC\Drivers\MATH.H	24;"	d	line:24
+PI::3.141592654	C:\Program Files\PICC\Drivers\MATH.H	26;"	d	line:26
+PIN_A0::31744	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	20;"	d	line:20
+PIN_A1::31745	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	21;"	d	line:21
+PIN_A2::31746	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	22;"	d	line:22
+PIN_A3::31747	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	23;"	d	line:23
+PIN_A4::31748	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	24;"	d	line:24
+PIN_A5::31749	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	25;"	d	line:25
+PIN_B0::31752	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	27;"	d	line:27
+PIN_B1::31753	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	28;"	d	line:28
+PIN_B2::31754	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	29;"	d	line:29
+PIN_B3::31755	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	30;"	d	line:30
+PIN_B4::31756	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	31;"	d	line:31
+PIN_B5::31757	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	32;"	d	line:32
+PIN_B6::31758	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	33;"	d	line:33
+PIN_B7::31759	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	34;"	d	line:34
+PIN_C0::31760	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	36;"	d	line:36
+PIN_C1::31761	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	37;"	d	line:37
+PIN_C2::31762	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	38;"	d	line:38
+PIN_C3::31763	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	39;"	d	line:39
+PIN_C4::31764	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	40;"	d	line:40
+PIN_C5::31765	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	41;"	d	line:41
+PIN_C6::31766	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	42;"	d	line:42
+PIN_C7::31767	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	43;"	d	line:43
+PIN_D0::31768	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	45;"	d	line:45
+PIN_D1::31769	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	46;"	d	line:46
+PIN_D2::31770	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	47;"	d	line:47
+PIN_D3::31771	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	48;"	d	line:48
+PIN_D4::31772	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	49;"	d	line:49
+PIN_D5::31773	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	50;"	d	line:50
+PIN_D6::31774	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	51;"	d	line:51
+PIN_D7::31775	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	52;"	d	line:52
+PIN_E0::31776	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	54;"	d	line:54
+PIN_E1::31777	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	55;"	d	line:55
+PIN_E2::31778	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	56;"	d	line:56
+PIN_E3::31779	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	57;"	d	line:57
+PIN_E4::31780	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	58;"	d	line:58
+PIN_E5::31781	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	59;"	d	line:59
+PIN_E6::31782	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	60;"	d	line:60
+PIN_E7::31783	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	61;"	d	line:61
+PIN_F1::31785	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	63;"	d	line:63
+PIN_F2::31786	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	64;"	d	line:64
+PIN_F3::31787	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	65;"	d	line:65
+PIN_F4::31788	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	66;"	d	line:66
+PIN_F5::31789	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	67;"	d	line:67
+PIN_F6::31790	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	68;"	d	line:68
+PIN_F7::31791	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	69;"	d	line:69
+PIN_G0::31792	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	71;"	d	line:71
+PIN_G1::31793	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	72;"	d	line:72
+PIN_G2::31794	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	73;"	d	line:73
+PIN_G3::31795	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	74;"	d	line:74
+PIN_G4::31796	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	75;"	d	line:75
+PIN_G6::31798	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	76;"	d	line:76
+PIN_G7::31799	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	77;"	d	line:77
+PI_DIV_BY_TWO	C:\Program Files\PICC\Drivers\MATH.H	363;"	d	line:363
+PI_DIV_BY_TWO::1.570796326794896	C:\Program Files\PICC\Drivers\MATH.H	365;"	d	line:365
+POWER_OFF::PIN_F2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	15;"	d	line:15	file:
+PSP_DISABLED::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	265;"	d	line:265
+PSP_ENABLED::0x10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	264;"	d	line:264
+RAND_MAX::32767	C:\Program Files\PICC\Drivers\stdlib.h	19;"	d	line:19
+RB_isr	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	97;"	f	line:97
+RDA2_isr	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	120;"	f	line:120
+RESET_INSTRUCTION::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	104;"	d	line:104
+RTCC_8_BIT::0x40	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	127;"	d	line:127
+RTCC_DIV_128::6	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	122;"	d	line:122
+RTCC_DIV_16::3	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	119;"	d	line:119
+RTCC_DIV_1::8	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	115;"	d	line:115
+RTCC_DIV_256::7	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	123;"	d	line:123
+RTCC_DIV_2::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	116;"	d	line:116
+RTCC_DIV_32::4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	120;"	d	line:120
+RTCC_DIV_4::1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	117;"	d	line:117
+RTCC_DIV_64::5	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	121;"	d	line:121
+RTCC_DIV_8::2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	118;"	d	line:118
+RTCC_EXT_H_TO_L::48	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	113;"	d	line:113
+RTCC_EXT_L_TO_H::32	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	112;"	d	line:112
+RTCC_INTERNAL::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	111;"	d	line:111
+RTCC_OFF::0x80	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	125;"	d	line:125
+ReadSector	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	12;"	p	line:12	signature:(int32 sector, char *buff)
+ReadSensors	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	179;"	f	line:179
+RootClus	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	31;"	m	line:31	struct:_diskinforec
+RootEntCnt	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	18;"	m	line:18	struct:_diskinforec
+RsvdSecCnt	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	16;"	m	line:16	struct:_diskinforec
+SD_CS::PIN_C2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	26;"	d	line:26	file:
+SD_DETECT::PIN_D4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	18;"	d	line:18	file:
+SD_PWR::PIN_D7	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	19;"	d	line:19	file:
+SENSOR_ENX::PIN_F7	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	11;"	d	line:11	file:
+SPI_CLK_DIV_16::1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	277;"	d	line:277
+SPI_CLK_DIV_4::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	276;"	d	line:276
+SPI_CLK_DIV_64::2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	278;"	d	line:278
+SPI_CLK_T2::3	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	279;"	d	line:279
+SPI_H_TO_L::0x10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	275;"	d	line:275
+SPI_L_TO_H::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	274;"	d	line:274
+SPI_MASTER::0x20	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	272;"	d	line:272
+SPI_SAMPLE_AT_END::0x8000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	282;"	d	line:282
+SPI_SLAVE::0x24	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	273;"	d	line:273
+SPI_SS_DISABLED::1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	280;"	d	line:280
+SPI_XMIT_L_TO_H::0x4000	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	283;"	d	line:283
+SQRT2::1.41421356	C:\Program Files\PICC\Drivers\MATH.H	29;"	d	line:29
+SecInCluster	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	55;"	m	line:55
+SecPerClus	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	15;"	m	line:15	struct:_diskinforec
+SecPerTrk	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	22;"	m	line:22	struct:_diskinforec
+T1_CLK_OUT::8	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	149;"	d	line:149
+T1_DISABLED::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	144;"	d	line:144
+T1_DIV_BY_1::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	151;"	d	line:151
+T1_DIV_BY_2::0x10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	152;"	d	line:152
+T1_DIV_BY_4::0x20	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	153;"	d	line:153
+T1_DIV_BY_8::0x30	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	154;"	d	line:154
+T1_EXTERNAL::0x87	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	146;"	d	line:146
+T1_EXTERNAL_SYNC::0x83	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	147;"	d	line:147
+T1_INTERNAL::0x85	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	145;"	d	line:145
+T2_DISABLED::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	159;"	d	line:159
+T2_DIV_BY_16::6	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	162;"	d	line:162
+T2_DIV_BY_1::4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	160;"	d	line:160
+T2_DIV_BY_4::5	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	161;"	d	line:161
+T3_CCP1_TO_5::0x48	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	255;"	d	line:255
+T3_CCP2_TO_5::0x8	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	256;"	d	line:256
+T3_CCP3_TO_5::0x40	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	257;"	d	line:257
+T3_DISABLED::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	168;"	d	line:168
+T3_DIV_BY_1::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	173;"	d	line:173
+T3_DIV_BY_2::0x10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	174;"	d	line:174
+T3_DIV_BY_4::0x20	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	175;"	d	line:175
+T3_DIV_BY_8::0x30	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	176;"	d	line:176
+T3_EXTERNAL::0x87	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	170;"	d	line:170
+T3_EXTERNAL_SYNC::0x83	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	171;"	d	line:171
+T3_INTERNAL::0x85	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	169;"	d	line:169
+T4_DISABLED::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	181;"	d	line:181
+T4_DIV_BY_16::6	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	184;"	d	line:184
+T4_DIV_BY_1::4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	182;"	d	line:182
+T4_DIV_BY_4::5	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	183;"	d	line:183
+TIMER0_isr	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	147;"	f	line:147
+TRACE0::(format)	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	40;"	d	line:40
+TRACE0::(format)fprintf(debug,format)	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	34;"	d	line:34
+TRACE1::(format,arg1)	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	41;"	d	line:41
+TRACE1::(format,arg1)fprintf(debug,for	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	35;"	d	line:35
+TRACE2::(format,arg1,arg2)	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	42;"	d	line:42
+TRACE2::(format,arg1,arg2)fprintf(debu	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	36;"	d	line:36
+TRACE3::(format,arg1,arg2,arg3)	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	43;"	d	line:43
+TRACE3::(format,arg1,arg2,arg3)fprintf	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	37;"	d	line:37
+TRACE4::(format,arg1,arg2,arg3,arg4)	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	44;"	d	line:44
+TRACE4::(format,arg1,arg2,arg3,arg4)fp	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.h	38;"	d	line:38
+TRUE::1	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	81;"	d	line:81
+TWOBYPI	C:\Program Files\PICC\Drivers\MATH.H	367;"	d	line:367
+TWOBYPI::0.6366197724	C:\Program Files\PICC\Drivers\MATH.H	368;"	d	line:368
+TotSec16	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	19;"	m	line:19	struct:_diskinforec
+TotSec32	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	26;"	m	line:26	struct:_diskinforec
+UART_ADDRESS::2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	289;"	d	line:289
+UART_AUTODETECT::8	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	291;"	d	line:291
+UART_AUTODETECT_NOWAIT::9	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	292;"	d	line:292
+UART_DATA::4	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	290;"	d	line:290
+UART_SEND_BREAK::13	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	294;"	d	line:294
+UART_WAKEUP_ON_RDA::10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	293;"	d	line:293
+VREF_COMP::0x10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	317;"	d	line:317
+VREF_F5::0x40	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	316;"	d	line:316
+VREF_HIGH::0x80	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	314;"	d	line:314
+VREF_LOW::0xa0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	313;"	d	line:313
+VREF_VDD::0x20	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	374;"	d	line:374
+VREF_VREF::0x30	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	373;"	d	line:373
+VSS_VDD::0x00	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	372;"	d	line:372
+VSS_VREF::0x10	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	375;"	d	line:375
+WDT_FROM_SLEEP::3	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	103;"	d	line:103
+WDT_OFF::0	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	138;"	d	line:138
+WDT_ON::0x100	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	137;"	d	line:137
+WDT_TIMEOUT::7	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	98;"	d	line:98
+WriteSector	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MMC.h	13;"	p	line:13	signature:(int32 sector, char *buff)
+_CTYPE	C:\Program Files\PICC\Drivers\CTYPE.H	12;"	d	line:12
+_Cmpfun	C:\Program Files\PICC\Drivers\stdlib.h	831;"	t	line:831
+_Randseed	C:\Program Files\PICC\Drivers\stdlib.h	814;"	v	line:814
+_STDDEF	C:\Program Files\PICC\Drivers\STDDEF.H	13;"	d	line:13
+_STDLIB	C:\Program Files\PICC\Drivers\stdlib.h	12;"	d	line:12
+_STRING	C:\Program Files\PICC\Drivers\STRING.H	12;"	d	line:12
+_direntry	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	34;"	s	line:34
+_diskinforec	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	10;"	s	line:10
+acos	C:\Program Files\PICC\Drivers\MATH.H	516;"	f	line:516	signature:(float x)
+asin	C:\Program Files\PICC\Drivers\MATH.H	501;"	f	line:501	signature:(float x)
+atan	C:\Program Files\PICC\Drivers\MATH.H	533;"	f	line:533	signature:(float x)
+atan2	C:\Program Files\PICC\Drivers\MATH.H	583;"	f	line:583	signature:(float y,float x)
+atoe	C:\Program Files\PICC\Drivers\stdlib.h	277;"	f	line:277	signature:(char * s)
+atoe	C:\Program Files\PICC\Drivers\stdlib.h	57;"	p	line:57	signature:(char * s)
+atof	C:\Program Files\PICC\Drivers\stdlib.h	238;"	f	line:238	signature:(char * s)
+atof	C:\Program Files\PICC\Drivers\stdlib.h	50;"	p	line:50	signature:(char * s)
+atoi	C:\Program Files\PICC\Drivers\stdlib.h	344;"	f	line:344	signature:(char *s)
+atoi	C:\Program Files\PICC\Drivers\stdlib.h	63;"	p	line:63	signature:(char *s)
+atoi32	C:\Program Files\PICC\Drivers\stdlib.h	485;"	f	line:485	signature:(char *s)
+atoi32	C:\Program Files\PICC\Drivers\stdlib.h	68;"	p	line:68	signature:(char *s)
+atol	C:\Program Files\PICC\Drivers\stdlib.h	413;"	f	line:413	signature:(char *s)
+atol	C:\Program Files\PICC\Drivers\stdlib.h	79;"	p	line:79	signature:(char *s)
+bAttr	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	38;"	m	line:38	struct:_direntry
+bFATModified	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	76;"	m	line:76
+bReserved	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	39;"	m	line:39	struct:_direntry
+bSDReady	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	327;"	l	line:327
+base	C:\Program Files\PICC\Drivers\stdlib.h	347;"	l	line:347
+base	C:\Program Files\PICC\Drivers\stdlib.h	416;"	l	line:416
+base	C:\Program Files\PICC\Drivers\stdlib.h	488;"	l	line:488
+beg	C:\Program Files\PICC\Drivers\STRING.H	330;"	l	line:330
+bsearch	C:\Program Files\PICC\Drivers\stdlib.h	861;"	f	line:861	signature:(char *key, char *base, size_t num, size_t width,_Cmpfun cmp)
+c	C:\Program Files\PICC\Drivers\MATH.H	434;"	l	line:434
+c	C:\Program Files\PICC\Drivers\stdlib.h	243;"	l	line:243
+c	C:\Program Files\PICC\Drivers\stdlib.h	283;"	l	line:283
+c	C:\Program Files\PICC\Drivers\stdlib.h	348;"	l	line:348
+c	C:\Program Files\PICC\Drivers\stdlib.h	417;"	l	line:417
+c	C:\Program Files\PICC\Drivers\stdlib.h	489;"	l	line:489
+c	C:\Program Files\PICC\Drivers\stdlib.h	554;"	l	line:554
+c	C:\Program Files\PICC\Drivers\stdlib.h	591;"	l	line:591
+ceil	C:\Program Files\PICC\Drivers\MATH.H	101;"	f	line:101	signature:(float x)
+ch	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	122;"	l	line:122
+charMap8x14	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\ascii.h	1;"	v	line:1
+cnt	C:\Program Files\PICC\Drivers\stdlib.h	553;"	l	line:553
+cos	C:\Program Files\PICC\Drivers\MATH.H	376;"	f	line:376	signature:(float x)
+cosh	C:\Program Files\PICC\Drivers\MATH.H	662;"	f	line:662	signature:(float x)
+cwd	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	87;"	p	line:87	signature:(char *fname, HANDLE hFile)
+digits	C:\Program Files\PICC\Drivers\stdlib.h	656;"	l	line:656
+digits	C:\Program Files\PICC\Drivers\stdlib.h	718;"	l	line:718
+dirIdx	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	59;"	m	line:59
+dirSector	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	58;"	m	line:58
+diskinforec	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	32;"	t	line:32
+displayGPSSNR	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	266;"	f	line:266
+displayGPSSNRBar	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	234;"	f	line:234	signature:(int x, int y, int nSat)
+div	C:\Program Files\PICC\Drivers\stdlib.h	199;"	p	line:199	signature:(signed int numer,signed int denom)
+div	C:\Program Files\PICC\Drivers\stdlib.h	222;"	f	line:222	signature:(signed int numer,signed int denom)
+div_t	C:\Program Files\PICC\Drivers\stdlib.h	33;"	t	line:33
+done	C:\Program Files\PICC\Drivers\stdlib.h	835;"	l	line:835
+end	C:\Program Files\PICC\Drivers\STRING.H	330;"	l	line:330
+error	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	328;"	l	line:328
+exp	C:\Program Files\PICC\Drivers\MATH.H	156;"	f	line:156	signature:(float x)
+exp	C:\Program Files\PICC\Drivers\stdlib.h	286;"	l	line:286
+expcnt	C:\Program Files\PICC\Drivers\stdlib.h	287;"	l	line:287
+expsign	C:\Program Files\PICC\Drivers\stdlib.h	282;"	l	line:282
+fBatteryVoltage	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	219;"	v	line:219
+fSCPAltitude	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	218;"	v	line:218
+fSCPPressure	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	217;"	v	line:217
+fSCPTemperature	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	217;"	v	line:217
+fStandardPressure	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	35;"	v	line:35
+fTemp	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	325;"	l	line:325
+fVLDO	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	33;"	v	line:33
+fabs::abs	C:\Program Files\PICC\Drivers\MATH.H	113;"	d	line:113
+fclose	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	85;"	p	line:85	signature:(HANDLE hFile)
+fflush	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	86;"	p	line:86	signature:(HANDLE hFile)
+fgetc::getch	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	87;"	d	line:87
+fgetch	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	90;"	p	line:90	signature:(char *ch, HANDLE hFile)
+fgets::gets	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	91;"	d	line:91
+flag	C:\Program Files\PICC\Drivers\MATH.H	536;"	l	line:536
+floor	C:\Program Files\PICC\Drivers\MATH.H	90;"	f	line:90	signature:(float x)
+fmod	C:\Program Files\PICC\Drivers\MATH.H	125;"	f	line:125	signature:(float x,float y)
+fopen	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	84;"	p	line:84	signature:(char *fname, char mode)
+fputc::putchar	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	90;"	d	line:90
+fputch	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	88;"	p	line:88	signature:(char ch, HANDLE hFile)
+fputchar	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	89;"	f	line:89	signature:(char ch)
+fputs::puts	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	92;"	d	line:92
+fputstring	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	91;"	p	line:91	signature:(char *str, HANDLE hFile)
+frac	C:\Program Files\PICC\Drivers\MATH.H	380;"	l	line:380
+fread	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	92;"	p	line:92	signature:(char *buffer, int16 leng, HANDLE hFile)
+frexp	C:\Program Files\PICC\Drivers\MATH.H	708;"	f	line:708	signature:(float x, signed int *exp)
+fwrite	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	93;"	p	line:93	signature:(char *buffer, int16 leng, HANDLE hFile)
+gActCard	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	208;"	v	line:208
+gDirEntryIdx	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	70;"	m	line:70
+gDirEntrySector	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	71;"	m	line:71
+gFirstDataSector	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	69;"	m	line:69
+gFirstDirEntryCluster	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	73;"	m	line:73
+gFirstEmptyDirEntry	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	72;"	m	line:72
+gPrevCard	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	208;"	v	line:208
+gStartSector	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	68;"	m	line:68
+g_bBKLight	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	50;"	v	line:50
+g_nKeyNewState	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	42;"	v	line:42
+g_nPwrBtnHoldTick	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	54;"	v	line:54
+g_nTimerTick	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	53;"	v	line:53
+getc::getch	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	86;"	d	line:86
+getchar::getch	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	88;"	d	line:88
+getfsize	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	95;"	p	line:95	signature:(char *fname, int32 *fsiz)
+gfilename	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	8;"	v	line:8
+hCluster	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	43;"	m	line:43	struct:_direntry
+hClusterH	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	40;"	m	line:40	struct:_direntry
+hDate	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	42;"	m	line:42	struct:_direntry
+hFile	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	7;"	v	line:7
+hTime	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	41;"	m	line:41	struct:_direntry
+i	C:\Program Files\PICC\Drivers\MATH.H	127;"	l	line:127
+i	C:\Program Files\PICC\Drivers\MATH.H	379;"	l	line:379
+i	C:\Program Files\PICC\Drivers\stdlib.h	285;"	l	line:285
+i	C:\Program Files\PICC\Drivers\stdlib.h	553;"	l	line:553
+i	C:\Program Files\PICC\Drivers\stdlib.h	834;"	l	line:834
+i	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	268;"	l	line:268
+i	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	322;"	l	line:322
+index	C:\Program Files\PICC\Drivers\stdlib.h	347;"	l	line:347
+index	C:\Program Files\PICC\Drivers\stdlib.h	416;"	l	line:416
+index	C:\Program Files\PICC\Drivers\stdlib.h	488;"	l	line:488
+isalnum::(x)isamong(x,"0123456789ABCDEF	C:\Program Files\PICC\Drivers\CTYPE.H	16;"	d	line:16
+isalpha::(x)isamong(x,"ABCDEFGHIJKLMNOP	C:\Program Files\PICC\Drivers\CTYPE.H	17;"	d	line:17
+iscntrl::(x)((x)<'')	C:\Program Files\PICC\Drivers\CTYPE.H	21;"	d	line:21
+isdigit::(x)isamong(x,"0123456789")	C:\Program Files\PICC\Drivers\CTYPE.H	18;"	d	line:18
+isgraph::(x)((x)>'')	C:\Program Files\PICC\Drivers\CTYPE.H	23;"	d	line:23
+islower::(x)isamong(x,"abcdefghijklmnop	C:\Program Files\PICC\Drivers\CTYPE.H	14;"	d	line:14
+isprint::(x)((x)>='')	C:\Program Files\PICC\Drivers\CTYPE.H	22;"	d	line:22
+ispunct::(x)(((x)>'')&&!isalnum(x))	C:\Program Files\PICC\Drivers\CTYPE.H	24;"	d	line:24
+isspace::(x)((x)=='')	C:\Program Files\PICC\Drivers\CTYPE.H	19;"	d	line:19
+isupper::(x)isamong(x,"ABCDEFGHIJKLMNOP	C:\Program Files\PICC\Drivers\CTYPE.H	15;"	d	line:15
+isxdigit::(x)isamong(x,"0123456789ABCDEF	C:\Program Files\PICC\Drivers\CTYPE.H	20;"	d	line:20
+itoa	C:\Program Files\PICC\Drivers\stdlib.h	550;"	f	line:550	signature:(signed int32 num, int8 base, char *s)
+itoa	C:\Program Files\PICC\Drivers\stdlib.h	73;"	p	line:73	signature:(signed int32 num, int8 base, char * s)
+j	C:\Program Files\PICC\Drivers\stdlib.h	834;"	l	line:834
+l	C:\Program Files\PICC\Drivers\MATH.H	39;"	l	line:39
+l	C:\Program Files\PICC\Drivers\stdlib.h	834;"	l	line:834
+labs::abs	C:\Program Files\PICC\Drivers\stdlib.h	197;"	d	line:197
+ldexp	C:\Program Files\PICC\Drivers\MATH.H	760;"	f	line:760	signature:(float value, signed int exp)
+ldiv	C:\Program Files\PICC\Drivers\stdlib.h	200;"	p	line:200	signature:(signed long numer,signed long denom)
+ldiv	C:\Program Files\PICC\Drivers\stdlib.h	230;"	f	line:230	signature:(signed long numer,signed long denom)
+ldiv_t	C:\Program Files\PICC\Drivers\stdlib.h	38;"	t	line:38
+log	C:\Program Files\PICC\Drivers\MATH.H	208;"	f	line:208	signature:(float x)
+log10	C:\Program Files\PICC\Drivers\MATH.H	268;"	f	line:268	signature:(float x)
+m	C:\Program Files\PICC\Drivers\stdlib.h	834;"	l	line:834
+main	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	320;"	f	line:320
+mblen	C:\Program Files\PICC\Drivers\stdlib.h	781;"	f	line:781	signature:(char *s,size_t n)
+mbstowcs	C:\Program Files\PICC\Drivers\stdlib.h	798;"	f	line:798	signature:(wchar_t *pwcs,char *s,size_t n)
+mbtowc	C:\Program Files\PICC\Drivers\stdlib.h	786;"	f	line:786	signature:(wchar_t *pwc,char *s,size_t n)
+memchr	C:\Program Files\PICC\Drivers\STRING.H	199;"	f	line:199	signature:(void *s,int c,size_t n)
+memcmp	C:\Program Files\PICC\Drivers\STRING.H	128;"	f	line:128	signature:(void * s1,char *s2,size_t n)
+memmove	C:\Program Files\PICC\Drivers\STRING.H	34;"	f	line:34	signature:(void *s1,char *s2,size_t n)
+mode	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	60;"	m	line:60
+modf	C:\Program Files\PICC\Drivers\MATH.H	287;"	f	line:287	signature:(float value,float *iptr)
+mult_with10	C:\Program Files\PICC\Drivers\stdlib.h	480;"	f	line:480	signature:(int32 num)
+n	C:\Program Files\PICC\Drivers\MATH.H	159;"	l	line:159
+n	C:\Program Files\PICC\Drivers\MATH.H	212;"	l	line:212
+n	C:\Program Files\PICC\Drivers\stdlib.h	864;"	l	line:864
+n1	C:\Program Files\PICC\Drivers\STRING.H	180;"	l	line:180
+nBTBufferLen	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	117;"	v	line:117
+nFatSize	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	75;"	m	line:75
+nHMCA	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	176;"	v	line:176
+nHMCB	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	176;"	v	line:176
+nLEDTimer	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	51;"	v	line:51
+nOrgSNR	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	236;"	l	line:236
+nPressure	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	324;"	l	line:324
+nReceived2	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	115;"	v	line:115
+nRootDirSectors	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	74;"	m	line:74
+nSCPPressure	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	216;"	v	line:216
+nSCPStatus	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	215;"	v	line:215
+nSCPTemperature	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	216;"	v	line:216
+nSNR	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	236;"	l	line:236
+nSNRColor	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	237;"	l	line:237
+nSampleTimer	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	52;"	v	line:52
+nTemp	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	223;"	l	line:223
+nTemp	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	323;"	l	line:323
+nTick	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	326;"	l	line:326
+nTotalValidSat	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	268;"	l	line:268
+offsetof::(s,f)(offsetofbit(s,f)/8)	C:\Program Files\PICC\Drivers\STDDEF.H	25;"	d	line:25
+p	C:\Program Files\PICC\Drivers\MATH.H	334;"	l	line:334
+p	C:\Program Files\PICC\Drivers\MATH.H	381;"	l	line:381
+p	C:\Program Files\PICC\Drivers\STRING.H	257;"	l	line:257
+p	C:\Program Files\PICC\Drivers\STRING.H	404;"	l	line:404
+p	C:\Program Files\PICC\Drivers\stdlib.h	863;"	l	line:863
+pas	C:\Program Files\PICC\Drivers\MATH.H	446;"	v	line:446
+pat	C:\Program Files\PICC\Drivers\MATH.H	524;"	v	line:524
+pe	C:\Program Files\PICC\Drivers\MATH.H	147;"	v	line:147
+pivot	C:\Program Files\PICC\Drivers\stdlib.h	865;"	l	line:865
+pl	C:\Program Files\PICC\Drivers\MATH.H	199;"	v	line:199
+point	C:\Program Files\PICC\Drivers\stdlib.h	590;"	l	line:590
+posinsector	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	56;"	m	line:56
+pow	C:\Program Files\PICC\Drivers\MATH.H	317;"	f	line:317	signature:(float x,float y)
+pow10	C:\Program Files\PICC\Drivers\stdlib.h	240;"	l	line:240
+pow10	C:\Program Files\PICC\Drivers\stdlib.h	279;"	l	line:279
+pow10	C:\Program Files\PICC\Drivers\stdlib.h	588;"	l	line:588
+ptr	C:\Program Files\PICC\Drivers\stdlib.h	244;"	l	line:244
+ptr	C:\Program Files\PICC\Drivers\stdlib.h	284;"	l	line:284
+ptr	C:\Program Files\PICC\Drivers\stdlib.h	592;"	l	line:592
+ptrdiff_t::int	C:\Program Files\PICC\Drivers\STDDEF.H	16;"	d	line:16
+ptrdiff_t::long	C:\Program Files\PICC\Drivers\STDDEF.H	18;"	d	line:18
+putc::putchar	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\18F67J50.h	89;"	d	line:89
+pwr	C:\Program Files\PICC\Drivers\MATH.H	300;"	f	line:300	signature:(float x,float y)
+q	C:\Program Files\PICC\Drivers\stdlib.h	863;"	l	line:863
+qas	C:\Program Files\PICC\Drivers\MATH.H	447;"	v	line:447
+qat	C:\Program Files\PICC\Drivers\MATH.H	525;"	v	line:525
+ql	C:\Program Files\PICC\Drivers\MATH.H	200;"	v	line:200
+qsort	C:\Program Files\PICC\Drivers\stdlib.h	833;"	f	line:833	signature:(char * qdata, int qitems, int qsize, _Cmpfun cmp)
+quad	C:\Program Files\PICC\Drivers\MATH.H	379;"	l	line:379
+quad	C:\Program Files\PICC\Drivers\MATH.H	587;"	l	line:587
+quot	C:\Program Files\PICC\Drivers\stdlib.h	31;"	m	line:31
+quot	C:\Program Files\PICC\Drivers\stdlib.h	36;"	m	line:36
+r	C:\Program Files\PICC\Drivers\MATH.H	158;"	l	line:158
+r	C:\Program Files\PICC\Drivers\MATH.H	210;"	l	line:210
+r	C:\Program Files\PICC\Drivers\MATH.H	270;"	l	line:270
+r	C:\Program Files\PICC\Drivers\MATH.H	451;"	l	line:451
+r	C:\Program Files\PICC\Drivers\MATH.H	503;"	l	line:503
+r	C:\Program Files\PICC\Drivers\MATH.H	518;"	l	line:518
+r	C:\Program Files\PICC\Drivers\MATH.H	535;"	l	line:535
+rand	C:\Program Files\PICC\Drivers\stdlib.h	117;"	p	line:117	signature:(void)
+rand	C:\Program Files\PICC\Drivers\stdlib.h	816;"	f	line:816	signature:(void)
+realtimeProcess	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	311;"	f	line:311
+realtimeProcess	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	58;"	p	line:58	file:
+rem	C:\Program Files\PICC\Drivers\stdlib.h	32;"	m	line:32
+rem	C:\Program Files\PICC\Drivers\stdlib.h	37;"	m	line:37
+remove	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	94;"	p	line:94	signature:(char *fname)
+res	C:\Program Files\PICC\Drivers\MATH.H	158;"	l	line:158
+res	C:\Program Files\PICC\Drivers\MATH.H	210;"	l	line:210
+res	C:\Program Files\PICC\Drivers\MATH.H	333;"	l	line:333
+res	C:\Program Files\PICC\Drivers\MATH.H	38;"	l	line:38
+res	C:\Program Files\PICC\Drivers\MATH.H	451;"	l	line:451
+res	C:\Program Files\PICC\Drivers\MATH.H	535;"	l	line:535
+res	C:\Program Files\PICC\Drivers\MATH.H	710;"	l	line:710
+result	C:\Program Files\PICC\Drivers\stdlib.h	241;"	l	line:241
+result	C:\Program Files\PICC\Drivers\stdlib.h	280;"	l	line:280
+result	C:\Program Files\PICC\Drivers\stdlib.h	346;"	l	line:346
+result	C:\Program Files\PICC\Drivers\stdlib.h	415;"	l	line:415
+result	C:\Program Files\PICC\Drivers\stdlib.h	487;"	l	line:487
+result	C:\Program Files\PICC\Drivers\stdlib.h	589;"	l	line:589
+s	C:\Program Files\PICC\Drivers\MATH.H	160;"	l	line:160
+s	C:\Program Files\PICC\Drivers\MATH.H	40;"	l	line:40
+s	C:\Program Files\PICC\Drivers\MATH.H	434;"	l	line:434
+s	C:\Program Files\PICC\Drivers\MATH.H	452;"	l	line:452
+s	C:\Program Files\PICC\Drivers\MATH.H	536;"	l	line:536
+s	C:\Program Files\PICC\Drivers\STRING.H	106;"	l	line:106
+s	C:\Program Files\PICC\Drivers\STRING.H	179;"	l	line:179
+s	C:\Program Files\PICC\Drivers\STRING.H	291;"	l	line:291
+s	C:\Program Files\PICC\Drivers\STRING.H	359;"	l	line:359
+s	C:\Program Files\PICC\Drivers\STRING.H	55;"	l	line:55
+s	C:\Program Files\PICC\Drivers\STRING.H	71;"	l	line:71
+s	C:\Program Files\PICC\Drivers\STRING.H	88;"	l	line:88
+s1	C:\Program Files\PICC\Drivers\stdlib.h	653;"	l	line:653
+s1	C:\Program Files\PICC\Drivers\stdlib.h	715;"	l	line:715
+sBTBuffer	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	116;"	v	line:116
+sCmdBTAUT	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	112;"	v	line:112
+sCmdBTLNM	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	110;"	v	line:110
+sCmdBTSRV	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	111;"	v	line:111
+sExt	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	37;"	m	line:37	struct:_direntry
+sName	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	36;"	m	line:36	struct:_direntry
+save	C:\Program Files\PICC\Drivers\STRING.H	331;"	l	line:331
+sc	C:\Program Files\PICC\Drivers\STRING.H	379;"	l	line:379
+sc	C:\Program Files\PICC\Drivers\stdlib.h	653;"	l	line:653
+sc	C:\Program Files\PICC\Drivers\stdlib.h	715;"	l	line:715
+sc1	C:\Program Files\PICC\Drivers\STRING.H	227;"	l	line:227
+sc1	C:\Program Files\PICC\Drivers\STRING.H	242;"	l	line:242
+sc1	C:\Program Files\PICC\Drivers\STRING.H	272;"	l	line:272
+sc1	C:\Program Files\PICC\Drivers\STRING.H	36;"	l	line:36
+sc2	C:\Program Files\PICC\Drivers\STRING.H	227;"	l	line:227
+sc2	C:\Program Files\PICC\Drivers\STRING.H	242;"	l	line:242
+sc2	C:\Program Files\PICC\Drivers\STRING.H	272;"	l	line:272
+sc2	C:\Program Files\PICC\Drivers\STRING.H	37;"	l	line:37
+sd	C:\Program Files\PICC\Drivers\stdlib.h	653;"	l	line:653
+sd	C:\Program Files\PICC\Drivers\stdlib.h	715;"	l	line:715
+senseBattery	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	178;"	p	line:178	file:
+senseBattery	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	221;"	f	line:221
+sign	C:\Program Files\PICC\Drivers\MATH.H	586;"	l	line:586
+sign	C:\Program Files\PICC\Drivers\MATH.H	711;"	l	line:711
+sign	C:\Program Files\PICC\Drivers\stdlib.h	242;"	l	line:242
+sign	C:\Program Files\PICC\Drivers\stdlib.h	281;"	l	line:281
+sign	C:\Program Files\PICC\Drivers\stdlib.h	347;"	l	line:347
+sign	C:\Program Files\PICC\Drivers\stdlib.h	416;"	l	line:416
+sign	C:\Program Files\PICC\Drivers\stdlib.h	488;"	l	line:488
+sign	C:\Program Files\PICC\Drivers\stdlib.h	553;"	l	line:553
+sign	C:\Program Files\PICC\Drivers\stdlib.h	590;"	l	line:590
+sign	C:\Program Files\PICC\Drivers\stdlib.h	655;"	l	line:655
+sign	C:\Program Files\PICC\Drivers\stdlib.h	717;"	l	line:717
+sin	C:\Program Files\PICC\Drivers\MATH.H	421;"	f	line:421	signature:(float x)
+sinh	C:\Program Files\PICC\Drivers\MATH.H	675;"	f	line:675	signature:(float x)
+size_t::int	C:\Program Files\PICC\Drivers\STDDEF.H	21;"	d	line:21
+sqrt	C:\Program Files\PICC\Drivers\MATH.H	331;"	f	line:331	signature:(float x)
+srand	C:\Program Files\PICC\Drivers\stdlib.h	139;"	p	line:139	signature:(unsigned int32 seed)
+srand	C:\Program Files\PICC\Drivers\stdlib.h	822;"	f	line:822	signature:(unsigned int32 seed)
+strcat	C:\Program Files\PICC\Drivers\STRING.H	86;"	f	line:86	signature:(char *s1, char *s2)
+strchr	C:\Program Files\PICC\Drivers\STRING.H	213;"	f	line:213	signature:(char *s, int c)
+strcmp	C:\Program Files\PICC\Drivers\STRING.H	142;"	f	line:142	signature:(char *s1, char *s2)
+strcoll	C:\Program Files\PICC\Drivers\STRING.H	152;"	f	line:152	signature:(char *s1, char *s2)
+strcopy	C:\Program Files\PICC\Drivers\STRING.H	53;"	f	line:53	signature:(char *s1, char *s2)
+strcspn	C:\Program Files\PICC\Drivers\STRING.H	225;"	f	line:225	signature:(char *s1, char *s2)
+strerror	C:\Program Files\PICC\Drivers\STRING.H	357;"	f	line:357	signature:(int errnum)
+stricmp	C:\Program Files\PICC\Drivers\STRING.H	388;"	f	line:388	signature:(char *s1, char *s2)
+strlen	C:\Program Files\PICC\Drivers\STRING.H	377;"	f	line:377	signature:(char *s)
+strlwr	C:\Program Files\PICC\Drivers\STRING.H	402;"	f	line:402	signature:(char *s)
+strncat	C:\Program Files\PICC\Drivers\STRING.H	104;"	f	line:104	signature:(char *s1, char *s2, size_t n)
+strncmp	C:\Program Files\PICC\Drivers\STRING.H	165;"	f	line:165	signature:(char *s1, char *s2, size_t n)
+strncpy	C:\Program Files\PICC\Drivers\STRING.H	69;"	f	line:69	signature:(char *s1, char *s2, size_t n)
+strpbrk	C:\Program Files\PICC\Drivers\STRING.H	240;"	f	line:240	signature:(char *s1, char *s2)
+strrchr	C:\Program Files\PICC\Drivers\STRING.H	255;"	f	line:255	signature:(char *s, int c)
+strspn	C:\Program Files\PICC\Drivers\STRING.H	270;"	f	line:270	signature:(char *s1, char *s2)
+strstr	C:\Program Files\PICC\Drivers\STRING.H	289;"	f	line:289	signature:(char *s1, char *s2)
+strtod	C:\Program Files\PICC\Drivers\stdlib.h	587;"	f	line:587	signature:(char *s,char *endptr)
+strtod	C:\Program Files\PICC\Drivers\stdlib.h	86;"	p	line:86	signature:(char *s,char *endptr)
+strtok	C:\Program Files\PICC\Drivers\STRING.H	328;"	f	line:328	signature:(char *s1, char *s2)
+strtol	C:\Program Files\PICC\Drivers\stdlib.h	713;"	f	line:713	signature:(char *s,char *endptr,signed int base)
+strtol	C:\Program Files\PICC\Drivers\stdlib.h	94;"	p	line:94	signature:(char *s,char *endptr,signed int base)
+strtoul	C:\Program Files\PICC\Drivers\stdlib.h	102;"	p	line:102	signature:(char *s,char *endptr,signed int base)
+strtoul	C:\Program Files\PICC\Drivers\stdlib.h	651;"	f	line:651	signature:(char *s,char *endptr,signed int base)
+strxfrm	C:\Program Files\PICC\Drivers\STRING.H	177;"	f	line:177	signature:(char *s1, char *s2, size_t n)
+su	C:\Program Files\PICC\Drivers\STRING.H	202;"	l	line:202
+su1	C:\Program Files\PICC\Drivers\STRING.H	130;"	l	line:130
+su2	C:\Program Files\PICC\Drivers\STRING.H	130;"	l	line:130
+system	C:\Program Files\PICC\Drivers\stdlib.h	153;"	p	line:153	signature:(char *string)
+system	C:\Program Files\PICC\Drivers\stdlib.h	776;"	f	line:776	signature:(char *string)
+t	C:\Program Files\PICC\Drivers\MATH.H	378;"	l	line:378
+t	C:\Program Files\PICC\Drivers\STRING.H	291;"	l	line:291
+t	C:\Program Files\PICC\Drivers\stdlib.h	836;"	l	line:836
+t2	C:\Program Files\PICC\Drivers\MATH.H	378;"	l	line:378
+tan	C:\Program Files\PICC\Drivers\MATH.H	432;"	f	line:432	signature:(float x)
+tanh	C:\Program Files\PICC\Drivers\MATH.H	689;"	f	line:689	signature:(float x)
+temp	C:\Program Files\PICC\Drivers\stdlib.h	552;"	l	line:552
+uc	C:\Program Files\PICC\Drivers\STRING.H	201;"	l	line:201
+val	C:\Program Files\PICC\Drivers\stdlib.h	224;"	l	line:224
+val	C:\Program Files\PICC\Drivers\stdlib.h	232;"	l	line:232
+val	C:\Program Files\PICC\Drivers\stdlib.h	866;"	l	line:866
+wFileSize	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	57;"	m	line:57
+wSize	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\MyMMCFat32.h	44;"	m	line:44	struct:_direntry
+wchar_t::char	C:\Program Files\PICC\Drivers\STDDEF.H	22;"	d	line:22
+wcstombs	C:\Program Files\PICC\Drivers\stdlib.h	804;"	f	line:804	signature:(char *s,wchar_t *pwcs,size_t n)
+wctomb	C:\Program Files\PICC\Drivers\stdlib.h	792;"	f	line:792	signature:(char *s,wchar_t wchar)
+x	C:\Program Files\PICC\Drivers\stdlib.h	654;"	l	line:654
+x	C:\Program Files\PICC\Drivers\stdlib.h	716;"	l	line:716
+x	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	269;"	l	line:269
+y	C:\Program Files\PICC\Drivers\MATH.H	158;"	l	line:158
+y	C:\Program Files\PICC\Drivers\MATH.H	210;"	l	line:210
+y	C:\Program Files\PICC\Drivers\MATH.H	333;"	l	line:333
+y	C:\Program Files\PICC\Drivers\MATH.H	378;"	l	line:378
+y	C:\Program Files\PICC\Drivers\MATH.H	38;"	l	line:38
+y	C:\Program Files\PICC\Drivers\MATH.H	451;"	l	line:451
+y	C:\Program Files\PICC\Drivers\MATH.H	535;"	l	line:535
+y	C:\USERS\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c	269;"	l	line:269
+y2	C:\Program Files\PICC\Drivers\MATH.H	210;"	l	line:210
+y2	C:\Program Files\PICC\Drivers\MATH.H	451;"	l	line:451
+z	C:\Program Files\PICC\Drivers\MATH.H	585;"	l	line:585
