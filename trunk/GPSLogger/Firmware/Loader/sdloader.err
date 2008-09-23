@@ -1,0 +1,8 @@
+>>> Warning 203 "sdloader.c" Line 173(1,1): Condition always TRUE
+>>> Warning 203 "sdloader.c" Line 182(1,1): Condition always TRUE
+>>> Warning 203 "sdloader.c" Line 198(1,1): Condition always TRUE
+>>> Warning 203 "sdloader.c" Line 229(1,1): Condition always TRUE
+>>> Warning 203 "sdloader.c" Line 368(1,1): Condition always TRUE
+>>> Warning 202 "C:\Users\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.c" Line 34(6,14): Variable never used:   sFATName
+      Memory usage:   ROM=15%      RAM=73% - 76%
+      0 Errors,  6 Warnings.

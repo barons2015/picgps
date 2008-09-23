@@ -1,0 +1,586 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+ADC_CLOCK_DIV_16	C:\Program Files\PICC\Devices\18F67J10.h	337;"	d	line:337
+ADC_CLOCK_DIV_2	C:\Program Files\PICC\Devices\18F67J10.h	334;"	d	line:334
+ADC_CLOCK_DIV_32	C:\Program Files\PICC\Devices\18F67J10.h	338;"	d	line:338
+ADC_CLOCK_DIV_4	C:\Program Files\PICC\Devices\18F67J10.h	335;"	d	line:335
+ADC_CLOCK_DIV_64	C:\Program Files\PICC\Devices\18F67J10.h	339;"	d	line:339
+ADC_CLOCK_DIV_8	C:\Program Files\PICC\Devices\18F67J10.h	336;"	d	line:336
+ADC_CLOCK_INTERNAL	C:\Program Files\PICC\Devices\18F67J10.h	340;"	d	line:340
+ADC_OFF	C:\Program Files\PICC\Devices\18F67J10.h	333;"	d	line:333
+ADC_READ_ONLY	C:\Program Files\PICC\Devices\18F67J10.h	379;"	d	line:379
+ADC_START_AND_READ	C:\Program Files\PICC\Devices\18F67J10.h	377;"	d	line:377
+ADC_START_ONLY	C:\Program Files\PICC\Devices\18F67J10.h	378;"	d	line:378
+ADC_TAD_MUL_0	C:\Program Files\PICC\Devices\18F67J10.h	342;"	d	line:342
+ADC_TAD_MUL_12	C:\Program Files\PICC\Devices\18F67J10.h	347;"	d	line:347
+ADC_TAD_MUL_16	C:\Program Files\PICC\Devices\18F67J10.h	348;"	d	line:348
+ADC_TAD_MUL_2	C:\Program Files\PICC\Devices\18F67J10.h	343;"	d	line:343
+ADC_TAD_MUL_20	C:\Program Files\PICC\Devices\18F67J10.h	349;"	d	line:349
+ADC_TAD_MUL_4	C:\Program Files\PICC\Devices\18F67J10.h	344;"	d	line:344
+ADC_TAD_MUL_6	C:\Program Files\PICC\Devices\18F67J10.h	345;"	d	line:345
+ADC_TAD_MUL_8	C:\Program Files\PICC\Devices\18F67J10.h	346;"	d	line:346
+AN0	C:\Program Files\PICC\Devices\18F67J10.h	359;"	d	line:359
+AN0_TO_AN1	C:\Program Files\PICC\Devices\18F67J10.h	358;"	d	line:358
+AN0_TO_AN2	C:\Program Files\PICC\Devices\18F67J10.h	357;"	d	line:357
+AN0_TO_AN3	C:\Program Files\PICC\Devices\18F67J10.h	356;"	d	line:356
+AN0_TO_AN4	C:\Program Files\PICC\Devices\18F67J10.h	355;"	d	line:355
+AN0_TO_AN5	C:\Program Files\PICC\Devices\18F67J10.h	354;"	d	line:354
+AN0_TO_AN6	C:\Program Files\PICC\Devices\18F67J10.h	353;"	d	line:353
+ANALOG_AN0	C:\Program Files\PICC\Devices\18F67J10.h	366;"	d	line:366
+ANALOG_AN0_TO_AN1	C:\Program Files\PICC\Devices\18F67J10.h	365;"	d	line:365
+ANALOG_AN0_TO_AN2	C:\Program Files\PICC\Devices\18F67J10.h	364;"	d	line:364
+ANALOG_AN0_TO_AN3	C:\Program Files\PICC\Devices\18F67J10.h	363;"	d	line:363
+ANALOG_AN0_TO_AN4	C:\Program Files\PICC\Devices\18F67J10.h	362;"	d	line:362
+ANALOG_AN0_TO_AN5	C:\Program Files\PICC\Devices\18F67J10.h	361;"	d	line:361
+ANALOG_AN0_TO_AN6	C:\Program Files\PICC\Devices\18F67J10.h	360;"	d	line:360
+APPLICATION_HIGH_INT	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	42;"	d	line:42
+APPLICATION_NORMAL_INT	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	43;"	d	line:43
+APPLICATION_RESET	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	41;"	d	line:41
+APPLICATION_START	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	40;"	d	line:40
+BOOLEAN	C:\Program Files\PICC\Devices\18F67J10.h	82;"	d	line:82
+BOOTLOADER_CFG_ADDR	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	77;"	d	line:77
+BROWNOUT_RESTART	C:\Program Files\PICC\Devices\18F67J10.h	100;"	d	line:100
+BUFFER_BIN_BLOCK	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	57;"	d	line:57	file:
+BYTE	C:\Program Files\PICC\Devices\18F67J10.h	81;"	d	line:81
+BootloaderActive	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	57;"	v	line:57
+BytsPerSec	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	6;"	m	line:6	struct:_diskinforec
+CCP_1	C:\Program Files\PICC\Devices\18F67J10.h	203;"	v	line:203
+CCP_2	C:\Program Files\PICC\Devices\18F67J10.h	236;"	v	line:236
+CCP_3	C:\Program Files\PICC\Devices\18F67J10.h	240;"	v	line:240
+CCP_4	C:\Program Files\PICC\Devices\18F67J10.h	244;"	v	line:244
+CCP_5	C:\Program Files\PICC\Devices\18F67J10.h	248;"	v	line:248
+CCP_CAPTURE_DIV_16	C:\Program Files\PICC\Devices\18F67J10.h	192;"	d	line:192
+CCP_CAPTURE_DIV_4	C:\Program Files\PICC\Devices\18F67J10.h	191;"	d	line:191
+CCP_CAPTURE_FE	C:\Program Files\PICC\Devices\18F67J10.h	189;"	d	line:189
+CCP_CAPTURE_RE	C:\Program Files\PICC\Devices\18F67J10.h	190;"	d	line:190
+CCP_COMPARE_CLR_ON_MATCH	C:\Program Files\PICC\Devices\18F67J10.h	194;"	d	line:194
+CCP_COMPARE_INT	C:\Program Files\PICC\Devices\18F67J10.h	195;"	d	line:195
+CCP_COMPARE_INT_AND_TOGGLE	C:\Program Files\PICC\Devices\18F67J10.h	196;"	d	line:196
+CCP_COMPARE_RESET_TIMER	C:\Program Files\PICC\Devices\18F67J10.h	197;"	d	line:197
+CCP_COMPARE_SET_ON_MATCH	C:\Program Files\PICC\Devices\18F67J10.h	193;"	d	line:193
+CCP_DELAY	C:\Program Files\PICC\Devices\18F67J10.h	234;"	d	line:234
+CCP_OFF	C:\Program Files\PICC\Devices\18F67J10.h	188;"	d	line:188
+CCP_PWM	C:\Program Files\PICC\Devices\18F67J10.h	198;"	d	line:198
+CCP_PWM_FULL_BRIDGE	C:\Program Files\PICC\Devices\18F67J10.h	213;"	d	line:213
+CCP_PWM_FULL_BRIDGE_REV	C:\Program Files\PICC\Devices\18F67J10.h	214;"	d	line:214
+CCP_PWM_HALF_BRIDGE	C:\Program Files\PICC\Devices\18F67J10.h	215;"	d	line:215
+CCP_PWM_H_H	C:\Program Files\PICC\Devices\18F67J10.h	208;"	d	line:208
+CCP_PWM_H_L	C:\Program Files\PICC\Devices\18F67J10.h	209;"	d	line:209
+CCP_PWM_L_H	C:\Program Files\PICC\Devices\18F67J10.h	210;"	d	line:210
+CCP_PWM_L_L	C:\Program Files\PICC\Devices\18F67J10.h	211;"	d	line:211
+CCP_PWM_PLUS_1	C:\Program Files\PICC\Devices\18F67J10.h	199;"	d	line:199
+CCP_PWM_PLUS_2	C:\Program Files\PICC\Devices\18F67J10.h	200;"	d	line:200
+CCP_PWM_PLUS_3	C:\Program Files\PICC\Devices\18F67J10.h	201;"	d	line:201
+CCP_SHUTDOWN_AC_F	C:\Program Files\PICC\Devices\18F67J10.h	227;"	d	line:227
+CCP_SHUTDOWN_AC_H	C:\Program Files\PICC\Devices\18F67J10.h	226;"	d	line:226
+CCP_SHUTDOWN_AC_L	C:\Program Files\PICC\Devices\18F67J10.h	225;"	d	line:225
+CCP_SHUTDOWN_BD_F	C:\Program Files\PICC\Devices\18F67J10.h	231;"	d	line:231
+CCP_SHUTDOWN_BD_H	C:\Program Files\PICC\Devices\18F67J10.h	230;"	d	line:230
+CCP_SHUTDOWN_BD_L	C:\Program Files\PICC\Devices\18F67J10.h	229;"	d	line:229
+CCP_SHUTDOWN_ON_COMP	C:\Program Files\PICC\Devices\18F67J10.h	219;"	d	line:219
+CCP_SHUTDOWN_ON_COMP1	C:\Program Files\PICC\Devices\18F67J10.h	217;"	d	line:217
+CCP_SHUTDOWN_ON_COMP1_INT0	C:\Program Files\PICC\Devices\18F67J10.h	221;"	d	line:221
+CCP_SHUTDOWN_ON_COMP2	C:\Program Files\PICC\Devices\18F67J10.h	218;"	d	line:218
+CCP_SHUTDOWN_ON_COMP2_INT0	C:\Program Files\PICC\Devices\18F67J10.h	222;"	d	line:222
+CCP_SHUTDOWN_ON_COMP_INT0	C:\Program Files\PICC\Devices\18F67J10.h	223;"	d	line:223
+CCP_SHUTDOWN_ON_INT0	C:\Program Files\PICC\Devices\18F67J10.h	220;"	d	line:220
+CCP_SHUTDOWN_RESTART	C:\Program Files\PICC\Devices\18F67J10.h	233;"	d	line:233
+CCP_USE_TIMER3	C:\Program Files\PICC\Devices\18F67J10.h	202;"	d	line:202
+CardInserted	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	48;"	d	line:48	file:
+CurrentCluster	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	43;"	m	line:43
+DIR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	37;"	t	line:37
+DirEntry	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	42;"	m	line:42
+ExtFlags	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	21;"	m	line:21	struct:_diskinforec
+F5_VR_F3_VR	C:\Program Files\PICC\Devices\18F67J10.h	303;"	d	line:303
+F6_F5_F4_F3	C:\Program Files\PICC\Devices\18F67J10.h	300;"	d	line:300
+F6_F5_F4_F3_OUT_ON_F2_F1	C:\Program Files\PICC\Devices\18F67J10.h	297;"	d	line:297
+F6_F5_F4_F5	C:\Program Files\PICC\Devices\18F67J10.h	296;"	d	line:296
+F6_F5_F4_F5_OUT_ON_F2_F1	C:\Program Files\PICC\Devices\18F67J10.h	298;"	d	line:298
+F6_F5_NC_NC_OUT_ON_F2	C:\Program Files\PICC\Devices\18F67J10.h	301;"	d	line:301
+F6_VR_F4_VR	C:\Program Files\PICC\Devices\18F67J10.h	302;"	d	line:302
+FALSE	C:\Program Files\PICC\Devices\18F67J10.h	78;"	d	line:78
+FAT32Vars	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	66;"	t	line:66
+FATSz16	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	13;"	m	line:13	struct:_diskinforec
+FATSz32	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	20;"	m	line:20	struct:_diskinforec
+FATstartidx	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	56;"	m	line:56
+FILE	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	51;"	t	line:51
+FSVer	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	22;"	m	line:22	struct:_diskinforec
+FindDirEntry	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	71;"	p	line:71	signature:(char *fname, HANDLE hFile)
+Free	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	50;"	m	line:50
+GLOBAL	C:\Program Files\PICC\Devices\18F67J10.h	391;"	d	line:391
+HANDLE	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	68;"	d	line:68
+HIGH_INT_VECTOR	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	30;"	d	line:30
+H_TO_L	C:\Program Files\PICC\Devices\18F67J10.h	389;"	d	line:389
+HiddSec	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	16;"	m	line:16	struct:_diskinforec
+INTERRUPT_REMAP_END	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	32;"	d	line:32
+INT_AD	C:\Program Files\PICC\Devices\18F67J10.h	403;"	d	line:403
+INT_BUSCOL	C:\Program Files\PICC\Devices\18F67J10.h	409;"	d	line:409
+INT_BUSCOL2	C:\Program Files\PICC\Devices\18F67J10.h	418;"	d	line:418
+INT_CCP1	C:\Program Files\PICC\Devices\18F67J10.h	407;"	d	line:407
+INT_CCP2	C:\Program Files\PICC\Devices\18F67J10.h	408;"	d	line:408
+INT_CCP3	C:\Program Files\PICC\Devices\18F67J10.h	414;"	d	line:414
+INT_CCP4	C:\Program Files\PICC\Devices\18F67J10.h	415;"	d	line:415
+INT_CCP5	C:\Program Files\PICC\Devices\18F67J10.h	416;"	d	line:416
+INT_COMP	C:\Program Files\PICC\Devices\18F67J10.h	410;"	d	line:410
+INT_EXT	C:\Program Files\PICC\Devices\18F67J10.h	397;"	d	line:397
+INT_EXT1	C:\Program Files\PICC\Devices\18F67J10.h	398;"	d	line:398
+INT_EXT2	C:\Program Files\PICC\Devices\18F67J10.h	399;"	d	line:399
+INT_EXT3	C:\Program Files\PICC\Devices\18F67J10.h	400;"	d	line:400
+INT_OSCF	C:\Program Files\PICC\Devices\18F67J10.h	417;"	d	line:417
+INT_PSP	C:\Program Files\PICC\Devices\18F67J10.h	402;"	d	line:402
+INT_RB	C:\Program Files\PICC\Devices\18F67J10.h	401;"	d	line:401
+INT_RDA	C:\Program Files\PICC\Devices\18F67J10.h	404;"	d	line:404
+INT_RDA2	C:\Program Files\PICC\Devices\18F67J10.h	411;"	d	line:411
+INT_RTCC	C:\Program Files\PICC\Devices\18F67J10.h	392;"	d	line:392
+INT_SSP	C:\Program Files\PICC\Devices\18F67J10.h	406;"	d	line:406
+INT_SSP2	C:\Program Files\PICC\Devices\18F67J10.h	419;"	d	line:419
+INT_TBE	C:\Program Files\PICC\Devices\18F67J10.h	405;"	d	line:405
+INT_TBE2	C:\Program Files\PICC\Devices\18F67J10.h	412;"	d	line:412
+INT_TIMER0	C:\Program Files\PICC\Devices\18F67J10.h	393;"	d	line:393
+INT_TIMER1	C:\Program Files\PICC\Devices\18F67J10.h	394;"	d	line:394
+INT_TIMER2	C:\Program Files\PICC\Devices\18F67J10.h	395;"	d	line:395
+INT_TIMER3	C:\Program Files\PICC\Devices\18F67J10.h	396;"	d	line:396
+INT_TIMER4	C:\Program Files\PICC\Devices\18F67J10.h	413;"	d	line:413
+IOpuffer	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	41;"	m	line:41
+InitFAT	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	70;"	p	line:70	signature:()
+Init_MMC	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	11;"	p	line:11	signature:(int max_tries)
+JumpCode	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	4;"	m	line:4	struct:_diskinforec
+LOADER_END	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	35;"	d	line:35
+LOADER_HIGH_INT	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	37;"	d	line:37
+LOADER_NORMAL_INT	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	38;"	d	line:38
+LOADER_RESET	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	36;"	d	line:36
+LOADER_START	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	34;"	d	line:34
+L_TO_H	C:\Program Files\PICC\Devices\18F67J10.h	388;"	d	line:388
+LoadProgram	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	150;"	f	line:150	signature:(HANDLE hFile)
+MAXFILES	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	1;"	d	line:1
+MCLR_FROM_RUN	C:\Program Files\PICC\Devices\18F67J10.h	98;"	d	line:98
+MCLR_FROM_SLEEP	C:\Program Files\PICC\Devices\18F67J10.h	97;"	d	line:97
+MMCAddress	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	55;"	m	line:55
+MMC_INIT_IDLE_ERR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	9;"	d	line:9
+MMC_INIT_RESET_ERR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	8;"	d	line:8
+MMC_NO_ERR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	1;"	d	line:1
+MMC_READ_GEN_ERR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	2;"	d	line:2
+MMC_READ_INVALID_ERR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	3;"	d	line:3
+MMC_READ_TOKEN_ERR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	4;"	d	line:4
+MMC_WRITE_GEN_ERR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	5;"	d	line:5
+MMC_WRITE_INVALID_ERR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	7;"	d	line:7
+MMC_WRITE_SEC0_ERR	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	6;"	d	line:6
+Media	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	12;"	m	line:12	struct:_diskinforec
+NC_NC_NC_NC	C:\Program Files\PICC\Devices\18F67J10.h	299;"	d	line:299
+NORMAL_INT_VECTOR	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	31;"	d	line:31
+NORMAL_POWER_UP	C:\Program Files\PICC\Devices\18F67J10.h	99;"	d	line:99
+NO_ANALOGS	C:\Program Files\PICC\Devices\18F67J10.h	352;"	d	line:352
+NULL	C:\Program Files\PICC\Drivers\STDDEF.H	23;"	d	line:23
+NumFATs	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	9;"	m	line:9	struct:_diskinforec
+NumHeads	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	15;"	m	line:15	struct:_diskinforec
+OEMName	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	5;"	m	line:5	struct:_diskinforec
+OSC_IDLE_ON_SLEEP	C:\Program Files\PICC\Devices\18F67J10.h	323;"	d	line:323
+OSC_INTRC	C:\Program Files\PICC\Devices\18F67J10.h	320;"	d	line:320
+OSC_NORMAL	C:\Program Files\PICC\Devices\18F67J10.h	321;"	d	line:321
+OSC_STATE_EXT_RUNNING	C:\Program Files\PICC\Devices\18F67J10.h	325;"	d	line:325
+OSC_TIMER1	C:\Program Files\PICC\Devices\18F67J10.h	322;"	d	line:322
+PIN_A0	C:\Program Files\PICC\Devices\18F67J10.h	20;"	d	line:20
+PIN_A1	C:\Program Files\PICC\Devices\18F67J10.h	21;"	d	line:21
+PIN_A2	C:\Program Files\PICC\Devices\18F67J10.h	22;"	d	line:22
+PIN_A3	C:\Program Files\PICC\Devices\18F67J10.h	23;"	d	line:23
+PIN_A4	C:\Program Files\PICC\Devices\18F67J10.h	24;"	d	line:24
+PIN_A5	C:\Program Files\PICC\Devices\18F67J10.h	25;"	d	line:25
+PIN_B0	C:\Program Files\PICC\Devices\18F67J10.h	27;"	d	line:27
+PIN_B1	C:\Program Files\PICC\Devices\18F67J10.h	28;"	d	line:28
+PIN_B2	C:\Program Files\PICC\Devices\18F67J10.h	29;"	d	line:29
+PIN_B3	C:\Program Files\PICC\Devices\18F67J10.h	30;"	d	line:30
+PIN_B4	C:\Program Files\PICC\Devices\18F67J10.h	31;"	d	line:31
+PIN_B5	C:\Program Files\PICC\Devices\18F67J10.h	32;"	d	line:32
+PIN_B6	C:\Program Files\PICC\Devices\18F67J10.h	33;"	d	line:33
+PIN_B7	C:\Program Files\PICC\Devices\18F67J10.h	34;"	d	line:34
+PIN_C0	C:\Program Files\PICC\Devices\18F67J10.h	36;"	d	line:36
+PIN_C1	C:\Program Files\PICC\Devices\18F67J10.h	37;"	d	line:37
+PIN_C2	C:\Program Files\PICC\Devices\18F67J10.h	38;"	d	line:38
+PIN_C3	C:\Program Files\PICC\Devices\18F67J10.h	39;"	d	line:39
+PIN_C4	C:\Program Files\PICC\Devices\18F67J10.h	40;"	d	line:40
+PIN_C5	C:\Program Files\PICC\Devices\18F67J10.h	41;"	d	line:41
+PIN_C6	C:\Program Files\PICC\Devices\18F67J10.h	42;"	d	line:42
+PIN_C7	C:\Program Files\PICC\Devices\18F67J10.h	43;"	d	line:43
+PIN_D0	C:\Program Files\PICC\Devices\18F67J10.h	45;"	d	line:45
+PIN_D1	C:\Program Files\PICC\Devices\18F67J10.h	46;"	d	line:46
+PIN_D2	C:\Program Files\PICC\Devices\18F67J10.h	47;"	d	line:47
+PIN_D3	C:\Program Files\PICC\Devices\18F67J10.h	48;"	d	line:48
+PIN_D4	C:\Program Files\PICC\Devices\18F67J10.h	49;"	d	line:49
+PIN_D5	C:\Program Files\PICC\Devices\18F67J10.h	50;"	d	line:50
+PIN_D6	C:\Program Files\PICC\Devices\18F67J10.h	51;"	d	line:51
+PIN_D7	C:\Program Files\PICC\Devices\18F67J10.h	52;"	d	line:52
+PIN_E0	C:\Program Files\PICC\Devices\18F67J10.h	54;"	d	line:54
+PIN_E1	C:\Program Files\PICC\Devices\18F67J10.h	55;"	d	line:55
+PIN_E2	C:\Program Files\PICC\Devices\18F67J10.h	56;"	d	line:56
+PIN_E3	C:\Program Files\PICC\Devices\18F67J10.h	57;"	d	line:57
+PIN_E4	C:\Program Files\PICC\Devices\18F67J10.h	58;"	d	line:58
+PIN_E5	C:\Program Files\PICC\Devices\18F67J10.h	59;"	d	line:59
+PIN_E6	C:\Program Files\PICC\Devices\18F67J10.h	60;"	d	line:60
+PIN_E7	C:\Program Files\PICC\Devices\18F67J10.h	61;"	d	line:61
+PIN_F1	C:\Program Files\PICC\Devices\18F67J10.h	63;"	d	line:63
+PIN_F2	C:\Program Files\PICC\Devices\18F67J10.h	64;"	d	line:64
+PIN_F3	C:\Program Files\PICC\Devices\18F67J10.h	65;"	d	line:65
+PIN_F4	C:\Program Files\PICC\Devices\18F67J10.h	66;"	d	line:66
+PIN_F5	C:\Program Files\PICC\Devices\18F67J10.h	67;"	d	line:67
+PIN_F6	C:\Program Files\PICC\Devices\18F67J10.h	68;"	d	line:68
+PIN_F7	C:\Program Files\PICC\Devices\18F67J10.h	69;"	d	line:69
+PIN_G0	C:\Program Files\PICC\Devices\18F67J10.h	71;"	d	line:71
+PIN_G1	C:\Program Files\PICC\Devices\18F67J10.h	72;"	d	line:72
+PIN_G2	C:\Program Files\PICC\Devices\18F67J10.h	73;"	d	line:73
+PIN_G3	C:\Program Files\PICC\Devices\18F67J10.h	74;"	d	line:74
+PIN_G4	C:\Program Files\PICC\Devices\18F67J10.h	75;"	d	line:75
+PSP_DISABLED	C:\Program Files\PICC\Devices\18F67J10.h	264;"	d	line:264
+PSP_ENABLED	C:\Program Files\PICC\Devices\18F67J10.h	263;"	d	line:263
+RAND_MAX	C:\Program Files\PICC\Drivers\STDLIB.H	19;"	d	line:19
+RESET_INSTRUCTION	C:\Program Files\PICC\Devices\18F67J10.h	102;"	d	line:102
+RESET_VECTOR	C:\USERS\Projects\PIC\GPSLogger\Firmware\share\bootloader.h	29;"	d	line:29
+RTCC_8_BIT	C:\Program Files\PICC\Devices\18F67J10.h	125;"	d	line:125
+RTCC_DIV_1	C:\Program Files\PICC\Devices\18F67J10.h	113;"	d	line:113
+RTCC_DIV_128	C:\Program Files\PICC\Devices\18F67J10.h	120;"	d	line:120
+RTCC_DIV_16	C:\Program Files\PICC\Devices\18F67J10.h	117;"	d	line:117
+RTCC_DIV_2	C:\Program Files\PICC\Devices\18F67J10.h	114;"	d	line:114
+RTCC_DIV_256	C:\Program Files\PICC\Devices\18F67J10.h	121;"	d	line:121
+RTCC_DIV_32	C:\Program Files\PICC\Devices\18F67J10.h	118;"	d	line:118
+RTCC_DIV_4	C:\Program Files\PICC\Devices\18F67J10.h	115;"	d	line:115
+RTCC_DIV_64	C:\Program Files\PICC\Devices\18F67J10.h	119;"	d	line:119
+RTCC_DIV_8	C:\Program Files\PICC\Devices\18F67J10.h	116;"	d	line:116
+RTCC_EXT_H_TO_L	C:\Program Files\PICC\Devices\18F67J10.h	111;"	d	line:111
+RTCC_EXT_L_TO_H	C:\Program Files\PICC\Devices\18F67J10.h	110;"	d	line:110
+RTCC_INTERNAL	C:\Program Files\PICC\Devices\18F67J10.h	109;"	d	line:109
+RTCC_OFF	C:\Program Files\PICC\Devices\18F67J10.h	123;"	d	line:123
+ReadSector	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	12;"	p	line:12	signature:(int32 sector, char *buff)
+RootClus	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	23;"	m	line:23	struct:_diskinforec
+RootEntCnt	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	10;"	m	line:10	struct:_diskinforec
+RsvdSecCnt	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	8;"	m	line:8	struct:_diskinforec
+SPI_CLK_DIV_16	C:\Program Files\PICC\Devices\18F67J10.h	276;"	d	line:276
+SPI_CLK_DIV_4	C:\Program Files\PICC\Devices\18F67J10.h	275;"	d	line:275
+SPI_CLK_DIV_64	C:\Program Files\PICC\Devices\18F67J10.h	277;"	d	line:277
+SPI_CLK_T2	C:\Program Files\PICC\Devices\18F67J10.h	278;"	d	line:278
+SPI_H_TO_L	C:\Program Files\PICC\Devices\18F67J10.h	274;"	d	line:274
+SPI_L_TO_H	C:\Program Files\PICC\Devices\18F67J10.h	273;"	d	line:273
+SPI_MASTER	C:\Program Files\PICC\Devices\18F67J10.h	271;"	d	line:271
+SPI_SAMPLE_AT_END	C:\Program Files\PICC\Devices\18F67J10.h	281;"	d	line:281
+SPI_SLAVE	C:\Program Files\PICC\Devices\18F67J10.h	272;"	d	line:272
+SPI_SS_DISABLED	C:\Program Files\PICC\Devices\18F67J10.h	279;"	d	line:279
+SPI_XMIT_L_TO_H	C:\Program Files\PICC\Devices\18F67J10.h	282;"	d	line:282
+SecInCluster	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	44;"	m	line:44
+SecPerClus	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	7;"	m	line:7	struct:_diskinforec
+SecPerTrk	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	14;"	m	line:14	struct:_diskinforec
+T1_CLK_OUT	C:\Program Files\PICC\Devices\18F67J10.h	147;"	d	line:147
+T1_DISABLED	C:\Program Files\PICC\Devices\18F67J10.h	142;"	d	line:142
+T1_DIV_BY_1	C:\Program Files\PICC\Devices\18F67J10.h	149;"	d	line:149
+T1_DIV_BY_2	C:\Program Files\PICC\Devices\18F67J10.h	150;"	d	line:150
+T1_DIV_BY_4	C:\Program Files\PICC\Devices\18F67J10.h	151;"	d	line:151
+T1_DIV_BY_8	C:\Program Files\PICC\Devices\18F67J10.h	152;"	d	line:152
+T1_EXTERNAL	C:\Program Files\PICC\Devices\18F67J10.h	144;"	d	line:144
+T1_EXTERNAL_SYNC	C:\Program Files\PICC\Devices\18F67J10.h	145;"	d	line:145
+T1_INTERNAL	C:\Program Files\PICC\Devices\18F67J10.h	143;"	d	line:143
+T2_DISABLED	C:\Program Files\PICC\Devices\18F67J10.h	157;"	d	line:157
+T2_DIV_BY_1	C:\Program Files\PICC\Devices\18F67J10.h	158;"	d	line:158
+T2_DIV_BY_16	C:\Program Files\PICC\Devices\18F67J10.h	160;"	d	line:160
+T2_DIV_BY_4	C:\Program Files\PICC\Devices\18F67J10.h	159;"	d	line:159
+T3_CCP1_TO_5	C:\Program Files\PICC\Devices\18F67J10.h	254;"	d	line:254
+T3_CCP2_TO_5	C:\Program Files\PICC\Devices\18F67J10.h	255;"	d	line:255
+T3_CCP3_TO_5	C:\Program Files\PICC\Devices\18F67J10.h	256;"	d	line:256
+T3_DISABLED	C:\Program Files\PICC\Devices\18F67J10.h	166;"	d	line:166
+T3_DIV_BY_1	C:\Program Files\PICC\Devices\18F67J10.h	171;"	d	line:171
+T3_DIV_BY_2	C:\Program Files\PICC\Devices\18F67J10.h	172;"	d	line:172
+T3_DIV_BY_4	C:\Program Files\PICC\Devices\18F67J10.h	173;"	d	line:173
+T3_DIV_BY_8	C:\Program Files\PICC\Devices\18F67J10.h	174;"	d	line:174
+T3_EXTERNAL	C:\Program Files\PICC\Devices\18F67J10.h	168;"	d	line:168
+T3_EXTERNAL_SYNC	C:\Program Files\PICC\Devices\18F67J10.h	169;"	d	line:169
+T3_INTERNAL	C:\Program Files\PICC\Devices\18F67J10.h	167;"	d	line:167
+T4_DISABLED	C:\Program Files\PICC\Devices\18F67J10.h	179;"	d	line:179
+T4_DIV_BY_1	C:\Program Files\PICC\Devices\18F67J10.h	180;"	d	line:180
+T4_DIV_BY_16	C:\Program Files\PICC\Devices\18F67J10.h	182;"	d	line:182
+T4_DIV_BY_4	C:\Program Files\PICC\Devices\18F67J10.h	181;"	d	line:181
+TRACE0	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	39;"	d	line:39
+TRACE0	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	45;"	d	line:45
+TRACE1	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	40;"	d	line:40
+TRACE1	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	46;"	d	line:46
+TRACE2	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	41;"	d	line:41
+TRACE2	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	47;"	d	line:47
+TRACE3	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	42;"	d	line:42
+TRACE3	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	48;"	d	line:48
+TRACE4	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	43;"	d	line:43
+TRACE4	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\gpsloader.h	49;"	d	line:49
+TRUE	C:\Program Files\PICC\Devices\18F67J10.h	79;"	d	line:79
+TotSec16	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	11;"	m	line:11	struct:_diskinforec
+TotSec32	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	18;"	m	line:18	struct:_diskinforec
+UART_ADDRESS	C:\Program Files\PICC\Devices\18F67J10.h	288;"	d	line:288
+UART_AUTODETECT	C:\Program Files\PICC\Devices\18F67J10.h	290;"	d	line:290
+UART_AUTODETECT_NOWAIT	C:\Program Files\PICC\Devices\18F67J10.h	291;"	d	line:291
+UART_DATA	C:\Program Files\PICC\Devices\18F67J10.h	289;"	d	line:289
+UART_WAKEUP_ON_RDA	C:\Program Files\PICC\Devices\18F67J10.h	292;"	d	line:292
+UserProgram	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	222;"	f	line:222
+VREF_COMP	C:\Program Files\PICC\Devices\18F67J10.h	315;"	d	line:315
+VREF_F5	C:\Program Files\PICC\Devices\18F67J10.h	314;"	d	line:314
+VREF_HIGH	C:\Program Files\PICC\Devices\18F67J10.h	312;"	d	line:312
+VREF_LOW	C:\Program Files\PICC\Devices\18F67J10.h	311;"	d	line:311
+VREF_VDD	C:\Program Files\PICC\Devices\18F67J10.h	371;"	d	line:371
+VREF_VREF	C:\Program Files\PICC\Devices\18F67J10.h	370;"	d	line:370
+VSS_VDD	C:\Program Files\PICC\Devices\18F67J10.h	369;"	d	line:369
+VSS_VREF	C:\Program Files\PICC\Devices\18F67J10.h	372;"	d	line:372
+WDT_FROM_SLEEP	C:\Program Files\PICC\Devices\18F67J10.h	101;"	d	line:101
+WDT_OFF	C:\Program Files\PICC\Devices\18F67J10.h	136;"	d	line:136
+WDT_ON	C:\Program Files\PICC\Devices\18F67J10.h	135;"	d	line:135
+WDT_TIMEOUT	C:\Program Files\PICC\Devices\18F67J10.h	96;"	d	line:96
+WriteFlashBlock	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	95;"	f	line:95	signature:(int32 addr, BYTE * pBuff, long nLen)
+WriteSector	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MMC.h	13;"	p	line:13	signature:(int32 sector, char *buff)
+_BOOTLOADER	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	10;"	d	line:10	file:
+_CTYPE	C:\Program Files\PICC\Drivers\CTYPE.H	12;"	d	line:12
+_Cmpfun	C:\Program Files\PICC\Drivers\STDLIB.H	812;"	t	line:812
+_Randseed	C:\Program Files\PICC\Drivers\STDLIB.H	795;"	v	line:795
+_STDDEF	C:\Program Files\PICC\Drivers\STDDEF.H	13;"	d	line:13
+_STDLIB	C:\Program Files\PICC\Drivers\STDLIB.H	12;"	d	line:12
+_STRING	C:\Program Files\PICC\Drivers\STRING.H	12;"	d	line:12
+_direntry	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	26;"	s	line:26
+_diskinforec	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	2;"	s	line:2
+atoe	C:\Program Files\PICC\Drivers\STDLIB.H	270;"	f	line:270	signature:(char * s)
+atoe	C:\Program Files\PICC\Drivers\STDLIB.H	50;"	p	line:50	signature:(char * s)
+atof	C:\Program Files\PICC\Drivers\STDLIB.H	231;"	f	line:231	signature:(char * s)
+atof	C:\Program Files\PICC\Drivers\STDLIB.H	43;"	p	line:43	signature:(char * s)
+atoi	C:\Program Files\PICC\Drivers\STDLIB.H	337;"	f	line:337	signature:(char *s)
+atoi	C:\Program Files\PICC\Drivers\STDLIB.H	56;"	p	line:56	signature:(char *s)
+atoi32	C:\Program Files\PICC\Drivers\STDLIB.H	478;"	f	line:478	signature:(char *s)
+atoi32	C:\Program Files\PICC\Drivers\STDLIB.H	61;"	p	line:61	signature:(char *s)
+atoi_b16	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	66;"	f	line:66	signature:(char *s)
+atol	C:\Program Files\PICC\Drivers\STDLIB.H	406;"	f	line:406	signature:(char *s)
+atol	C:\Program Files\PICC\Drivers\STDLIB.H	72;"	p	line:72	signature:(char *s)
+bAttr	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	30;"	m	line:30	struct:_direntry
+bDone	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	154;"	l	line:154
+bFATModified	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	65;"	m	line:65
+bMoreChar	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	153;"	l	line:153
+bReserved	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	31;"	m	line:31	struct:_direntry
+bSDReady	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	237;"	l	line:237
+base	C:\Program Files\PICC\Drivers\STDLIB.H	340;"	l	line:340
+base	C:\Program Files\PICC\Drivers\STDLIB.H	409;"	l	line:409
+base	C:\Program Files\PICC\Drivers\STDLIB.H	481;"	l	line:481
+beg	C:\Program Files\PICC\Drivers\STRING.H	330;"	l	line:330
+bsearch	C:\Program Files\PICC\Drivers\STDLIB.H	842;"	f	line:842	signature:(char *key, char *base, size_t num, size_t width,_Cmpfun cmp)
+c	C:\Program Files\PICC\Drivers\STDLIB.H	236;"	l	line:236
+c	C:\Program Files\PICC\Drivers\STDLIB.H	276;"	l	line:276
+c	C:\Program Files\PICC\Drivers\STDLIB.H	341;"	l	line:341
+c	C:\Program Files\PICC\Drivers\STDLIB.H	410;"	l	line:410
+c	C:\Program Files\PICC\Drivers\STDLIB.H	482;"	l	line:482
+c	C:\Program Files\PICC\Drivers\STDLIB.H	547;"	l	line:547
+c	C:\Program Files\PICC\Drivers\STDLIB.H	584;"	l	line:584
+cnt	C:\Program Files\PICC\Drivers\STDLIB.H	546;"	l	line:546
+cwd	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	76;"	p	line:76	signature:(char *fname, HANDLE hFile)
+digits	C:\Program Files\PICC\Drivers\STDLIB.H	639;"	l	line:639
+digits	C:\Program Files\PICC\Drivers\STDLIB.H	704;"	l	line:704
+dirIdx	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	48;"	m	line:48
+dirSector	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	47;"	m	line:47
+diskinforec	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	24;"	t	line:24
+div	C:\Program Files\PICC\Drivers\STDLIB.H	192;"	p	line:192	signature:(signed int numer,signed int denom)
+div	C:\Program Files\PICC\Drivers\STDLIB.H	215;"	f	line:215	signature:(signed int numer,signed int denom)
+div_t	C:\Program Files\PICC\Drivers\STDLIB.H	26;"	t	line:26
+done	C:\Program Files\PICC\Drivers\STDLIB.H	816;"	l	line:816
+end	C:\Program Files\PICC\Drivers\STRING.H	330;"	l	line:330
+error	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	236;"	l	line:236
+exp	C:\Program Files\PICC\Drivers\STDLIB.H	279;"	l	line:279
+expcnt	C:\Program Files\PICC\Drivers\STDLIB.H	280;"	l	line:280
+expsign	C:\Program Files\PICC\Drivers\STDLIB.H	275;"	l	line:275
+fclose	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	74;"	p	line:74	signature:(HANDLE hFile)
+fflush	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	75;"	p	line:75	signature:(HANDLE hFile)
+fgetc	C:\Program Files\PICC\Devices\18F67J10.h	85;"	d	line:85
+fgetch	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	79;"	p	line:79	signature:(char *ch, HANDLE hFile)
+fgets	C:\Program Files\PICC\Devices\18F67J10.h	89;"	d	line:89
+fopen	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	73;"	p	line:73	signature:(char *fname, char mode)
+fputc	C:\Program Files\PICC\Devices\18F67J10.h	88;"	d	line:88
+fputch	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	77;"	p	line:77	signature:(char ch, HANDLE hFile)
+fputchar	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	78;"	f	line:78	signature:(char ch)
+fputs	C:\Program Files\PICC\Devices\18F67J10.h	90;"	d	line:90
+fputstring	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	80;"	p	line:80	signature:(char *str, HANDLE hFile)
+fread	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	81;"	p	line:81	signature:(char *buffer, int16 leng, HANDLE hFile)
+fwrite	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	82;"	p	line:82	signature:(char *buffer, int16 leng, HANDLE hFile)
+gActCard	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	49;"	v	line:49
+gBinBlock	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	60;"	v	line:60
+gBlockAddr	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	61;"	v	line:61
+gBlockWritePtr	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	62;"	v	line:62
+gDirEntryIdx	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	59;"	m	line:59
+gDirEntrySector	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	60;"	m	line:60
+gFirstDataSector	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	58;"	m	line:58
+gFirstDirEntryCluster	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	62;"	m	line:62
+gFirstEmptyDirEntry	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	61;"	m	line:61
+gPrevCard	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	49;"	v	line:49
+gStartSector	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	57;"	m	line:57
+getc	C:\Program Files\PICC\Devices\18F67J10.h	84;"	d	line:84
+getchar	C:\Program Files\PICC\Devices\18F67J10.h	86;"	d	line:86
+getfsize	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	84;"	p	line:84	signature:(char *fname, int32 *fsiz)
+gfilename	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	55;"	v	line:55
+hCluster	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	35;"	m	line:35	struct:_direntry
+hClusterH	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	32;"	m	line:32	struct:_direntry
+hDate	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	34;"	m	line:34	struct:_direntry
+hFile	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	54;"	v	line:54
+hTime	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	33;"	m	line:33	struct:_direntry
+i	C:\Program Files\PICC\Drivers\STDLIB.H	278;"	l	line:278
+i	C:\Program Files\PICC\Drivers\STDLIB.H	546;"	l	line:546
+i	C:\Program Files\PICC\Drivers\STDLIB.H	815;"	l	line:815
+i	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	155;"	l	line:155
+i	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	235;"	l	line:235
+i	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	68;"	l	line:68
+i	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	97;"	l	line:97
+index	C:\Program Files\PICC\Drivers\STDLIB.H	340;"	l	line:340
+index	C:\Program Files\PICC\Drivers\STDLIB.H	409;"	l	line:409
+index	C:\Program Files\PICC\Drivers\STDLIB.H	481;"	l	line:481
+isalnum	C:\Program Files\PICC\Drivers\CTYPE.H	16;"	d	line:16
+isalpha	C:\Program Files\PICC\Drivers\CTYPE.H	17;"	d	line:17
+iscntrl	C:\Program Files\PICC\Drivers\CTYPE.H	21;"	d	line:21
+isdigit	C:\Program Files\PICC\Drivers\CTYPE.H	18;"	d	line:18
+isgraph	C:\Program Files\PICC\Drivers\CTYPE.H	23;"	d	line:23
+islower	C:\Program Files\PICC\Drivers\CTYPE.H	14;"	d	line:14
+isprint	C:\Program Files\PICC\Drivers\CTYPE.H	22;"	d	line:22
+ispunct	C:\Program Files\PICC\Drivers\CTYPE.H	24;"	d	line:24
+isr_relocate	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	13;"	f	line:13	signature:(void)
+isspace	C:\Program Files\PICC\Drivers\CTYPE.H	19;"	d	line:19
+isupper	C:\Program Files\PICC\Drivers\CTYPE.H	15;"	d	line:15
+isxdigit	C:\Program Files\PICC\Drivers\CTYPE.H	20;"	d	line:20
+itoa	C:\Program Files\PICC\Drivers\STDLIB.H	543;"	f	line:543	signature:(signed int32 num, int8 base, char *s)
+itoa	C:\Program Files\PICC\Drivers\STDLIB.H	66;"	p	line:66	signature:(signed int32 num, int8 base, char * s)
+j	C:\Program Files\PICC\Drivers\STDLIB.H	815;"	l	line:815
+j	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	97;"	l	line:97
+l	C:\Program Files\PICC\Drivers\STDLIB.H	815;"	l	line:815
+labs	C:\Program Files\PICC\Drivers\STDLIB.H	190;"	d	line:190
+ldiv	C:\Program Files\PICC\Drivers\STDLIB.H	193;"	p	line:193	signature:(signed long numer,signed long denom)
+ldiv	C:\Program Files\PICC\Drivers\STDLIB.H	223;"	f	line:223	signature:(signed long numer,signed long denom)
+ldiv_t	C:\Program Files\PICC\Drivers\STDLIB.H	31;"	t	line:31
+m	C:\Program Files\PICC\Drivers\STDLIB.H	815;"	l	line:815
+main	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	233;"	f	line:233
+mblen	C:\Program Files\PICC\Drivers\STDLIB.H	762;"	f	line:762	signature:(char *s,size_t n)
+mbstowcs	C:\Program Files\PICC\Drivers\STDLIB.H	779;"	f	line:779	signature:(wchar_t *pwcs,char *s,size_t n)
+mbtowc	C:\Program Files\PICC\Drivers\STDLIB.H	767;"	f	line:767	signature:(wchar_t *pwc,char *s,size_t n)
+memchr	C:\Program Files\PICC\Drivers\STRING.H	199;"	f	line:199	signature:(void *s,int c,size_t n)
+memcmp	C:\Program Files\PICC\Drivers\STRING.H	128;"	f	line:128	signature:(void * s1,char *s2,size_t n)
+memmove	C:\Program Files\PICC\Drivers\STRING.H	34;"	f	line:34	signature:(void *s1,char *s2,size_t n)
+mode	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	49;"	m	line:49
+mult_with10	C:\Program Files\PICC\Drivers\STDLIB.H	473;"	f	line:473	signature:(int32 num)
+myrec	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	46;"	v	line:46
+n	C:\Program Files\PICC\Drivers\STDLIB.H	845;"	l	line:845
+n1	C:\Program Files\PICC\Drivers\STRING.H	180;"	l	line:180
+nChar	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	152;"	l	line:152
+nFatSize	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	64;"	m	line:64
+nRootDirSectors	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	63;"	m	line:63
+offsetof	C:\Program Files\PICC\Drivers\STDDEF.H	25;"	d	line:25
+p	C:\Program Files\PICC\Drivers\STDLIB.H	844;"	l	line:844
+p	C:\Program Files\PICC\Drivers\STRING.H	257;"	l	line:257
+p	C:\Program Files\PICC\Drivers\STRING.H	404;"	l	line:404
+pivot	C:\Program Files\PICC\Drivers\STDLIB.H	846;"	l	line:846
+point	C:\Program Files\PICC\Drivers\STDLIB.H	583;"	l	line:583
+posinsector	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	45;"	m	line:45
+pow10	C:\Program Files\PICC\Drivers\STDLIB.H	233;"	l	line:233
+pow10	C:\Program Files\PICC\Drivers\STDLIB.H	272;"	l	line:272
+pow10	C:\Program Files\PICC\Drivers\STDLIB.H	581;"	l	line:581
+ptr	C:\Program Files\PICC\Drivers\STDLIB.H	237;"	l	line:237
+ptr	C:\Program Files\PICC\Drivers\STDLIB.H	277;"	l	line:277
+ptr	C:\Program Files\PICC\Drivers\STDLIB.H	585;"	l	line:585
+ptrdiff_t	C:\Program Files\PICC\Drivers\STDDEF.H	16;"	d	line:16
+ptrdiff_t	C:\Program Files\PICC\Drivers\STDDEF.H	18;"	d	line:18
+putc	C:\Program Files\PICC\Devices\18F67J10.h	87;"	d	line:87
+q	C:\Program Files\PICC\Drivers\STDLIB.H	844;"	l	line:844
+qsort	C:\Program Files\PICC\Drivers\STDLIB.H	814;"	f	line:814	signature:(char * qdata, int qitems, int qsize, _Cmpfun cmp)
+quot	C:\Program Files\PICC\Drivers\STDLIB.H	24;"	m	line:24
+quot	C:\Program Files\PICC\Drivers\STDLIB.H	29;"	m	line:29
+rand	C:\Program Files\PICC\Drivers\STDLIB.H	110;"	p	line:110	signature:(void)
+rand	C:\Program Files\PICC\Drivers\STDLIB.H	797;"	f	line:797	signature:(void)
+rem	C:\Program Files\PICC\Drivers\STDLIB.H	25;"	m	line:25
+rem	C:\Program Files\PICC\Drivers\STDLIB.H	30;"	m	line:30
+remove	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	83;"	p	line:83	signature:(char *fname)
+result	C:\Program Files\PICC\Drivers\STDLIB.H	234;"	l	line:234
+result	C:\Program Files\PICC\Drivers\STDLIB.H	273;"	l	line:273
+result	C:\Program Files\PICC\Drivers\STDLIB.H	339;"	l	line:339
+result	C:\Program Files\PICC\Drivers\STDLIB.H	408;"	l	line:408
+result	C:\Program Files\PICC\Drivers\STDLIB.H	480;"	l	line:480
+result	C:\Program Files\PICC\Drivers\STDLIB.H	582;"	l	line:582
+result	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	67;"	l	line:67
+s	C:\Program Files\PICC\Drivers\STRING.H	106;"	l	line:106
+s	C:\Program Files\PICC\Drivers\STRING.H	179;"	l	line:179
+s	C:\Program Files\PICC\Drivers\STRING.H	291;"	l	line:291
+s	C:\Program Files\PICC\Drivers\STRING.H	359;"	l	line:359
+s	C:\Program Files\PICC\Drivers\STRING.H	55;"	l	line:55
+s	C:\Program Files\PICC\Drivers\STRING.H	71;"	l	line:71
+s	C:\Program Files\PICC\Drivers\STRING.H	88;"	l	line:88
+s1	C:\Program Files\PICC\Drivers\STDLIB.H	636;"	l	line:636
+s1	C:\Program Files\PICC\Drivers\STDLIB.H	701;"	l	line:701
+sExt	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	29;"	m	line:29	struct:_direntry
+sName	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	28;"	m	line:28	struct:_direntry
+save	C:\Program Files\PICC\Drivers\STRING.H	331;"	l	line:331
+sc	C:\Program Files\PICC\Drivers\STDLIB.H	636;"	l	line:636
+sc	C:\Program Files\PICC\Drivers\STDLIB.H	701;"	l	line:701
+sc	C:\Program Files\PICC\Drivers\STRING.H	379;"	l	line:379
+sc1	C:\Program Files\PICC\Drivers\STRING.H	227;"	l	line:227
+sc1	C:\Program Files\PICC\Drivers\STRING.H	242;"	l	line:242
+sc1	C:\Program Files\PICC\Drivers\STRING.H	272;"	l	line:272
+sc1	C:\Program Files\PICC\Drivers\STRING.H	36;"	l	line:36
+sc2	C:\Program Files\PICC\Drivers\STRING.H	227;"	l	line:227
+sc2	C:\Program Files\PICC\Drivers\STRING.H	242;"	l	line:242
+sc2	C:\Program Files\PICC\Drivers\STRING.H	272;"	l	line:272
+sc2	C:\Program Files\PICC\Drivers\STRING.H	37;"	l	line:37
+sd	C:\Program Files\PICC\Drivers\STDLIB.H	636;"	l	line:636
+sd	C:\Program Files\PICC\Drivers\STDLIB.H	701;"	l	line:701
+sign	C:\Program Files\PICC\Drivers\STDLIB.H	235;"	l	line:235
+sign	C:\Program Files\PICC\Drivers\STDLIB.H	274;"	l	line:274
+sign	C:\Program Files\PICC\Drivers\STDLIB.H	340;"	l	line:340
+sign	C:\Program Files\PICC\Drivers\STDLIB.H	409;"	l	line:409
+sign	C:\Program Files\PICC\Drivers\STDLIB.H	481;"	l	line:481
+sign	C:\Program Files\PICC\Drivers\STDLIB.H	546;"	l	line:546
+sign	C:\Program Files\PICC\Drivers\STDLIB.H	583;"	l	line:583
+sign	C:\Program Files\PICC\Drivers\STDLIB.H	638;"	l	line:638
+sign	C:\Program Files\PICC\Drivers\STDLIB.H	703;"	l	line:703
+size_t	C:\Program Files\PICC\Drivers\STDDEF.H	21;"	d	line:21
+srand	C:\Program Files\PICC\Drivers\STDLIB.H	132;"	p	line:132	signature:(unsigned int32 seed)
+srand	C:\Program Files\PICC\Drivers\STDLIB.H	803;"	f	line:803	signature:(unsigned int32 seed)
+strcat	C:\Program Files\PICC\Drivers\STRING.H	86;"	f	line:86	signature:(char *s1, char *s2)
+strchr	C:\Program Files\PICC\Drivers\STRING.H	213;"	f	line:213	signature:(char *s, int c)
+strcmp	C:\Program Files\PICC\Drivers\STRING.H	142;"	f	line:142	signature:(char *s1, char *s2)
+strcoll	C:\Program Files\PICC\Drivers\STRING.H	152;"	f	line:152	signature:(char *s1, char *s2)
+strcopy	C:\Program Files\PICC\Drivers\STRING.H	53;"	f	line:53	signature:(char *s1, char *s2)
+strcspn	C:\Program Files\PICC\Drivers\STRING.H	225;"	f	line:225	signature:(char *s1, char *s2)
+strerror	C:\Program Files\PICC\Drivers\STRING.H	357;"	f	line:357	signature:(int errnum)
+stricmp	C:\Program Files\PICC\Drivers\STRING.H	388;"	f	line:388	signature:(char *s1, char *s2)
+strlen	C:\Program Files\PICC\Drivers\STRING.H	377;"	f	line:377	signature:(char *s)
+strlwr	C:\Program Files\PICC\Drivers\STRING.H	402;"	f	line:402	signature:(char *s)
+strncat	C:\Program Files\PICC\Drivers\STRING.H	104;"	f	line:104	signature:(char *s1, char *s2, size_t n)
+strncmp	C:\Program Files\PICC\Drivers\STRING.H	165;"	f	line:165	signature:(char *s1, char *s2, size_t n)
+strncpy	C:\Program Files\PICC\Drivers\STRING.H	69;"	f	line:69	signature:(char *s1, char *s2, size_t n)
+strpbrk	C:\Program Files\PICC\Drivers\STRING.H	240;"	f	line:240	signature:(char *s1, char *s2)
+strrchr	C:\Program Files\PICC\Drivers\STRING.H	255;"	f	line:255	signature:(char *s, int c)
+strspn	C:\Program Files\PICC\Drivers\STRING.H	270;"	f	line:270	signature:(char *s1, char *s2)
+strstr	C:\Program Files\PICC\Drivers\STRING.H	289;"	f	line:289	signature:(char *s1, char *s2)
+strtod	C:\Program Files\PICC\Drivers\STDLIB.H	580;"	f	line:580	signature:(char *s,char *endptr)
+strtod	C:\Program Files\PICC\Drivers\STDLIB.H	79;"	p	line:79	signature:(char *s,char *endptr)
+strtok	C:\Program Files\PICC\Drivers\STRING.H	328;"	f	line:328	signature:(char *s1, char *s2)
+strtol	C:\Program Files\PICC\Drivers\STDLIB.H	699;"	f	line:699	signature:(char *s,char *endptr,signed int base)
+strtol	C:\Program Files\PICC\Drivers\STDLIB.H	87;"	p	line:87	signature:(char *s,char *endptr,signed int base)
+strtoul	C:\Program Files\PICC\Drivers\STDLIB.H	634;"	f	line:634	signature:(char *s,char *endptr,signed int base)
+strtoul	C:\Program Files\PICC\Drivers\STDLIB.H	95;"	p	line:95	signature:(char *s,char *endptr,signed int base)
+strxfrm	C:\Program Files\PICC\Drivers\STRING.H	177;"	f	line:177	signature:(char *s1, char *s2, size_t n)
+su	C:\Program Files\PICC\Drivers\STRING.H	202;"	l	line:202
+su1	C:\Program Files\PICC\Drivers\STRING.H	130;"	l	line:130
+su2	C:\Program Files\PICC\Drivers\STRING.H	130;"	l	line:130
+system	C:\Program Files\PICC\Drivers\STDLIB.H	146;"	p	line:146	signature:(char *string)
+system	C:\Program Files\PICC\Drivers\STDLIB.H	757;"	f	line:757	signature:(char *string)
+t	C:\Program Files\PICC\Drivers\STDLIB.H	817;"	l	line:817
+t	C:\Program Files\PICC\Drivers\STRING.H	291;"	l	line:291
+temp	C:\Program Files\PICC\Drivers\STDLIB.H	545;"	l	line:545
+tm_day	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	39;"	l	line:39
+tm_hour	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	41;"	l	line:41
+tm_mday	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	40;"	l	line:40
+tm_min	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	42;"	l	line:42
+tm_mon	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	38;"	l	line:38
+tm_sec	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\sdloader.c	43;"	l	line:43
+uc	C:\Program Files\PICC\Drivers\STRING.H	201;"	l	line:201
+val	C:\Program Files\PICC\Drivers\STDLIB.H	217;"	l	line:217
+val	C:\Program Files\PICC\Drivers\STDLIB.H	225;"	l	line:225
+val	C:\Program Files\PICC\Drivers\STDLIB.H	847;"	l	line:847
+wFileSize	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	46;"	m	line:46
+wSize	C:\USERS\Projects\PIC\GPSLogger\Firmware\Loader\MyMMCFat32.h	36;"	m	line:36	struct:_direntry
+wchar_t	C:\Program Files\PICC\Drivers\STDDEF.H	22;"	d	line:22
+wcstombs	C:\Program Files\PICC\Drivers\STDLIB.H	785;"	f	line:785	signature:(char *s,wchar_t *pwcs,size_t n)
+wctomb	C:\Program Files\PICC\Drivers\STDLIB.H	773;"	f	line:773	signature:(char *s,wchar_t wchar)
+x	C:\Program Files\PICC\Drivers\STDLIB.H	637;"	l	line:637
+x	C:\Program Files\PICC\Drivers\STDLIB.H	702;"	l	line:702
