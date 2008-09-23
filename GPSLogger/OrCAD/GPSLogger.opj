@@ -1,0 +1,103 @@
+(ExpressProject "GPSLogger"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\users\projects\pic\orcad\mylib.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\gpslogger.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "GPSLOGGER.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "1")
+    (TRUE)
+    (TRUE)
+    (FALSE)
+    (FALSE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "C:\USERS\PROJECTS\PIC\GPSLOGGER\ORCAD\GPSLOGGER.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Package}\t{PCB Footprint}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tPackage\tFootPrint")
+    (BOM_Include_File "C:\USERS\PROJECTS\PIC\GPSLOGGER\ORCAD\GPSLOGGER.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\gpslogger.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\gpslogger.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (TFLASH
+      (FullPartName "TFLASH.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("SW KEY-SPST"
+      (FullPartName "SW KEY-SPST.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MCP1700
+      (FullPartName "MCP1700.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB.OLB")
+      (DeviceIndex "0"))
+    (REG101NA
+      (FullPartName "REG101NA.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB.OLB")
+      (DeviceIndex "0"))
+    ("LCD 6110"
+      (FullPartName "LCD 6110.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 5"
+      (FullPartName "HEADER 5.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (PIC18F67J10
+      (FullPartName "PIC18F67J10.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB.OLB")
+      (DeviceIndex "0"))
+    ("SD Card Socket"
+      (FullPartName "SD Card Socket.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\projects\PIC\GPSLogger\OrCAD\gpslogger.dsn")
+      (Path "Design Resources"
+         "C:\Users\projects\PIC\GPSLogger\OrCAD\gpslogger.dsn" "GPSLogger")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\projects\PIC\GPSLogger\OrCAD\gpslogger.dsn" "GPSLogger"
+         "Main"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 320 876 -4 -23 837 1181 252 843"))
+      (Tab 0)))
+  (MPSSessionName "WFang")
+  (LastUsedLibraryBrowseDirectory "C:\OrCAD\OrCAD_10.3\tools\capture\library"))

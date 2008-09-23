@@ -1,0 +1,3126 @@
+From: <Saved by Microsoft Internet Explorer 5>
+Subject: CCS :: View topic - tcp bootloader
+Date: Thu, 27 Jul 2006 00:36:03 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01C6B114.A3DF4AE0"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2869
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.ccsinfo.com/forum/viewtopic.php?p=62993
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML dir=3Dltr><HEAD><TITLE>CCS :: View topic - tcp bootloader</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<META http-equiv=3DContent-Style-Type content=3Dtext/css><LINK=20
+title=3D"CCS Forum Index" =
+href=3D"./index.php?sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"=20
+rel=3Dtop><LINK title=3DSearch=20
+href=3D"./search.php?sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7" =
+rel=3Dsearch><LINK=20
+title=3DFAQ href=3D"./faq.php?sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7" =
+rel=3Dhelp><LINK=20
+title=3DMemberlist =
+href=3D"./memberlist.php?sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"=20
+rel=3Dauthor><LINK title=3D"View previous topic"=20
+href=3D"viewtopic.php?t=3D20971&amp;view=3Dprevious&amp;sid=3D653a95ee45c=
+3bc1ea6a43b3c8cead9d7"=20
+rel=3Dprev><LINK title=3D"View next topic"=20
+href=3D"viewtopic.php?t=3D20971&amp;view=3Dnext&amp;sid=3D653a95ee45c3bc1=
+ea6a43b3c8cead9d7"=20
+rel=3Dnext><LINK title=3D"General CCS C Discussion"=20
+href=3D"viewforum.php?f=3D1&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7" =
+rel=3Dup><LINK=20
+title=3D"General CCS C Discussion"=20
+href=3D"viewforum.php?f=3D1&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"=20
+rel=3D"chapter forum"><LINK title=3D"Code Library"=20
+href=3D"viewforum.php?f=3D2&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"=20
+rel=3D"chapter forum"><LINK title=3D"CCS Debuggers / Programmers"=20
+href=3D"viewforum.php?f=3D3&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"=20
+rel=3D"chapter forum"><!-- link rel=3D"stylesheet" =
+href=3D"templates/subSilver/subSilver.css" type=3D"text/css" -->
+<STYLE type=3Dtext/css>@import url( templates/subSilver/formIE.css );
+BODY {
+	SCROLLBAR-FACE-COLOR: #dee3e7; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; =
+SCROLLBAR-SHADOW-COLOR: #dee3e7; SCROLLBAR-3DLIGHT-COLOR: #d1d7dc; =
+SCROLLBAR-ARROW-COLOR: #006699; SCROLLBAR-TRACK-COLOR: #efefef; =
+SCROLLBAR-DARKSHADOW-COLOR: #98aab1; BACKGROUND-COLOR: #e5e5e5
+}
+FONT {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TH {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A:link {
+	COLOR: #006699
+}
+A:active {
+	COLOR: #006699
+}
+A:visited {
+	COLOR: #006699
+}
+A:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+HR {
+	BORDER-RIGHT: #d1d7dc 0px solid; BORDER-TOP: #d1d7dc 1px solid; =
+BORDER-LEFT: #d1d7dc 0px solid; BORDER-BOTTOM: #d1d7dc 0px solid; =
+HEIGHT: 0px
+}
+.bodyline {
+	BORDER-RIGHT: #98aab1 1px solid; BORDER-TOP: #98aab1 1px solid; =
+BORDER-LEFT: #98aab1 1px solid; BORDER-BOTTOM: #98aab1 1px solid; =
+BACKGROUND-COLOR: #ffffff
+}
+.forumline {
+	BORDER-RIGHT: #006699 2px solid; BORDER-TOP: #006699 2px solid; =
+BORDER-LEFT: #006699 2px solid; BORDER-BOTTOM: #006699 2px solid; =
+BACKGROUND-COLOR: #ffffff
+}
+TD.row1 {
+	BACKGROUND-COLOR: #efefef
+}
+TD.row2 {
+	BACKGROUND-COLOR: #dee3e7
+}
+TD.row3 {
+	BACKGROUND-COLOR: #d1d7dc
+}
+TD.rowpic {
+	BACKGROUND-IMAGE: url(templates/subSilver/images/cellpic2.jpg); =
+BACKGROUND-REPEAT: repeat-y; BACKGROUND-COLOR: #ffffff
+}
+TH {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND-IMAGE: =
+url(templates/subSilver/images/cellpic3.gif); COLOR: #ffa34f; HEIGHT: =
+25px; BACKGROUND-COLOR: #006699
+}
+TD.cat {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; =
+BACKGROUND-IMAGE: url(templates/subSilver/images/cellpic1.gif); =
+BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: 28px; =
+BACKGROUND-COLOR: #d1d7dc
+}
+TD.catHead {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; =
+BACKGROUND-IMAGE: url(templates/subSilver/images/cellpic1.gif); =
+BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: 28px; =
+BACKGROUND-COLOR: #d1d7dc
+}
+TD.catSides {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; =
+BACKGROUND-IMAGE: url(templates/subSilver/images/cellpic1.gif); =
+BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: 28px; =
+BACKGROUND-COLOR: #d1d7dc
+}
+TD.catLeft {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; =
+BACKGROUND-IMAGE: url(templates/subSilver/images/cellpic1.gif); =
+BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: 28px; =
+BACKGROUND-COLOR: #d1d7dc
+}
+TD.catRight {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; =
+BACKGROUND-IMAGE: url(templates/subSilver/images/cellpic1.gif); =
+BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: 28px; =
+BACKGROUND-COLOR: #d1d7dc
+}
+TD.catBottom {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; =
+BACKGROUND-IMAGE: url(templates/subSilver/images/cellpic1.gif); =
+BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: 28px; =
+BACKGROUND-COLOR: #d1d7dc
+}
+TD.cat {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; HEIGHT: 29px; BORDER-RIGHT-WIDTH: 0px
+}
+TD.catHead {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; HEIGHT: 29px; BORDER-RIGHT-WIDTH: 0px
+}
+TD.catBottom {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; HEIGHT: 29px; BORDER-RIGHT-WIDTH: 0px
+}
+TH.thHead {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; FONT-WEIGHT: =
+bold; BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: =
+28px
+}
+TH.thSides {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; FONT-WEIGHT: =
+bold; BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: =
+28px
+}
+TH.thTop {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; FONT-WEIGHT: =
+bold; BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: =
+28px
+}
+TH.thLeft {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; FONT-WEIGHT: =
+bold; BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: =
+28px
+}
+TH.thRight {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; FONT-WEIGHT: =
+bold; BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: =
+28px
+}
+TH.thBottom {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; FONT-WEIGHT: =
+bold; BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: =
+28px
+}
+TH.thCornerL {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; FONT-WEIGHT: =
+bold; BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: =
+28px
+}
+TH.thCornerR {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; FONT-WEIGHT: =
+bold; BORDER-LEFT: #ffffff solid; BORDER-BOTTOM: #ffffff solid; HEIGHT: =
+28px
+}
+TD.row3Right {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; BORDER-LEFT: =
+#ffffff solid; BORDER-BOTTOM: #ffffff solid; BACKGROUND-COLOR: #d1d7dc
+}
+TD.spaceRow {
+	BORDER-RIGHT: #ffffff solid; BORDER-TOP: #ffffff solid; BORDER-LEFT: =
+#ffffff solid; BORDER-BOTTOM: #ffffff solid; BACKGROUND-COLOR: #d1d7dc
+}
+TH.thHead {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; =
+BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 1px
+}
+TD.catHead {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; FONT-SIZE: 12px; =
+BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 1px
+}
+TH.thSides {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 1px
+}
+TD.catSides {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 1px
+}
+TD.spaceRow {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 1px
+}
+TH.thRight {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 1px
+}
+TD.catRight {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 1px
+}
+TD.row3Right {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 1px
+}
+TH.thLeft {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+TD.catLeft {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+TH.thBottom {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+1px; BORDER-RIGHT-WIDTH: 1px
+}
+TD.catBottom {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+1px; BORDER-RIGHT-WIDTH: 1px
+}
+TH.thTop {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+TH.thCornerL {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+TH.thCornerR {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 1px
+}
+.maintitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 22px; COLOR: #000000; LINE-HEIGHT: 120%; =
+FONT-FAMILY: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif; =
+TEXT-DECORATION: none
+}
+.gen {
+	FONT-SIZE: 12px
+}
+.genmed {
+	FONT-SIZE: 11px
+}
+.gensmall {
+	FONT-SIZE: 10px
+}
+.gen {
+	COLOR: #000000
+}
+.genmed {
+	COLOR: #000000
+}
+.gensmall {
+	COLOR: #000000
+}
+A.gen {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.genmed {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.gensmall {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.gen:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+A.genmed:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+A.gensmall:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+.mainmenu {
+	FONT-SIZE: 11px; COLOR: #000000
+}
+A.mainmenu {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.mainmenu:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+.cattitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #006699; LETTER-SPACING: 1px
+}
+A.cattitle {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.cattitle:hover {
+	TEXT-DECORATION: underline
+}
+.forumlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #006699
+}
+A.forumlink {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.forumlink:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+.nav {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000
+}
+A.nav {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.nav:hover {
+	TEXT-DECORATION: underline
+}
+.topictitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000
+}
+A.topictitle {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.topictitle:visited {
+	COLOR: #5493b4; TEXT-DECORATION: none
+}
+A.topictitle:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+.name {
+	FONT-SIZE: 11px; COLOR: #000000
+}
+.postdetails {
+	FONT-SIZE: 10px; COLOR: #000000
+}
+.postdetailsbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000
+}
+.postbody {
+	FONT-SIZE: 12px; LINE-HEIGHT: 18px
+}
+A.postlink:link {
+	COLOR: #006699; TEXT-DECORATION: none
+}
+A.postlink:visited {
+	COLOR: #5493b4; TEXT-DECORATION: none
+}
+A.postlink:hover {
+	COLOR: #dd6900; TEXT-DECORATION: underline
+}
+.code {
+	BORDER-RIGHT: #d1d7dc 1px solid; BORDER-TOP: #d1d7dc 1px solid; =
+FONT-SIZE: 11px; BORDER-LEFT: #d1d7dc 1px solid; COLOR: #006600; =
+BORDER-BOTTOM: #d1d7dc 1px solid; FONT-FAMILY: Courier, 'Courier New', =
+sans-serif; BACKGROUND-COLOR: #fafafa
+}
+.quote {
+	BORDER-RIGHT: #d1d7dc 1px solid; BORDER-TOP: #d1d7dc 1px solid; =
+FONT-SIZE: 11px; BORDER-LEFT: #d1d7dc 1px solid; COLOR: #444444; =
+LINE-HEIGHT: 125%; BORDER-BOTTOM: #d1d7dc 1px solid; FONT-FAMILY: =
+Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #fafafa
+}
+.copyright {
+	FONT-SIZE: 10px; COLOR: #444444; FONT-FAMILY: Verdana, Arial, =
+Helvetica, sans-serif; LETTER-SPACING: -1px
+}
+A.copyright {
+	COLOR: #444444; TEXT-DECORATION: none
+}
+A.copyright:hover {
+	COLOR: #000000; TEXT-DECORATION: underline
+}
+INPUT {
+	BORDER-LEFT-COLOR: #000000; BORDER-BOTTOM-COLOR: #000000; FONT: 11px =
+Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; BORDER-TOP-COLOR: =
+#000000; BORDER-RIGHT-COLOR: #000000
+}
+TEXTAREA {
+	BORDER-LEFT-COLOR: #000000; BORDER-BOTTOM-COLOR: #000000; FONT: 11px =
+Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; BORDER-TOP-COLOR: =
+#000000; BORDER-RIGHT-COLOR: #000000
+}
+SELECT {
+	BORDER-LEFT-COLOR: #000000; BORDER-BOTTOM-COLOR: #000000; FONT: 11px =
+Verdana, Arial, Helvetica, sans-serif; COLOR: #000000; BORDER-TOP-COLOR: =
+#000000; BORDER-RIGHT-COLOR: #000000
+}
+INPUT.post {
+	BACKGROUND-COLOR: #ffffff
+}
+TEXTAREA.post {
+	BACKGROUND-COLOR: #ffffff
+}
+SELECT {
+	BACKGROUND-COLOR: #ffffff
+}
+INPUT {
+	TEXT-INDENT: 2px
+}
+INPUT.button {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, =
+Helvetica, sans-serif; BACKGROUND-COLOR: #efefef
+}
+INPUT.mainoption {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #fafafa
+}
+INPUT.liteoption {
+	FONT-WEIGHT: normal; BACKGROUND-COLOR: #fafafa
+}
+.helpline {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: =
+none; BACKGROUND-COLOR: #dee3e7; BORDER-BOTTOM-STYLE: none
+}
+</STYLE>
+
+<META content=3D"MSHTML 6.00.2900.2802" name=3DGENERATOR></HEAD>
+<BODY text=3D#000000 vLink=3D#5493b4 link=3D#006699 bgColor=3D#e5e5e5><A =
+name=3Dtop></A>
+<TABLE cellSpacing=3D0 cellPadding=3D10 width=3D"100%" align=3Dcenter =
+border=3D0>
+  <TBODY>
+  <TR>
+    <TD class=3Dbodyline>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/index.php?sid=3D653a95ee45c3bc1ea6a4=
+3b3c8cead9d7"><IMG=20
+            alt=3D"CCS Forum Index"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/logo_phpBB=
+.gif"=20
+            vspace=3D1 border=3D0></A></TD>
+          <TD vAlign=3Dcenter align=3Dmiddle width=3D"100%"><SPAN=20
+            class=3Dmaintitle>CCS</SPAN><BR><SPAN class=3Dgen>Custom =
+Computer=20
+            Services<BR>&nbsp; </SPAN>
+            <TABLE cellSpacing=3D0 cellPadding=3D2 border=3D0>
+              <TBODY>
+              <TR>
+                <TD vAlign=3Dtop noWrap align=3Dmiddle><SPAN=20
+                  class=3Dmainmenu>&nbsp;<A class=3Dmainmenu=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/faq.php?sid=3D653a95ee45c3bc1ea6a43b=
+3c8cead9d7"><IMG=20
+                  height=3D13 alt=3DFAQ hspace=3D3=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_=
+faq.gif"=20
+                  width=3D12 border=3D0>FAQ</A>&nbsp; &nbsp;<A =
+class=3Dmainmenu=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/search.php?sid=3D653a95ee45c3bc1ea6a=
+43b3c8cead9d7"><IMG=20
+                  height=3D13 alt=3DSearch hspace=3D3=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_=
+search.gif"=20
+                  width=3D12 border=3D0>Search</A>&nbsp; &nbsp;<A =
+class=3Dmainmenu=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/memberlist.php?sid=3D653a95ee45c3bc1=
+ea6a43b3c8cead9d7"><IMG=20
+                  height=3D13 alt=3DMemberlist hspace=3D3=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_=
+members.gif"=20
+                  width=3D12 border=3D0>Memberlist</A>&nbsp; &nbsp;<A =
+class=3Dmainmenu=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/groupcp.php?sid=3D653a95ee45c3bc1ea6=
+a43b3c8cead9d7"><IMG=20
+                  height=3D13 alt=3DUsergroups hspace=3D3=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_=
+groups.gif"=20
+                  width=3D12 border=3D0>Usergroups</A>&nbsp; &nbsp;<A =
+class=3Dmainmenu=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dregister&amp;sid=3D=
+653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  height=3D13 alt=3DRegister hspace=3D3=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_=
+register.gif"=20
+                  width=3D12 border=3D0>Register</A>&nbsp; =
+</SPAN></TD></TR>
+              <TR>
+                <TD vAlign=3Dtop noWrap align=3Dmiddle height=3D25><SPAN =
+
+                  class=3Dmainmenu>&nbsp;<A class=3Dmainmenu=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Deditprofile&amp;s=
+id=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  height=3D13 alt=3DProfile hspace=3D3=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_=
+profile.gif"=20
+                  width=3D12 border=3D0>Profile</A>&nbsp; &nbsp;<A =
+class=3Dmainmenu=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?folder=3Dinbox&amp;sid=3D=
+653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  height=3D13 alt=3D"Log in to check your private =
+messages" hspace=3D3=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_=
+message.gif"=20
+                  width=3D12 border=3D0>Log in to check your private=20
+                  messages</A>&nbsp; &nbsp;<A class=3Dmainmenu=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/login.php?sid=3D653a95ee45c3bc1ea6a4=
+3b3c8cead9d7"><IMG=20
+                  height=3D13 alt=3D"Log in" hspace=3D3=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_=
+login.gif"=20
+                  width=3D12 border=3D0>Log=20
+          =
+in</A>&nbsp;</SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><B=
+R>
+      <TABLE cellSpacing=3D2 cellPadding=3D2 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dbottom align=3Dleft colSpan=3D2><A =
+class=3Dmaintitle=20
+            =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?t=3D20971&amp;start=3D=
+0&amp;postdays=3D0&amp;postorder=3Dasc&amp;highlight=3D&amp;sid=3D653a95e=
+e45c3bc1ea6a43b3c8cead9d7">tcp=20
+            bootloader</A><BR><SPAN class=3Dgensmall><B></B><BR>&nbsp;=20
+        </SPAN></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=3D2 cellPadding=3D2 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dbottom noWrap align=3Dleft><SPAN class=3Dnav><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dnewtopic&amp;f=3D=
+1&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            alt=3D"Post new topic"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/post.gif"=20
+            align=3Dmiddle border=3D0></A>&nbsp;&nbsp;&nbsp;<A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dreply&amp;t=3D209=
+71&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            alt=3D"Reply to topic"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/reply.gif"=20
+            align=3Dmiddle border=3D0></A></SPAN></TD>
+          <TD vAlign=3Dcenter align=3Dleft width=3D"100%"><SPAN=20
+            class=3Dnav>&nbsp;&nbsp;&nbsp;<A class=3Dnav=20
+            =
+href=3D"http://www.ccsinfo.com/forum/index.php?sid=3D653a95ee45c3bc1ea6a4=
+3b3c8cead9d7">CCS=20
+            Forum Index</A> -&gt; <A class=3Dnav=20
+            =
+href=3D"http://www.ccsinfo.com/forum/viewforum.php?f=3D1&amp;sid=3D653a95=
+ee45c3bc1ea6a43b3c8cead9d7">General=20
+            CCS C Discussion</A></SPAN></TD></TR></TBODY></TABLE>
+      <TABLE class=3Dforumline cellSpacing=3D1 cellPadding=3D3 =
+width=3D"100%"=20
+        border=3D0><TBODY>
+        <TR align=3Dright>
+          <TD class=3DcatHead colSpan=3D2 height=3D28><SPAN =
+class=3Dnav><A class=3Dnav=20
+            =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?t=3D20971&amp;view=3Dp=
+revious&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7">View=20
+            previous topic</A> :: <A class=3Dnav=20
+            =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?t=3D20971&amp;view=3Dn=
+ext&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7">View=20
+            next topic</A> &nbsp;</SPAN></TD></TR>
+        <TR>
+          <TH class=3DthLeft noWrap width=3D150 height=3D26>Author</TH>
+          <TH class=3DthRight noWrap>Message</TH></TR>
+        <TR>
+          <TD class=3Drow1 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D35248></A><B>Martin H</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails>Guest<BR><BR><BR><BR><BR></SPAN><BR>
+            <P><BR><BR></P></TD>
+          <TD class=3Drow1 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: -->tcp=20
+                  bootloader</SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D35248&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#35248"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Fri Nov=20
+                  12, 2004 4:30 am<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D352=
+48&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody>Hi <BR><BR>I'm =
+trying to=20
+                  modify ex_bootloader to use tcp/ip instead of rs232 =
+but the=20
+                  #int_global funktion in ex_bootloader seems to dislike =
+the=20
+                  #int_timer0 interrupt fnk in tick.c from the TCP/IP =
+stack=20
+                  provided by CCS. What exactly does the #int_global isr =
+
+                  funktion do and can it be avoided? =
+<BR><BR>/Martin</SPAN><SPAN=20
+                  =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row1" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row1" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap">      <script =
+language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow2 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D35250></A><B>Mark</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 07 Sep =
+2003<BR>Posts:=20
+            3395<BR>Location: Atlanta, GA</SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D15&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D15&a=
+mp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <A href=3D"mailto:mnorton@lithonia.com"><IMG =
+
+            title=3D"Send e-mail" alt=3D"Send e-mail"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_email.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow2 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: --></SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D35250&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#35250"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Fri Nov=20
+                  12, 2004 7:08 am<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D352=
+50&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody>Straight from the =
+help file=20
+                  <BR></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Quote:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dquote>This directive causes the =
+following=20
+                        function to replace the compiler interrupt =
+dispatcher.=20
+                        The function is normally not required and should =
+be used=20
+                        with great caution. When used, the compiler does =
+not=20
+                        generate start-up code or clean-up code, and =
+does not=20
+                        save the registers. =
+<BR></TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody><BR><BR>So what that means is that =
+you are=20
+                  writing the interrupt handler so there would not be =
+ANY other=20
+                  #int_xxxxx. Personally, I think that if you want to =
+upgrade=20
+                  your code via TCP then I wouldn't use a bootloader. =
+The TCP=20
+                  code is pretty big and what if you wanted to upgrade =
+it. I=20
+                  would add some flash to my board. Download the new =
+code to the=20
+                  flash. Instead of a typical bootloader, just have a =
+small=20
+                  routine that copies the program from the flash into =
+the=20
+                  micro.</SPAN><SPAN=20
+          =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row2" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row2" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D15&amp;sid=3D653a95ee45c3b=
+c1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D15&amp;sid=3D653a95ee45c3bc1ea6a4=
+3b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a> <a =
+href=3D"mailto:mnorton@lithonia.com"><img =
+src=3D"templates/subSilver/images/lang_english/icon_email.gif" =
+alt=3D"Send e-mail" title=3D"Send e-mail" border=3D"0" /></a>    <script =
+language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow1 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D35264></A><B>Martin H</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails>Guest<BR><BR><BR><BR><BR></SPAN><BR>
+            <P><BR><BR></P></TD>
+          <TD class=3Drow1 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: --></SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D35264&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#35264"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Fri Nov=20
+                  12, 2004 9:58 am<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D352=
+64&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody>Thanks for the =
+reply! I=20
+                  actually ment what does the #int_global function do in =
+the=20
+                  ex_bootloader program. Code: <BR><BR>#int_global =
+<BR>void=20
+                  isr(void) { <BR>#asm <BR>goto LOADER_END+7 <BR>nop =
+<BR>nop=20
+                  <BR>nop <BR>nop <BR>nop <BR>nop <BR>goto =
+LOADER_END+0x17=20
+                  <BR>#endasm <BR>} <BR><BR>I suppose that it has =
+something to=20
+                  do with that the program loaded is executed after the =
+reset or=20
+                  something. But anyway, is there a good way around this =
+problem=20
+                  if I really want to use a tcp bootloader (with the =
+timer=20
+                  interrupt) and not use the flash solution? Can I =
+somehow "set"=20
+                  the int_global function after that I'm done loading my =
+
+                  program? The loading part seems to work fine it's just =
+the=20
+                  execute thing left. Sorry if this sounds stupid but I =
+don't=20
+                  have any experience with this kind of programming.=20
+                  <BR><BR>/Martin</SPAN><SPAN=20
+              =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row1" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row1" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap">      <script =
+language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow2 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D35277></A><B>ckielstra</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 18 Mar =
+2004<BR>Posts:=20
+            1054<BR>Location: The Netherlands</SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D1161&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D1161=
+&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow2 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: --></SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D35277&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#35277"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Fri Nov=20
+                  12, 2004 1:39 pm<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D352=
+77&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Quote:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dquote>what does the #int_global =
+function do in=20
+                        the ex_bootloader =
+program.</TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody><BR>This is for relocating the normal =
+and high=20
+                  priority interrupts. The bootloader is placed in the =
+low part=20
+                  of the memory where also the hardware interrupt =
+vectors are=20
+                  located. The bootloader never changes but your =
+uploaded=20
+                  program has to get access to these interrupts somehow, =
+this is=20
+                  achieved by jumping to some hard coded locations =
+outside the=20
+                  bootloader address range. <BR><BR>A possible solution =
+is to=20
+                  introduce a variable that keeps track of the =
+bootloader being=20
+                  active or not. Depending on the status of this =
+variable you=20
+                  can call the bootloader's or the application's =
+interrupt=20
+                  dispatcher. This requires a bit fiddling with assembly =
+and the=20
+                  #org statement. The code below is an example. =
+<BR><BR></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Code:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dcode>#include &lt;18F458.h&gt; =
+<BR><BR>#use=20
+                        delay(clock=3D16000000) <BR>#fuses HS, NOWDT, =
+NOPROTECT,=20
+                        NOPUT, NOLVP <BR><BR>#define LOADER_ISR_ADDR =
+0x0024=20
+                        <BR>#define LOADER_END&nbsp; &nbsp; &nbsp; =
+0x0400&nbsp;=20
+                        &nbsp;&nbsp; &nbsp;// or whatever other size =
+value=20
+                        <BR><BR>#build(interrupt=3DLOADER_ISR_ADDR) =
+<BR><BR>int8=20
+                        BootloaderActive;=20
+                        =
+<BR><BR>//////////////////////////////////////////////////////////////=20
+                        <BR>// Relocate the interrupt vectors. <BR>// =
+Depending=20
+                        on whether the bootloader is active or the =
+<BR>//=20
+                        application, other interrupt dispatchers are =
+called.=20
+                        <BR>#org 0x08, 0x23 <BR>void isr_relocate(void) =
+{=20
+                        <BR>#asm <BR>&nbsp; // Address 0x0008 is the =
+hardware=20
+                        High priority interrupt <BR>&nbsp; TSTFSZ=20
+                        BootloaderActive&nbsp; &nbsp; &nbsp; &nbsp;// if =
+
+                        bootloader active <BR>&nbsp; GOTO&nbsp;=20
+                        LOADER_ISR_ADDR&nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp;// then=20
+                        jump to bootloader ISR <BR>&nbsp; GOTO&nbsp;=20
+                        LOADER_END+0x07&nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp;// jump=20
+                        to application ISR <BR><BR>&nbsp; NOP&nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; &nbsp; &nbsp;// Just filling =
+memory=20
+                        <BR>&nbsp; NOP <BR>&nbsp; NOP <BR><BR>&nbsp; // =
+Address=20
+                        0x0018 is the hardware Low priority interrupt =
+<BR>&nbsp;=20
+                        TSTFSZ BootloaderActive&nbsp; &nbsp; &nbsp; =
+&nbsp;// if=20
+                        bootloader active <BR>&nbsp; GOTO&nbsp;=20
+                        &nbsp;LOADER_ISR_ADDR+0x10&nbsp; &nbsp;// then =
+jump to=20
+                        bootloader ISR <BR>&nbsp; GOTO&nbsp;=20
+                        &nbsp;LOADER_END+0x17&nbsp; &nbsp; &nbsp; &nbsp; =
+// jump=20
+                        to application ISR <BR>#endasm <BR>}=20
+                        =
+<BR><BR>//////////////////////////////////////////////////////////////=20
+                        <BR>// Bootloader main routine. <BR>void main() =
+<BR>{=20
+                        <BR>&nbsp; BootloaderActive =3D TRUE; =
+<BR><BR>&nbsp; //=20
+                        Add your bootloader stuff here <BR>&nbsp; // =
+<BR>&nbsp;=20
+                        // <BR><BR>&nbsp; BootloaderActive =3D FALSE; =
+<BR>&nbsp;=20
+                        <BR>&nbsp; // Add here a jump to the application =
+<BR>}=20
+                        =
+<BR><BR>//////////////////////////////////////////////////////////////=20
+                        <BR>// Just an interrupt handler for testing.=20
+                        <BR>#int_timer0 <BR>void timer0_isr() <BR>{ =
+<BR>&nbsp;=20
+                        // Do something =
+<BR>}</TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody><BR><BR>I don't have ex_loader.c so I =
+don't=20
+                  know how CCS jumps from the bootloader to the =
+application, but=20
+                  that's something you can just copy from the CCS code. =
+Also=20
+                  check my 'LOADER_END+0x07', I haven't checked the =
+address to=20
+                  be correct.</SPAN><SPAN=20
+            =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row2" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row2" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D1161&amp;sid=3D653a95ee45c=
+3bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D1161&amp;sid=3D653a95ee45c3bc1ea6=
+a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a>     =
+<script language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow1 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D62878></A><B>sham</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 18 Apr =
+2006<BR>Posts:=20
+            9<BR></SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D4028&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D4028=
+&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <A =
+href=3D"mailto:shamine.mahaendran@nec.com.au"><IMG=20
+            title=3D"Send e-mail" alt=3D"Send e-mail"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_email.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow1 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: -->Iterrupt relocation=20
+                  problem</SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D62878&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#62878"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Thu Apr=20
+                  27, 2006 6:36 pm<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D628=
+78&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody>ckielstra =
+<BR><BR>I was=20
+                  looking at your comment and example about relocating =
+the=20
+                  normal and high priority interrupts. Do you think this =
+example=20
+                  will work. I am also trying to do interrupt in both =
+places=20
+                  (boot area + app area). Currently I don=92t have any =
+idea about=20
+                  this. They way I implemented was not working. You can =
+fine my=20
+                  posing and code at <BR><BR><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?t=3D26743"=20
+                  =
+target=3D_blank>http://www.ccsinfo.com/forum/viewtopic.php?t=3D26743</A> =
+
+                  this link. <BR><BR>you help will be greatly =
+appreciated=20
+                  <BR><BR>Regards <BR>Shamine</SPAN><SPAN=20
+                =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row1" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row1" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D4028&amp;sid=3D653a95ee45c=
+3bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D4028&amp;sid=3D653a95ee45c3bc1ea6=
+a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a> <a =
+href=3D"mailto:shamine.mahaendran@nec.com.au"><img =
+src=3D"templates/subSilver/images/lang_english/icon_email.gif" =
+alt=3D"Send e-mail" title=3D"Send e-mail" border=3D"0" /></a>    <script =
+language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow2 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D62882></A><B>asmallri</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 12 Aug =
+2004<BR>Posts:=20
+            613<BR>Location: Perth, Australia</SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D1662&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D1662=
+&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <A href=3D"http://www.brushelectronics.com/" =
+
+            target=3D_userwww><IMG title=3D"Visit poster's website"=20
+            alt=3D"Visit poster's website"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_www.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D1662&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"MSN Messenger" alt=3D"MSN Messenger"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_msnm.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow2 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: --></SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D62882&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#62882"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Thu Apr=20
+                  27, 2006 9:02 pm<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D628=
+82&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN class=3Dgenmed><B>Mark =
+wrote:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dquote>Personally, I think that if you =
+want to=20
+                        upgrade your code via TCP then I wouldn't use a=20
+                        bootloader. The TCP code is pretty big and what =
+if you=20
+                        wanted to upgrade it. I would add some flash to =
+my=20
+                        board. Download the new code to the flash. =
+Instead of a=20
+                        typical bootloader, just have a small routine =
+that=20
+                        copies the program from the flash into the=20
+                    micro.</TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody><BR><BR>TFTP (Trivial File Transfer =
+Protocol)=20
+                  is often used in networking equipment to implement =
+boot=20
+                  loaders. This is because, as Mark has already =
+indicated, There=20
+                  is a lot of overhead required to support TCP. The =
+mechanism I=20
+                  use is to run the bootloader directly over=20
+                  UDP.<BR>_________________<BR>Regards, Andrew =
+<BR><BR><A=20
+                  =
+href=3D"http://www.brushelectronics.com/index.php?page=3Dsoftware"=20
+                  =
+target=3D_blank>http://www.brushelectronics.com/index.php?page=3Dsoftware=
+</A>=20
+                  <BR>Home of the Ethernet Bootloader for =
+PICs!!</SPAN><SPAN=20
+                  =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row2" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row2" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D1662&amp;sid=3D653a95ee45c=
+3bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D1662&amp;sid=3D653a95ee45c3bc1ea6=
+a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a>  <a =
+href=3D"http://www.brushelectronics.com" target=3D"_userwww"><img =
+src=3D"templates/subSilver/images/lang_english/icon_www.gif" =
+alt=3D"Visit poster's website" title=3D"Visit poster's website" =
+border=3D"0" /></a>   <a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D1662&amp;sid=3D653a95ee45c=
+3bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_msnm.gif" alt=3D"MSN =
+Messenger" title=3D"MSN Messenger" border=3D"0" /></a><script =
+language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow1 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D62993></A><B>ckielstra</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 18 Mar =
+2004<BR>Posts:=20
+            1054<BR>Location: The Netherlands</SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D1161&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D1161=
+&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow1 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: --></SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D62993&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#62993"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Sun Apr=20
+                  30, 2006 4:12 pm<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D629=
+93&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Quote:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dquote>I was looking at your comment =
+and=20
+                        example about relocating the normal and high =
+priority=20
+                        interrupts. Do you think this example will=20
+                    work.</TD></TR></TBODY></TABLE><SPAN =
+class=3Dpostbody>The idea=20
+                  of the posted code was correct but missing a few small =
+items.=20
+                  Below is a more up to date version. The basic idea is =
+that you=20
+                  write two seperate applications, one is the bootloader =
+and the=20
+                  other is your real application. In the bootloader you =
+include=20
+                  my_bootloader.h with MY_BOOTLOADER defined while in =
+your=20
+                  application you include the same header file but =
+without this=20
+                  define active. <BR><BR>my_bootloader.h <BR></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Code:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD=20
+                        =
+class=3Dcode>////////////////////////////////////////////////////////////=
+////////////////////=20
+                        <BR>// Some defines for my bootloader. <BR>// =
+<BR>//=20
+                        Include this file from the bootloader with =
+MY_BOOTLOADER=20
+                        defined. <BR>// Include this file from the =
+applicatio=20
+                        with MY_BOOTLOADER not defined.=20
+                        =
+<BR>/////////////////////////////////////////////////////////////////////=
+///////////=20
+                        <BR><BR>#define RESET_VECTOR&nbsp; &nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; 0x0000&nbsp; &nbsp; &nbsp; // =
+Defined by=20
+                        hardware <BR>#define HIGH_INT_VECTOR&nbsp; =
+&nbsp; &nbsp;=20
+                        &nbsp; &nbsp;0x0008&nbsp; &nbsp; &nbsp; // =
+Defined by=20
+                        hardware <BR>#define NORMAL_INT_VECTOR&nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp;0x0018&nbsp; &nbsp; &nbsp; // =
+Defined by=20
+                        hardware <BR>#define INTERRUPT_REMAP_END&nbsp; =
+&nbsp;=20
+                        &nbsp;HIGH_INT_VECTOR + 0x1B // End of the remap =
+code=20
+                        <BR><BR>#define LOADER_START&nbsp; &nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; INTERRUPT_REMAP_END+1 <BR>#define=20
+                        LOADER_END&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; 0x07FF&nbsp; &nbsp; &nbsp; &nbsp; // =
+Defined by=20
+                        size of the bootloader code and/or protection =
+fuses=20
+                        <BR>#define LOADER_RESET&nbsp; &nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; RESET_VECTOR <BR>#define=20
+                        LOADER_HIGH_INT&nbsp; &nbsp; &nbsp; &nbsp;=20
+                        &nbsp;LOADER_START <BR>#define =
+LOADER_NORMAL_INT&nbsp;=20
+                        &nbsp; &nbsp; &nbsp;LOADER_HIGH_INT + 0x10=20
+                        <BR><BR>#define APPLICATION_START&nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp;LOADER_END + 2 <BR>#define =
+APPLICATION_RESET&nbsp;=20
+                        &nbsp; &nbsp; &nbsp;APPLICATION_START + =
+RESET_VECTOR=20
+                        <BR>#define APPLICATION_HIGH_INT&nbsp; &nbsp;=20
+                        APPLICATION_START + HIGH_INT_VECTOR <BR>#define=20
+                        APPLICATION_NORMAL_INT&nbsp; APPLICATION_START + =
+
+                        NORMAL_INT_VECTOR <BR><BR>#ifdef MY_BOOTLOADER=20
+                        <BR>&nbsp; #build(reset=3DLOADER_RESET,=20
+                        interrupt=3DLOADER_HIGH_INT)&nbsp; &nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp;// Move the reset and interrupt =
+vectors=20
+                        <BR>#else <BR>&nbsp; =
+#build(reset=3DAPPLICATION_RESET,=20
+                        interrupt=3DAPPLICATION_HIGH_INT) // Move the =
+reset and=20
+                        interrupt vectors <BR>&nbsp; #org 0, LOADER_END =
+{}&nbsp;=20
+                        &nbsp;// Reserve the bootloader memory area =
+<BR>#endif=20
+                        <BR><BR>// A global flag indicating the =
+bootloader is=20
+                        active or not. <BR>// This flag must be present =
+in both=20
+                        the bootloader and application at the same =
+<BR>//=20
+                        address, that's why we place it here in the =
+bootloader.h=20
+                        with a #locate <BR>// instruction to fixed =
+address 0x10.=20
+                        Address 0x10 was choosen arbitrarily in <BR>// =
+the start=20
+                        of memory above the CCS scratch register area =
+(0x00 to=20
+                        0x??). <BR>int8 BootloaderActive; <BR>#locate=20
+                        BootloaderActive=3D10 =
+<BR></TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody><BR><BR>bootload.c</SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Code:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dcode>#include &lt;18f6722.h&gt; =
+<BR>#fuses=20
+                        HS,NOWDT,NOLVP,NOPUT,BROWNOUT <BR><BR>#define =
+XTAL_SPEED=20
+                        11000000 <BR><BR>#define MY_BOOTLOADER =
+<BR>#include=20
+                        &lt;my_bootloader.h&gt;=20
+                        =
+<BR><BR><BR>/////////////////////////////////////////////////////////////=
+///////////////////=20
+                        <BR>// Relocate the interrupt vectors. <BR>// =
+Depending=20
+                        on whether the bootloader or application is =
+active=20
+                        <BR>// different interrupt dispatchers are =
+called.=20
+                        <BR>#org HIGH_INT_VECTOR, INTERRUPT_REMAP_END =
+<BR>void=20
+                        isr_relocate(void) { <BR>#asm <BR>&nbsp; // =
+Address=20
+                        0x0008 is the hardware High priority interrupt=20
+                        <BR>&nbsp; TSTFSZ BootloaderActive&nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp;// if bootloader active <BR>&nbsp; =
+GOTO&nbsp;=20
+                        LOADER_HIGH_INT&nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp;// then=20
+                        jump to bootloader ISR <BR>&nbsp; GOTO&nbsp;=20
+                        APPLICATION_HIGH_INT&nbsp; &nbsp; // else jump =
+to=20
+                        application ISR <BR><BR>&nbsp; NOP&nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; &nbsp;// Just filling memory =
+<BR>&nbsp;=20
+                        NOP <BR>&nbsp; NOP <BR><BR>&nbsp; // Address =
+0x0018 is=20
+                        the hardware Low priority interrupt <BR>&nbsp; =
+TSTFSZ=20
+                        BootloaderActive&nbsp; &nbsp; &nbsp; &nbsp;// if =
+
+                        bootloader active <BR>&nbsp; GOTO&nbsp;=20
+                        &nbsp;LOADER_NORMAL_INT&nbsp; &nbsp; &nbsp; // =
+then jump=20
+                        to bootloader ISR <BR>&nbsp; GOTO&nbsp;=20
+                        &nbsp;APPLICATION_NORMAL_INT // else jump to =
+application=20
+                        ISR <BR>#endasm <BR>} <BR><BR><BR>// Start of =
+the=20
+                        bootloader program <BR>//#org LOADER_START, =
+LOADER_END=20
+                        default&nbsp; &nbsp; &nbsp; // Fix: Segment =
+setting=20
+                        removed, doesn't compile in v3.245 <BR>#use =
+delay( clock=20
+                        =3D XTAL_SPEED ) // required for delay_ms() =
+<BR><BR>//=20
+                        Just a simple interrupt handler example =
+<BR>#int_timer0=20
+                        <BR>void timer0_isr() <BR>{ <BR>&nbsp; int =
+i=3D0;=20
+                        <BR>&nbsp; i =3D i+1; <BR>} <BR><BR>void =
+main(void) <BR>{=20
+                        <BR>&nbsp; int8 i; <BR><BR>&nbsp; =
+BootloaderActive =3D=20
+                        TRUE; <BR>&nbsp; <BR>&nbsp; // Do your =
+bootloader things=20
+                        here <BR>&nbsp; for (i=3D0; i&lt;10; i++) =
+<BR>&nbsp; {=20
+                        <BR>&nbsp; &nbsp; output_toggle(PIN_B1); =
+<BR>&nbsp;=20
+                        &nbsp; delay_ms(500); <BR>&nbsp; } <BR>&nbsp; =
+<BR>&nbsp;=20
+                        // Exit the bootloader and go to the Real =
+Application=20
+                        <BR>&nbsp; goto_address(APPLICATION_START);=20
+                    <BR>}</TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody><BR><BR>Real Application</SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Code:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD=20
+                        =
+class=3Dcode>////////////////////////////////////////////////////////////=
+////////////////////=20
+                        <BR>// An example of how to setup an application =
+that=20
+                        can be used in combination <BR>// with the =
+MyBootloader.=20
+                        <BR>// The only thing that is different from =
+normal=20
+                        programming is the including of <BR>// the=20
+                        my_bootloader.h file.=20
+                        =
+<BR>/////////////////////////////////////////////////////////////////////=
+///////////=20
+                        <BR>#include &lt;18f6722.h&gt; <BR>#fuses=20
+                        HS,NOWDT,NOLVP,NOPUT,BROWNOUT <BR><BR>#define =
+XTAL_SPEED=20
+                        11000000 <BR>#use delay( clock =3D XTAL_SPEED ) =
+//=20
+                        required for delay_ms() <BR><BR>#include=20
+                        &lt;my_bootloader.h&gt; <BR><BR>// Just an =
+interrupt as=20
+                        example. <BR>#int_timer0 <BR>void =
+timer0_isr(void) <BR>{=20
+                        <BR>&nbsp; // Do nothing <BR>} <BR><BR>void =
+main() <BR>{=20
+                        <BR>&nbsp; BootloaderActive =3D FALSE; =
+<BR>&nbsp;=20
+                        <BR>&nbsp; for(;;) <BR>&nbsp; { <BR>&nbsp; =
+&nbsp;=20
+                        output_toggle(PIN_B1); <BR>&nbsp; &nbsp; =
+delay_ms(500);=20
+                        <BR>&nbsp; } =
+<BR>}</TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody><BR><BR>Edit: Disabled the #org line =
+in=20
+                  bootload.c because of compiler errors in =
+v3.245</SPAN><SPAN=20
+                  class=3Dgensmall><BR><BR>Last edited by ckielstra on =
+Tue Jun 20,=20
+                  2006 4:54 pm; edited 1 time in=20
+          total</SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row1" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row1" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D1161&amp;sid=3D653a95ee45c=
+3bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D1161&amp;sid=3D653a95ee45c3bc1ea6=
+a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a>     =
+<script language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow2 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D63463></A><B>kda406</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 17 Sep =
+2003<BR>Posts:=20
+            31<BR>Location: Atlanta, GA, USA</SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D193&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D193&=
+amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow2 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: -->my_bootloader.h=20
+                  won't compile</SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D63463&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#63463"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Wed May=20
+                  10, 2006 10:14 am<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp; =
+
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D634=
+63&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody>ckielstra, =
+<BR><BR>I too am=20
+                  need to make a bootloader on a system whose primary=20
+                  microcontroller is an 18F8722. Since your example is =
+for an=20
+                  18F6722, your code should work for me. <BR><BR>I put =
+your=20
+                  my_bootloader.h in a common header file directory, =
+included=20
+                  it, defined MY_BOOTLOADER in the bootloader code, =
+compiled it,=20
+                  and it is fine. Wonderful. <BR><BR>I then included=20
+                  my_bootloader.h in my application code, did NOT define =
+
+                  MY_BOOTLOADER, try to compile, and get errors. Here is =
+what=20
+                  the build screen reports: <BR></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Quote:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dquote>Executing: "C:\Program=20
+                        files\Picc\CCSC.exe" "Atlanta.c" +FH +DF +LN +T =
++A +M +Z=20
+                        +Y=3D9 +P01 +EA =
+I=3D"S:\Devel\Pic-C\Lib;C:\Program=20
+                        Files\PICC\Devices;C:\Program =
+Files\PICC\Drivers"=20
+                        <BR>--- Info 300=20
+                        =
+"S:\Devel\Pic-C\Proj\Beta\Atlanta\Rev0.2\Atlanta.c" Line=20
+                        115(0,1): More info: Segment at 00000-007FE =
+(0000 used)=20
+                        Priv <BR>--- Info 300=20
+                        =
+"S:\Devel\Pic-C\Proj\Beta\Atlanta\Rev0.2\Atlanta.c" Line=20
+                        115(0,1): More info: Segment at 00800-0FFFE =
+(0000 used)=20
+                        <BR>--- Info 300=20
+                        =
+"S:\Devel\Pic-C\Proj\Beta\Atlanta\Rev0.2\Atlanta.c" Line=20
+                        115(0,1): More info: Segment at 10000-1FDFE =
+(0000 used)=20
+                        <BR>--- Info 300=20
+                        =
+"S:\Devel\Pic-C\Proj\Beta\Atlanta\Rev0.2\Atlanta.c" Line=20
+                        115(0,1): More info: Segment at 1FE00-1FFFE =
+(0000 used)=20
+                        Priv <BR>--- Info 300=20
+                        =
+"S:\Devel\Pic-C\Proj\Beta\Atlanta\Rev0.2\Atlanta.c" Line=20
+                        115(0,1): More info: Attempted to create: =
+007FE-00800=20
+                        for reset <BR>*** Error 126=20
+                        =
+"S:\Devel\Pic-C\Proj\Beta\Atlanta\Rev0.2\Atlanta.c" Line=20
+                        115(0,1): Invalid ORG range <BR>1 Errors, 3 =
+Warnings.=20
+                        <BR>Halting build on first failure as requested. =
+
+                        <BR>BUILD FAILED: Wed May 10 11:59:08=20
+                  2006</TD></TR></TBODY></TABLE><SPAN =
+class=3Dpostbody><BR>No=20
+                  matter what I try, it always reports an invalid ORG =
+range. It=20
+                  appears it has to do with moving the reset vector. =
+<SPAN=20
+                  style=3D"FONT-WEIGHT: bold">Have you compiled this =
+code=20
+                  successfully?</SPAN> <BR><BR>-Kyle</SPAN><SPAN=20
+                  =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row2" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row2" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D193&amp;sid=3D653a95ee45c3=
+bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D193&amp;sid=3D653a95ee45c3bc1ea6a=
+43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a>     =
+<script language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow1 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D63477></A><B>ckielstra</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 18 Mar =
+2004<BR>Posts:=20
+            1054<BR>Location: The Netherlands</SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D1161&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D1161=
+&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow1 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: --></SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D63477&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#63477"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Wed May=20
+                  10, 2006 2:13 pm<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D634=
+77&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Quote:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dquote>No matter what I try, it always =
+reports=20
+                        an invalid ORG range. It appears it has to do =
+with=20
+                        moving the reset vector. Have you compiled this =
+code=20
+                        successfully?</TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody>The code is tested. Just to make sure =
+I copied=20
+                  the code from the forum to a new project in MPLAB and =
+compiled=20
+                  the application. I tested with both CCS v3.225 and =
+v3.245, for=20
+                  me everything works as expected. <BR><BR>The error =
+message you=20
+                  get shows the reset vector is mapped to the wrong=20
+                  location</SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Quote:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dquote>--- Info 300=20
+                        =
+"S:\Devel\Pic-C\Proj\Beta\Atlanta\Rev0.2\Atlanta.c" Line=20
+                        115(0,1): More info: Attempted to create: =
+007FE-00800=20
+                        for reset</TD></TR></TBODY></TABLE><SPAN =
+class=3Dpostbody>This=20
+                  section should have started at 0x0800, not at 0x07FE. =
+<BR>I=20
+                  get this same error when in my_bootload.h I change the =
+line=20
+                  </SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Code:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dcode>#define APPLICATION_START&nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp;LOADER_END + =
+2</TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody>to</SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Code:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dcode>#define APPLICATION_START&nbsp; =
+&nbsp;=20
+                        &nbsp; =
+&nbsp;LOADER_END</TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody><BR>Double check you didn't make a =
+copy/paste=20
+                  error.</SPAN><SPAN=20
+          =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row1" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row1" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D1161&amp;sid=3D653a95ee45c=
+3bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D1161&amp;sid=3D653a95ee45c3bc1ea6=
+a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a>     =
+<script language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow2 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D63478></A><B>kda406</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 17 Sep =
+2003<BR>Posts:=20
+            31<BR>Location: Atlanta, GA, USA</SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D193&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D193&=
+amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow2 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: -->works- may have=20
+                  discovered a bug</SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D63478&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#63478"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Wed May=20
+                  10, 2006 2:45 pm<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D634=
+78&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody>Many sincere =
+thanks for the=20
+                  reply. <BR><BR>You were on the right track about the=20
+                  copy/paste issue, and this may have revealed a <SPAN=20
+                  style=3D"FONT-WEIGHT: bold">bug</SPAN> in the =
+compiler. Even=20
+                  though our header files read the same line for line, I =
+pasted=20
+                  yours from the forum again, and it started working. I =
+traced=20
+                  the problem to a specific line. Yours reads: =
+<BR></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Code:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dcode>#define LOADER_END&nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; &nbsp; &nbsp; 0x07FF&nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; // Defined by size of the bootloader code =
+and/or=20
+                        protection fuses</TD></TR></TBODY></TABLE><SPAN=20
+                  class=3Dpostbody><BR>I like my code tidy, and all my =
+remarks=20
+                  start on column 64. So I inserted a few tabs and had =
+this in=20
+                  my header file: <BR></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Code:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dcode>#define LOADER_END&nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; &nbsp; &nbsp; 0x07FF&nbsp; &nbsp; =
+&nbsp;=20
+                        &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; =
+&nbsp;&nbsp;=20
+                        &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;// Defined by =
+size of=20
+                        the bootloader code and/or protection=20
+                  fuses</TD></TR></TBODY></TABLE><SPAN =
+class=3Dpostbody><BR>So=20
+                  when it says=20
+                  =
+<BR>...0x07FF&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;tab&gt;&lt;tab&gt=
+;//=20
+                  Defined by... <BR>it turns out that the tabs cause the =
+
+                  compiler to put the reset vector in the wrong memory =
+location=20
+                  (yes, a few bytes off), which doesn't match the ORG, =
+and=20
+                  causes the error I posted. <BR><BR>Again, many thanks =
+for the=20
+                  reply AND for posting your code. I look forward to =
+trying it=20
+                  now that I have taken out the tabs and it compiles. =
+<IMG=20
+                  alt=3D"Very Happy"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/images/smiles/icon_biggrin.gif"=20
+                  border=3D0> <BR><BR>-Kyle</SPAN><SPAN=20
+              =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row2" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row2" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D193&amp;sid=3D653a95ee45c3=
+bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D193&amp;sid=3D653a95ee45c3bc1ea6a=
+43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a>     =
+<script language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow1 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D63486></A><B>ckielstra</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 18 Mar =
+2004<BR>Posts:=20
+            1054<BR>Location: The Netherlands</SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D1161&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D1161=
+&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow1 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: --></SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D63486&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#63486"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Wed May=20
+                  10, 2006 5:48 pm<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D634=
+86&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody></SPAN>
+                  <TABLE cellSpacing=3D1 cellPadding=3D3 width=3D"90%" =
+align=3Dcenter=20
+                  border=3D0>
+                    <TBODY>
+                    <TR>
+                      <TD><SPAN =
+class=3Dgenmed><B>Quote:</B></SPAN></TD></TR>
+                    <TR>
+                      <TD class=3Dquote>So when it says=20
+                        =
+<BR>...0x07FF&lt;space&gt;&lt;space&gt;&lt;space&gt;&lt;tab&gt;&lt;tab&gt=
+;//=20
+                        Defined by... <BR>it turns out that the tabs =
+cause the=20
+                        compiler to put the reset vector in the wrong =
+memory=20
+                        location (yes, a few bytes off), which doesn't =
+match the=20
+                        ORG, and causes the error I posted.=20
+                  </TD></TR></TBODY></TABLE><SPAN class=3Dpostbody>I =
+already=20
+                  noticed the CCS preprocessor is a very poor =
+implementation but=20
+                  this is just unacceptable behaviour. I posted this as =
+a bug to=20
+                  CCS support.</SPAN><SPAN=20
+            =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row1" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row1" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D1161&amp;sid=3D653a95ee45c=
+3bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D1161&amp;sid=3D653a95ee45c3bc1ea6=
+a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a>     =
+<script language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR>
+          <TD class=3Drow2 vAlign=3Dtop align=3Dleft width=3D150><SPAN =
+class=3Dname><A=20
+            name=3D63833></A><B>ckielstra</B></SPAN><BR><SPAN=20
+            class=3Dpostdetails><BR><BR><BR>Joined: 18 Mar =
+2004<BR>Posts:=20
+            1054<BR>Location: The Netherlands</SPAN><BR>
+            <P><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/profile.php?mode=3Dviewprofile&amp;u=
+=3D1161&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"View user's profile" alt=3D"View user's profile"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_profile.gif"=20
+            border=3D0></A> <A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/privmsg.php?mode=3Dpost&amp;u=3D1161=
+&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            title=3D"Send private message" alt=3D"Send private message"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_pm.gif"=20
+            border=3D0></A> <BR><BR></P></TD>
+          <TD class=3Drow2 vAlign=3Dtop width=3D"100%" height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+border=3D0>
+              <TBODY>
+              <TR>
+                <TD width=3D"100%" colSpan=3D2><SPAN =
+class=3Dpostdetailsbold><!--Post subject: --></SPAN></TD></TR>
+              <TR>
+                <TD width=3D"100%"><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/viewtopic.php?p=3D63833&amp;sid=3D65=
+3a95ee45c3bc1ea6a43b3c8cead9d7#63833"><IMG=20
+                  title=3DPost height=3D9 alt=3DPost=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minip=
+ost.gif"=20
+                  width=3D12 border=3D0></A><SPAN =
+class=3Dpostdetails>Posted: Thu May=20
+                  18, 2006 7:26 am<SPAN class=3Dgen>&nbsp;</SPAN>&nbsp;=20
+                  &nbsp;</SPAN></TD>
+                <TD vAlign=3Dtop noWrap><A=20
+                  =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dquote&amp;p=3D638=
+33&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+                  title=3D"Reply with quote" alt=3D"Reply with quote"=20
+                  =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/icon_quote.gif"=20
+                  border=3D0></A> </TD></TR>
+              <TR>
+                <TD colSpan=3D2>
+                  <HR>
+                </TD></TR>
+              <TR>
+                <TD colSpan=3D2><SPAN class=3Dpostbody>I was notified =
+today by CCS=20
+                  that the preprocessor bug is fixed and will be in the =
+next=20
+                  release (3.250?).</SPAN><SPAN=20
+              =
+class=3Dgensmall></SPAN></TD></TR></TBODY></TABLE></TD></TR><!--=0A=
+	<tr>=0A=
+		<td class=3D"row2" width=3D"150" align=3D"left" =
+valign=3D"middle"><span class=3D"nav"><a href=3D"#top" =
+class=3D"nav">Back to top</a></span></td>=0A=
+		<td class=3D"row2" width=3D"100%" height=3D"28" valign=3D"bottom" =
+nowrap=3D"nowrap"><table cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" height=3D"18" width=3D"18">=0A=
+			<tr>=0A=
+				<td valign=3D"middle" nowrap=3D"nowrap"><a =
+href=3D"profile.php?mode=3Dviewprofile&amp;u=3D1161&amp;sid=3D653a95ee45c=
+3bc1ea6a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_profile.gif" =
+alt=3D"View user's profile" title=3D"View user's profile" border=3D"0" =
+/></a> <a =
+href=3D"privmsg.php?mode=3Dpost&amp;u=3D1161&amp;sid=3D653a95ee45c3bc1ea6=
+a43b3c8cead9d7"><img =
+src=3D"templates/subSilver/images/lang_english/icon_pm.gif" alt=3D"Send =
+private message" title=3D"Send private message" border=3D"0" /></a>     =
+<script language=3D"JavaScript" type=3D"text/javascript">--><!--=0A=
+=0A=
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') !=3D -1 && =
+navigator.userAgent.indexOf('5.') =3D=3D -1 && =
+navigator.userAgent.indexOf('6.') =3D=3D -1 )=0A=
+		document.write(' ');=0A=
+	else=0A=
+		document.write('</td><td>&nbsp;</td><td valign=3D"top" =
+nowrap=3D"nowrap"><div style=3D"position:relative"><div =
+style=3D"position:absolute"></div><div =
+style=3D"position:absolute;left:3px;top:-1px"></div></div>');=0A=
+=0A=
+				//--><!--</script><noscript></noscript></td>=0A=
+			</tr>=0A=
+		</table></td>=0A=
+	</tr>=0A=
+	-->
+        <TR>
+          <TD class=3DspaceRow colSpan=3D2 height=3D1><IMG height=3D1 =
+alt=3D""=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif=
+"=20
+            width=3D1></TD></TR>
+        <TR align=3Dmiddle>
+          <TD class=3DcatBottom colSpan=3D2 height=3D28>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 border=3D0>
+              <TBODY>
+              <TR>
+                <FORM=20
+                =
+action=3Dviewtopic.php?t=3D20971&amp;start=3D0&amp;sid=3D653a95ee45c3bc1e=
+a6a43b3c8cead9d7=20
+                method=3Dpost>
+                <TD align=3Dmiddle><SPAN class=3Dgensmall>Display posts =
+from=20
+                  previous: <SELECT name=3Dpostdays><OPTION value=3D0 =
+selected>All=20
+                    Posts</OPTION><OPTION value=3D1>1 =
+Day</OPTION><OPTION=20
+                    value=3D7>7 Days</OPTION><OPTION value=3D14>2=20
+                    Weeks</OPTION><OPTION value=3D30>1 =
+Month</OPTION><OPTION=20
+                    value=3D90>3 Months</OPTION><OPTION value=3D180>6=20
+                    Months</OPTION><OPTION value=3D364>1=20
+                  Year</OPTION></SELECT>&nbsp;<SELECT =
+name=3Dpostorder><OPTION=20
+                    value=3Dasc selected>Oldest First</OPTION><OPTION=20
+                    value=3Ddesc>Newest =
+First</OPTION></SELECT>&nbsp;<INPUT class=3Dliteoption type=3Dsubmit =
+value=3DGo =
+name=3Dsubmit></SPAN></TD></FORM></TR></TBODY></TABLE></TD></TR></TBODY><=
+/TABLE>
+      <TABLE cellSpacing=3D2 cellPadding=3D2 width=3D"100%" =
+align=3Dcenter border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dcenter noWrap align=3Dleft><SPAN class=3Dnav><A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dnewtopic&amp;f=3D=
+1&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            alt=3D"Post new topic"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/post.gif"=20
+            align=3Dmiddle border=3D0></A>&nbsp;&nbsp;&nbsp;<A=20
+            =
+href=3D"http://www.ccsinfo.com/forum/posting.php?mode=3Dreply&amp;t=3D209=
+71&amp;sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7"><IMG=20
+            alt=3D"Reply to topic"=20
+            =
+src=3D"http://www.ccsinfo.com/forum/templates/subSilver/images/lang_engli=
+sh/reply.gif"=20
+            align=3Dmiddle border=3D0></A></SPAN></TD>
+          <TD vAlign=3Dcenter align=3Dleft width=3D"100%"><SPAN=20
+            class=3Dnav>&nbsp;&nbsp;&nbsp;<A class=3Dnav=20
+            =
+href=3D"http://www.ccsinfo.com/forum/index.php?sid=3D653a95ee45c3bc1ea6a4=
+3b3c8cead9d7">CCS=20
+            Forum Index</A> -&gt; <A class=3Dnav=20
+            =
+href=3D"http://www.ccsinfo.com/forum/viewforum.php?f=3D1&amp;sid=3D653a95=
+ee45c3bc1ea6a43b3c8cead9d7">General=20
+            CCS C Discussion</A></SPAN></TD>
+          <TD vAlign=3Dtop noWrap align=3Dright><SPAN =
+class=3Dgensmall>All times are=20
+            GMT - 6 Hours</SPAN><BR><SPAN class=3Dnav></SPAN></TD></TR>
+        <TR>
+          <TD align=3Dleft colSpan=3D3><SPAN class=3Dnav>Page <B>1</B> =
+of=20
+            <B>1</B></SPAN></TD></TR></TBODY></TABLE>
+      <TABLE cellSpacing=3D2 width=3D"100%" align=3Dcenter border=3D0>
+        <TBODY>
+        <TR>
+          <TD vAlign=3Dtop noWrap align=3Dleft width=3D"40%"><SPAN=20
+            class=3Dgensmall></SPAN><BR>&nbsp;<BR></TD>
+          <TD vAlign=3Dtop noWrap align=3Dright>
+            <FORM name=3Djumpbox=20
+            onsubmit=3D"if(document.jumpbox.f.value =3D=3D -1){return =
+false;}"=20
+            =
+action=3Dviewforum.php?sid=3D653a95ee45c3bc1ea6a43b3c8cead9d7=20
+method=3Dget>
+            <TABLE cellSpacing=3D0 cellPadding=3D0 border=3D0>
+              <TBODY>
+              <TR>
+                <TD noWrap><SPAN class=3Dgensmall>Jump to:&nbsp;<SELECT=20
+                  onchange=3D"if(this.options[this.selectedIndex].value =
+!=3D -1){ forms['jumpbox'].submit() }"=20
+                  name=3Df><OPTION value=3D-1>Select a =
+forum</OPTION><OPTION=20
+                    value=3D-1>&nbsp;</OPTION><OPTION=20
+                    value=3D-1>Software</OPTION><OPTION=20
+                    value=3D-1>----------------</OPTION><OPTION =
+value=3D1=20
+                    selected>General CCS C Discussion</OPTION><OPTION=20
+                    value=3D2>Code Library</OPTION><OPTION=20
+                    value=3D-1>&nbsp;</OPTION><OPTION=20
+                    value=3D-1>Hardware</OPTION><OPTION=20
+                    value=3D-1>----------------</OPTION><OPTION =
+value=3D3>CCS=20
+                    Debuggers / Programmers</OPTION></SELECT><INPUT =
+type=3Dhidden=20
+                  value=3D653a95ee45c3bc1ea6a43b3c8cead9d7 =
+name=3Dsid>&nbsp;<INPUT class=3Dliteoption type=3Dsubmit =
+value=3DGo></SPAN></TD></TR></TBODY></TABLE></FORM><SPAN=20
+            class=3Dgensmall>You <B>can</B> post new topics in this =
+forum<BR>You=20
+            <B>can</B> reply to topics in this forum<BR>You =
+<B>cannot</B> edit=20
+            your posts in this forum<BR>You <B>cannot</B> delete your =
+posts in=20
+            this forum<BR>You <B>cannot</B> vote in polls in this=20
+            forum<BR></SPAN></TD></TR></TBODY></TABLE>
+      <DIV align=3Dcenter><SPAN class=3Dcopyright><BR><BR><!--=0A=
+	We request you retain the full copyright notice below including the =
+link to www.phpbb.com.=0A=
+	This not only gives respect to the large amount of time given freely by =
+the developers=0A=
+	but also helps build interest, traffic and use of phpBB 2.0. If you =
+cannot (for good=0A=
+	reason) retain the full copyright we request you at least leave in =
+place the=0A=
+	Powered by phpBB line, with phpBB linked to www.phpbb.com. If you refuse=0A=
+	to include even this then support on our forums may be affected.=0A=
+=0A=
+	The phpBB Group : 2002=0A=
+// -->Powered=20
+      by <A class=3Dcopyright href=3D"http://www.phpbb.com/" =
+target=3D_phpbb>phpBB</A>=20
+      =A9 2001, 2005 phpBB=20
+Group<BR></SPAN></DIV></TD></TR></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/logo_phpBB.gif
+
+R0lGODlhyABbAMZJAC1FhTBKjjFLkTJNlDVRnTpZrDtarz1etUJlxENnx0Zr0Ehv1kpy3Etz31B7
+7lJ+9FiH/1uM/2CU/2GV/2ad/2ig/2mh/26p/3Cs/3W0/3a1/3u9/33A/37C/4PK/4bO/4fQ/4vW
+/5Hf/5Tk/5nr/5vv/5zw/6H4/6L5/6P7/6b//6n//67//6///7L//7b//7f//7r//77//7///8T/
+/8b//8z//83//8///9T//9X//9n//9z//93//+L//+T//+n//+r//+////H///L///f///n///r/
+/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH+
+FUNyZWF0ZWQgd2l0aCBUaGUgR0lNUAAh+QQBCgB/ACwAAAAAyABbAAAH/oBIgoOEhYaHiImKi4yN
+jo+QkZKTlJWWl5iZmpucnZ6foKGio6SlpqeoqaqrrK2ur7CxsrO0tba3uLm6u7y9vr+KRDwtIRUO
+BQDJygAECxEaIi88REWiRT80IxkQCMvLCBAXHyo2QdWdRelFRERDREJDQvBB8PJD9PHz9ey4QDAa
+DLwJHJjsAIUR5TYdEYJDBASCEJURgNDhhY9zlIQMC4GBAgRuCEIaiBjRAAIbtIrg6NCNpEtlCzK4
+AHLEko8TD1++JEDBBA+MjXy80OBAp1FvJ2QVqUGBwNGjCTjYAOqox4eWT18WmLAiyKKlG7BmPXoh
+lg4MA8Y+nchiiCMh/iPEqn3JQASPQ0VoSHA696kDt62KxO07lkELRjVyEj5q4IMQQkE88F1slMCO
+Vj4kUB47QpFgAZufPngsyMeD0E9ZsJIxErVRBD4SAdHs2iiKQT7k1o6oQVWRFaB3v+yQKEcD4XSB
+CCoSAflLB6RNfXZOkkAORDQCUo8YYtCK7SQF3JUeIjj4gWUPydB9PpmB8UW0tx+4wtQREpPnL6tx
+KEcC/QJtMMgN+QGYTHqkuGCegQBAUFMhPsjHoAA6eMegNwgAJkoOBRrogiHMXagMBQ8iQYKIy9ww
+ShD/oYgAiB6gmAwNhJwoIwAgjKLBjUkVIsONDxRio4wOGBEKDAsy/oiAV5BJeOFhhLhwYzKxfSLE
+aTJ2V0gINzIQnSA6dMhgj54MKWIB4w2iAzIykgBiUTdK8AkQC9yoQYlIFMHBjbAdIsKUBDDJyQk3
+EqAiITy0hqIHiPAwJQD1cTIEnChSYCQhI9xYwGWIZDDlBJ38KKMAMxQSBKUiZoBnITuIiRpPJKwg
+wgUKsLkMAVVqsgFyCUBQwQURHAMRBEQUUgNyBjggwQUUPMBeMgTQqEiMyAkgA54qnSCBrZBuEoST
+lBGQAQ00DUKEDiSA220h1LoGQQo7YGSEUBIkCcAEVBnyLXIEKIfXDiPkRGIiQtywAgkjnFCDv/3V
+JsENqxLiwwdp/injZSFDKLbZASpoCGILcr3QiAwV76ZBvoQQIQMFCKQpcQgM5CdAVBUaQihqHXyJ
+SBEnTCaCIT64qpYDOURsCA4tAvAAyiByiVwGgu6Mg8t5ghxRASNQ5WloHlzaSKbMMDzIDKg9kCsj
+ObRGJiNDTOAcBGc3cgTYLp08SBGoEqaB145cAACjhphJGAI9RPKCAAd4zEgPdSJ3ktGICE6S3UgQ
+IfRTCOgcVMuH7LiZyJEckUFnkdxwgHMFtMB3IjXYS9JtSPgQmmqT8AciBZtBQAkPcTtCw+nVZv1V
+Tga4PlACygnRAgstLO+888xD3zzz0UdfLCcyUD/989pL7z0L/jWjgkP13JdP/vnbk+9C1IfQkAwD
+PNDt0trA1N/KngBQgISoL0nAtP0AJAWc5PQjEoSgAzRYgXZCIAMYbI0A1wugBEshBODp70dAeEds
+YiAAFhxhB3fxHKcmSMJQBKE1FwQAEIqQANjwQAJC0AEADLAC2oSvhDjkRBAsuD8ABEF2BfCBD07G
+AoGMMIdIzERLUggE2b3HBxQYAocYIAMLJOMxQsyiFrfIRS6KjRJB4NsPu0jGMvZOEkL4nySIYMY2
+uvFLWwMVBp3IOwN8SAcXqUCD2BGSPvrxj4AEJL4scQMJRI0DgUykIkNynUoQ4QKgK8QNzriIIFxl
+kZhcJIKQ/vCCgrDAbyH4EwBCCYACfGB5FgBNZ1i4mcKB0QHWIYTTFqOlSQgGAD8zhAwOEAJKJoJn
+l1NLAVxZuWdFxDJ5chtlACeJIugRAB8aRBEpcwDNOUJK+TsEi0oZgi8u4gg2SFpoIiUIbB6llrNc
+DEoiUQQMKIOZSNhBaDggiSN08n3sEwT+ADAADuhAjYUQwjNDkwFCHMFzOoHhIPi3GAYckRFBcKcy
+iDUIIahLLSeAHF5YEIAUHQIG3hCABWSguEQQgTabKRIhhIC7lzzAZUAI5lEYYAONEiIHGmNG+Iyw
+tXCRAKCCCEJ5vEE6UwHPGw8gwU8YkajQ9CllkiFJBuLm/kzUGEAEvkQCEEigqGWsrQWuqcChdiaD
+nCaDooYYqEAMUAEXZBUJaiVMAW4oCCOsTEwQcAHKvuMaBHigBl86Qg5G0LiB+A83xlQLT9wqRhZI
+oGTeiKUhVOASBFTgBDnIVxDMOhdD7UwHKdjABS6wgRLc4H8+OCpqZiaBEISAKNwaCAHSVISeusYA
+ENDACDwQgcQmo6iIMkoBGJABEsggBzZYAZZCYztdPcpNg3DflByAMgWMhQDGI4wMOEGg6UYwRFNa
+J7seJYDmasK2KDIvkqbUG10+yrOcyEFsL9Te5ShTRoEyhBAgKyJkdqJdKOoXIbrLI0MYAaUu8iYm
+LDol/ugK4ggAFhED8pVOCQO1dlNKAFCIkLcLbbcQ0pVRBUIhPxFFEkwyBY/+TDVfA9GPE7W9kYMK
+oSD8jtW+MhqmKIKA4AuVihBFKEF221PfQYhSRBgghWlkdAGqFKHCBnoPiAPcyFHwgLPzgS+QP5Al
+oORGRMQxRWZQRDkgj2DI23nqcno8n4udQggSZRAB6FrXFfBXP8BFwpH1o+VT3PJC8DSWb52j5h4C
+qAAfXoUNLrodA/gyCOidDzlj11XwICDRrBACCFrsHAe8YHWFsGeHqVOAEHisCFgWDgWo1oocZCDF
+i3HACUqKiCCQQJzIOcAGWI2ECCPHASyIYCzAuQHV7aLmAJCk9SJ8YAJGE2YiPknEPZdRgAMsgAEL
++AgEHPCRBzgA2wwoQAGERgDiwkDZsfBBCpoSLopY5BJCkMEGrEsZBlxWB+gWBA804IETwMAGOuAd
+EIKQQWqwYx1CIPgPecCDHNwABiw4wQlUsAIZ7CCfuCiCD2DwAQlU+pgLkIAGSiADHwgbE0YIgg1G
+cAFnCwQcFwiBCy5u0yR+Yh1AuIEMVqCCFPS85yyQAQ0u7o4LY+IIRYghDVxwghU0vekqkIEMAi4E
+atTc5ljPuta3zvWue/3rYA+72MdO9rKb/exoT7va1872trv97boIBAA7
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_faq.gif
+
+R0lGODlhDAANAMQAAGOOowJIbJS5zLnK0+bm5svX3Yy2y////+3t7enp6fX19fHx8fn5+Yepufz8
+/EJ2kIeuw1SEnPv8/dne4TiBpTyDp/b5+6q9x+7z9XyfsCJgf+Ln6T+FqKrCzuHj5eLk5SH5BAAA
+AAAALAAAAAAMAA0AAAVY4GFQZEkaonCs7CoYldS2UkWtnRYEEbaSrkcjEgA4HMDjMcNjMEgO52AX
+KCgUpKtiCtgsvtlvITNAmBGkM/OBSLgplUR7cpkQ7p+KAeK5++8QKAIcJiUoIQA7
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_search.gif
+
+R0lGODlhDAANAMQAAI+3y8Xq/TmBpQ1Lauf2/6/k/7fW5err6////0WIqn272vLy8uXl5afE09/0
+/1iWtfb6/Pr8/cfc5vj4+ChmhYOltufp6X+rwmOlxtLv/3K01Xaht3Kftevv8fL2+Zzc/SH5BAAA
+AAAALAAAAAAMAA0AAAVqIAIIZEkCIoqsbCpE3iVQQgMhESkKBRE8hghCl8gEPr5LJydAJCAOY4DT
+mZAiiZXvs7EsSJMiLoMBdL6CReNRCGgGisCB1LE0KhXAY4AJkCwHBxaDEhQDGgoAFwwWDI4MhYci
+CSYkCQMDIQA7
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_members.gif
+
+R0lGODlhDAANAMQAAPDw8O3t7ZK6zuzs7Pr6+vj4+PT09PLy8oeuw+rq6vv8/TiBpf///wBCY/f3
+9wAAAP7+/jyDp+Xl5Y63zOfn5+jo6Obm5vz8/Iq1yvb5+/39/enp6eLk5T+FqOfp6vb29iH5BAAA
+AAAALAAAAAAMAA0AAAVcIIMtZElizCQwbMsKU6S4rhIt7MM0PA+RLghEo7lcSMPHpccrkAhQQsHh
++BgMJOrDwAQASIbDwQsImAek8iPA3FQWEc8g4a5QKBZOZILg4C0SgRIIEwwCHSYlKCEAOw==
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_groups.gif
+
+R0lGODlhDAANAMQAAPX19fz8/JK6zvr6+vDw8Ozs7Ieuw+7u7urq6vv8/TiBpf///wBCY/f39+Xl
+5T2Dp463zOjo6PLy8ubm5vb5++fn54q1yvPz8+np6fb29vj4+P7+/vn5+efp6uLk5eHj5SH5BAAA
+AAAALAAAAAAMAA0AAAVb4GIpZElaCyQsbMsK0JO4bvIotLuRLLMwQEYgQNoEhEEGR0MKDAbLRiMD
+AJCkVMBFIiEQSFsGIVkokAgHRiGJiSgenQKiHalUJp4HxPC5TxyADgYQCwI3JicLIQA7
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_register.gif
+
+R0lGODlhDAANAMQAADJmgQxKaurq6v///+7u7uXl5Yy2y9bf47bGzfHy8vn5+fX19crX3oemtfz8
+/JqyvpK6zoeuw/v8/SFadziBpT2Dp/b5++Pn6ejt75CquHKWp1J+lOnu8OHj5eLk5ejo6CH5BAAA
+AAAALAAAAAAMAA0AAAVd4GBQZEkaIjSs7AoZldSuSSNV1DwwUzOQM0bg4XAAiw5hQ8EkJTkYwEax
+qJIOAYAmcEl4E6QEIhDIEM4EAek8CQje7w+l8hE8EJ/8p+CpGCIdewWDgxEoEDgmJwMhADs=
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_profile.gif
+
+R0lGODlhDAANAMQAAG9jWHCPnI+3y+jp6tbRzqWAdzmBpWaz2ppkSNKubPLy8j90jv///3NMOYOr
+v0ZGSNTe4oaEg3TB6vf3924yMcKSZoyYoKmpp/v8/Pb5+8W6v4C/4UyTuOTy+BMUFqGcnCH5BAAA
+AAAALAAAAAAMAA0AAAVpICMYZEkKIgpF0aUwqYEND2A9EcZgJHN5jwYC8GL0Io2EMkHA8AyMD6JC
+RRAmExKGIEQgClgFCRuhmC0DhdigGDgCGs3BARmQFA6JBNLZzO0GdgcScwccAXYCDgILHAsLARYQ
+iyImJighADs=
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_message.gif
+
+R0lGODlhDAANAMQAAPPz8/7+/mVlZdDQ0KOjo4y2y+np6d7e3oWFhaysrJ2dnXNzc7y8vPj4+LW1
+te7u7tnZ2ebm5uTk5FhYWPz8/JK6zoeuw/v8/TiBpTyDp/b5+8zMzODg4Ofp6uLk5T+FqCH5BAAA
+AAAALAAAAAAMAA0AAAVlYFBgZEkWYhWs7FoV2bUeiOIcwZVhrJI4CwGOtIoIDIHBgkAhBhKEXqJB
+ohgjLAQDQGoQoivAZPMgARATBIFxEEDKmMdhwFCgFxADJtMx+A0SEBASHhkFFh4RiosRFigVHyYl
+KCEAOw==
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/icon_mini_login.gif
+
+R0lGODlhDAANAMQAAApJaTiBpbXI0YaltfLy8nmcrcbT2qi8x+bm5v///4y2y0t5kJy1wunp6uzu
+793m6jhrheLq7fj4+JK6zoeuw/v8/Sxiffb5+2OLn+Lk5dHd4+Hj5fz8/D2Dp+/z9SVdeiH5BAAA
+AAAALAAAAAAMAA0AAAVmYKIEZEkq4pSs7DopXbU+DPOsVResxYdhgMGKlGBgPKvIQsAhQgwtwUJC
+4gAciQEjobEQSBLIIQGwFBffAEEAEQAAB4DBQXI4GOX3AYEIdBqADgsWDXwZHQoUG3yMfBQoEzom
+JwkhADs=
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/lang_english/post.gif
+
+R0lGODlhUgAZAOZ/ANZzEqWlpbi4uJSUlImJifumU5Wosvz8/OHh4erq6jN9ozF1lufn56zI1uXl
+5ezs7OPk5PPl1gBdjPr6+tjm7dHR0e7u7srd562+xufh2/nWtfHx8cvLyz2IreN7Ffj4+FeWtcTE
+xPPz8/+IFXqrwwpNbvfs4o22zGuhvPDTtllZWebUw/fNo/T09Nzc3JKlrsjV2/2ZN/b29ubNtNjY
+2Pjdw0mLrLbQ3mKcuXx8fPi+htuodhxtljU1NbrDyPfImoWwxdTd4oWmtmqTqOvFnmlpaXOWp/6R
+J97e3kVFReCuffGAEteORp/C1OaKL/uyauywdtmcYeS9lgdgjQxlkXOdsvqFE+ve0fzBiK7By1iK
+pEyStuSjZK/N3Pi1dOPHrJi90Pb5+pS7zx90n+Xr7uPt8gBmmf6OIQ5unv////7+/t7q8Pr8/f39
+/b/V4ezm4PzQpdDh6sbN0Oe0g0iPslJ4ivH2+RFolCNhgFSFngBhkPj6+/aKH/n7/P+KF////yH5
+BAEAAH8ALAAAAABSABkAAAf/gH+Cg383KApjEoqLjI2Oj5CRko4KHSQUhJmCTQo2YhdraaKjpKWm
+p6ipqqZxbkBjKJiaaocXq7e4uatqvL1tEydUYJm0KLrHyKq9vG3NzQfQB3F3TYQoxqUIBAIuyd6m
+y8zO0eQHE+duU32CXQphpjkBOSo9Kjkh37nhzs/l0OcAJ3wYiIOEIBs3TDHocSBNMwL0kKjJVyqc
+Gn7+/k3QAAfgwI8fZMgIMoVNHAWnCARoMypEkR5FGn7bBweLiTYZzQUUOGIJSJEyWghtkcBGAyAk
+TMno8WDCKAE5kqjgwBKXRYwHCoyoEW3nOZADdcwJOlSoiLMbHgjBgdDUgAEf/wgM4CZKjYoQTtPE
+adKmyxY3zdR0sTShSxNoTSYccHNiApwYI57UmGDiyRMTA7GwqFHAZlAdOlqIMPGjwJMIG1JvsIBB
+AY8ypT70SEDjwAYOAwiI6uGiBUscaLaYUaCHzAQcY4SjIDFmwwczMGSw3aB1iQcdGvyM2M6ChfYR
+2s/UEOFnyQYTR0ZYWeJktYX3cqhQeUcqwIA0uedCYPkgCQQRB6ixhh4l+JCABFmQYUYQDdyxAAxm
+NNCAGThAYIYBCdQQgwdSRFDAEkQQMYITMhyxBABfQGEFFBuMAMAGP4zAxBc7vGHBAzg+UIEipRyQ
+BAIOWCACAgLklgYHKvx3wP8vHRjhwANmZNGFGSCYUSADdIAAAhpjBONAAiJ8mEIEfjghQgsbRsCC
+FVyI8MaIFozggQUFWDFDjjgmoCcH8tlBClT4BSBABQikloY8CLQQTQdVJNCCGRi4YYYRQsAAwQNi
+oDFFFWbwkAcCYGpFhAhn8JHaER5soMEIBVgQgYwPuPiAFyOwoOetejLAgQRjrNHLBypUcKR9cgmq
+hlwMtAAQo45CmgAaJMAAQgMWbIBGCS4oUAIGl25Aa3u0xgBZFBaksF0BJkoRqwcPrDDCGQX4oUMC
+DNSLgA93IOQMVG3wIooFHAQQgBpFBJDsRwoYAaYEGCTQBB4SLJBFAhtoUYf/C0DgQQMD1UbgAQBX
+XMEFAAAwscID5n4MQBQZJHDil1CoHEW99bpgQAdioPBPAPSosA0CE6XBSxIcHCzSBnqmxUACFiTg
+AwIQMP0ABBAw4ACo71lwhY04hnyruUqs0DK9DjhAMwJfrEBzvRUMgUIZPITxgUAWIFFkEUkkUcQA
+IVjAG5hDuZfaA9U2vTThTSeQp+J44oor2GtHTnPZlCMQwgIX/IEDGCKE9IADSLjgAg0BQ9RDEi5Q
+jJZqrLuHOJ45Ou44zQnMsIQSkltN+e5lV2CAAoJccEcQG8ggQlr0IhA6DcxzkHrr7mV9I+yy45o7
+zRnMoDbv3O/uwuXDCHKCuAJBPHBmC4PnqrwLoEb/HuyLV0/v9ZF3b7/3IbidCQkLyIFAtax7z60Y
+QDj4yS9X9Fvb/Ra4OwRUQABGwIEsCAEEKgzBBxWgARKoVjaqeZBqCAihCEeIhBKa0ISiS6EKV8jC
+FoqOeRUIgQAMsAAcZE4TfygDCaaggCFQygBADKIQh0hEIL7giEhMohKXyMQmGmEIWuDBAsSAw0yw
+4QYkYIsCtsjFLnrxi2AMoxjH2EUQ4AAIEyREIAAAOw==
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/lang_english/reply.gif
+
+R0lGODlhUgAZAOZ/AExMStnn7vHx8ezczABdjNzc3PX19fqUL/yjTKSkpLi4t+q5iABll83f6DJ9
+o/jDj5mZmDF1l+Dg4NLS0ujo6DyHrOrq6uXl5fbYu6rH1fz8/IiHhuJ6FOzs7NZzEZWosqW8x8PD
+w/n5+Xx8emuhvLjO2TY2Nc3MusbR1vj4+OfGps/PztnZ2f+JFebg2fTl14m1y5KlrgVPc3epwePj
+4+7u7nKVp96tfkmLrGtrZmScuV6evhRsmPXRrVeKo+Lhy6yso+rSumuUqfnNoYWmt97ayYKCffm4
+eZ7D1brDyO+AE1WCmbPP3fmFE/msYPecRPnjzcfJyg9ii+LKspi+0MXN0PLr5YCvxvb5+r7V4eWx
+f/7+/VxcWtN+Kh9znpO6zvrz7ODs8ebl4NugZf20bFGUtv////7+/v39/fr8/XObr/j6+2aQpfyO
+InV1cdmXVebs7+/v69yLOvn7/NTV1tjc3unw8/T09PH2+Z+fnv///ZGQkNne4e7n4OilY////yH5
+BAEAAH8ALAAAAABSABkAAAf/gH+Cg39MJA5eBIqLjI2Oj5CRko4OFVcBhJmCVA44Xw1hZqKjpKWm
+p6ipqqYNWVdeJJiaZ4cNq7e4uatnvGdmZ2hrX1JUmbQkpBJ7Ciy6zs+ivbxo1NQa1xoNPEiEM8ik
+I3kjXCZcRiHQ6aPS09XY7xoi8lkEc4JMDlikFCYaZtcbyEnwpe4Wu2rW4F2Tx1BEioc6rgiqkKXU
+njxmRBgQEIJcDn8FS7ED5k5hPBFQEAyR97BlCgMG+BBI08ABQVF3TNTQaIYCBHImIKApyCvMlWsI
+TZ5smAJDiwUtYUq9c4cCjgwwZpSCsCfFhmUF/gkAAGDFzV0H0WRhcCeFwoYM/10+dLpgKtW7AjoQ
+0YGDCamcHVgIuBMlzwYzW4JyESGqARI0SHYEQFN0BxIRGtSWgWEnyw4GagRAIQNmyEowDxA8SPGC
+zIsHTnrApAvlSA8BAo48sIK7BghEoUbl2WMGwlcFNIbWMEGDS5ShO3g44FGBQQYRTBhM9wInAAMc
+UkBwkhHBwoEW6BFAaYO+xREn7dPfcaplSIsnAl60UFKjf40qUkihjygaAEDDBRfcIYECxpmxAhdi
+cBFCCmd4J0MdFuDggwBl+EABH+FlwAAKYlggABMyFEDBEE1w4EEPR7TwwBFKyOEUB2+ocIASL9An
+wI4vxHhDDR0UuYIi6ygwgv8ZeySgwAo04GYGEG6IYYJg8VSwxAU1ZCCFBQyAQEENFfhgwQwMXNHB
+iQzQYMEdB3jQAZz3tRiEAE9wMEBuSixAXw0xHnGAnh1YYOgKAeJBIAATmBECEHt85aQZXxVhwgUC
+YFYmBXfAwAMFXhDxpgNqUNDBFdaxicKbCHCAG3wHODFADQIg0EIPgCqhAn0dDIBeE2MYagEFFERB
+gBdhAKPkLyDVsAIQCZiRAxAKcBGlPBXwUAI+bFywgwNYMZBECSRI4MASFKzlYa2uCvBAE2040cSs
+tsbbAgcdBNGCFobK68EUxBIrQRI89EVNAuQA4IYCEugxih4AnJCHGxII8FD/BRFIQcASdVBAgw8y
+SGGDBBkkIkUUNHTggAwSWPCEB/314YcHHowxQAcIKOFiFypYEAQHNxCrQhNdBEwsCx9U8AUJC9VQ
+gAlu5ACACTlAEEIcJvxgxB5RwlSBDRNUceCaHaAwgQQXDKtAARKYKkEVbRcpd69BCNuqCwAbHbC8
+CyDo9wpCkBAGDy3VkEAOP/xQxAlAGJHwD1wAESVVFahBA7FrCkAk5kVScIGphXpuQaHClk5sq3oT
+i6ALbXCAtt8SRBFBA3/oQEVbBvxkAgBG5HFC4j/8DkAImN4hwNcp49YbkR0wT3qRpRuaesAvq+63
+3w8oMcb1F0zwgQOCaNOA+sVVsQDEBlKXswEQlrLAJW4loHBB8/7NDX30w05vNIJBTME99yoowvUK
+EIIIFEMQMHAAH9ZkARoUgAV0mEAIEjCO3bmvfsQa3dzwpz+9/e+DIPQbAdlAgkzMIAJwG53nHPjA
+CEqQBaC7H/7y10HPhfCGIJTABBRgAx3IghBXkIIQkjABFrBNAhJo4QRWQIcC0OCJNECiFKeIxAJY
+8YpYzKIWt6hFCK4gCgqIQQR0QDtN/CEMMyCAA4SgBiJ84I1vjIEc4UjHOsJRjnjMox73yMc+xsAG
+QvABDyLwBTNmQgMlmAFfHMDIRjrykZCMpCQnSUlHliEiPyREIAAAOw==
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/icon_minipost.gif
+
+R0lGODlhDAAJALMJAAAAAP///7i4uPf39/39/fDw8Onp6dzc3PPz8////wAAAAAAAAAAAAAAAAAA
+AAAAACH5BAEAAAkALAAAAAAMAAkAAAQnMCVAqbwShG3x3EPlAURZAuOgDgeKAUght2Nh3IJ7AYfg
+56OKSBIBADs=
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/lang_english/icon_quote.gif
+
+R0lGODlhOwASANU/AAZpm8fHxdzc3FKSss/h546OikNxh////4uzyHd3df796+Hh4TNwj/n5+W2U
+qA4ODr29veXl5fT09Ieksv/98urq6vDw8O3t7QBdjExMSqSkpECJrtPT03usxMrR1be3twtSdkhI
+e2+ft7DJ1r7Hy/z8/KG7x7fM1+70+OHs8avCzbrS3s3c5L7Y5VB8kv/+9xx0oP///DN+pMvNztjW
+zLG6vtjY2Obt8KOilM7X2x8tNF5lZ6mtrWaNoeXj0v///yH5BAEAAD8ALAAAAAA7ABIAAAb/wJ9w
+SCwaj8ikcvl7PHTOB3NKZT4ys8Yr1vhAq2BqD4PR8QjoNHqnI7vf8Lh8/u4NMYiUpvDqh0IvfzEl
+OxwHh4iJiouMjQcpCBg/PQiHOwEUFIGAf30FBSWOoo0lpaYlDakNHWMoBzGXmZohmYAvOAUNo6Kn
+Gx2qwKkSEh5kiAk8Csq0FCEKmQkauokErijXLaUpBKYoLKorMgMsEg03KzfD6hzGhxUZyvHKmTQZ
+EdMHBBsAAB3iKwDKddhQDgE/GCck8APhoEIHfgBWXLBg4QI7DIkSZPAhLx6WCvhEyMihAgAIFSMw
+VJDgrwIBABNsDGBQoQKDHgJyADihAoOL/wgVLlSY0e5QiRkZMuAqkKCAAiwWGpgCgCDoBgYLUka4
+4C8CAhgLFpzA4KHCBgcCOsAYYLKGAKBDix5AVQHCpwIadCgokCGqKhgTKliQgXUEgAUVBoA1+Lan
+hwgbBggw6EDEDA5vI0QIUNSUhAsRwi7QiGNHAnUsqT7E+lLEPgwTIgDYYEKGCxsLBmAgoVOEiQ0q
+FmjeTOaUqmEUK86IJljdggkgZFx9KwKEARIuXAhQ4QJEDxK4PYCYIMAEA4YehIfmjCEdMNTIKywQ
+gHjiBaHzRTCwoVmADRsCBDjffwCG5R99ARaomQ01YNBDB83Bl1xFNQElVE0VaKYffaGJ5jehh5qJ
+1mFYodkQQA92YCBCDQFA4OKLMMb44gc0OuACDzTmqOOOPPLIwxhDjEHHkEQWOaQdPwQBADs=
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/spacer.gif
+
+R0lGODlhAQABAIAAAAAAAAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/lang_english/icon_profile.gif
+
+R0lGODlhOwASANU/AOPj467G0ri4uCtZbv///6JwJ9zc3Yuzxn2rwuvr6+7TbE+Ss/66UQZpmmyV
+qTZsg9Ti5/Pz8//4g8bGxAFdizyIrfyoQPn5+dfX14+ntFim0Mze5tmBBfe2EMq2mPvRE8zQ0lmG
+m7qlcG223cmOMYF5cXOlvu70+P2dM9ejVdKYRa6spaO3wTt6meHs8obG6aSssEaeybrS3hx2oil/
+q5u+0I2Ojz+WwbOwp7Cwseft8Xi+4v+UHdmmFP//4f///yH5BAEAAD8ALAAAAAA7ABIAAAb/wJ9w
+WOgpFL2hcslsOp/QX6Ej8Uk+nKh2yxWSOimP4tMpdM/oDIVCslhQboZqsK7b7/i8Pp8ZUg4uBCkM
+hIUqKwAEiouMjY6NgY+QBxQ/GQeLbRaFDCSIF5KhjxoNGxsyBDINF6CsrhcIaieLE3BubgU5AKCi
+vakNAAkLCxEyFAkRrxfJIGuMFyQo0ig8JRMJkIoQswQns96KG9wyFTMOCRAyCcbBEToyEBHyGM6M
+HgUc+QUPINiLEA0QVGjQ4MCFBTRqNJCxYWADYjVmUHiQQGCCABSCHSDYoEaCBM0oNKrwQIQIDxU0
+tADBS1EFCi0AIKCwIUADCiEgLFiJUZ2J/wcGAJiIidEAwAA2HwQLyajFCw0IFJl4sSPELkUXME4I
+NiNDAhpWAcxgEaxCiARDDaAlSsHAxgU3WQRlqohFjBEvWkAgsGDHiJUJXKnqF6GB1woOuJoIRiNx
+WqEtDGDEoNCBAwEYgk6oR6BFDA0jRoSQ0VfDgK2sij0MsCAjAMTBTMw4YILCBAOPh2KYbKCBgwMV
+DgAAsFkkqxY0boC+MeDGghkDBACQV4yCA5xyAbRwoNaAgwEPMgTdiQHAgRC7H2Rm0cI6CM1rdCRL
+8GCA/fslbODYKu8ihcwGBJUAAEENR6ABmWHEQnkHNkggBhACgIEAFGSAADIJGDCBABxyOD7BBJl9
+9BFvBpZYYoEBoFegiSYiOIEDfVgnwIYc5mCjjR3mmMEDOOboo483/igkDCFUIoQaeySp5JJJ9vFD
+EAA7
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/lang_english/icon_pm.gif
+
+R0lGODlhOwASANU/ALa2t6zG02e13dnZ2P60Sf///+Tk5PnIXtZoHI21yfPz88XFxiFXcerq6mVl
+ZgBci2mSpo2jryxuiPumO6toHUuQsgNllvyVNvj4+DuDp8WhXqp0bpCVl5UjDMawltjl6FyCjX2I
+jENre8iSFGIqEve2EGtaIfvRE3/H7SMfHdKNN3qnv8zd5j6Ww6ypoO7v8PT5/C1+peLs8RNvnvz8
+/FikyXqdrrWckP+UHd6tDf//4c/S0v/4g97e3kJCP////yH5BAEAAD8ALAAAAAA7ABIAAAb/wJ9w
++PM5fMTkL3c45CjKqHRKNbqO0tGJp+OVoNSwmJgyhhyplJJSOh08mtJoTJdCHqI0iYRAmBgPgQ8M
+GgQEE4gTI4KMjY6PjRBDFgkyHCkqE4YHFzcNNAUFPSpNpQQqCy+hq6ytrq8yCRY/EAmhER0Xuhc4
+CDc9GKEDKoaamqiqr8qhNM3ONBjRGAl3MKELHX3aFADAoT0UiYidOwrLq8/O0uvSA4GrGA7ZFAgd
+GwufzBs4E7uoA8FayWjG4kWzFy8wvPgQjYUMBRAjKtjxjtkCEh0ydohQDh0IEwhGhLyBLx0NFhZW
+ZLAwI4GCCjESzLBQY+WMggoQIqT4gJUC/xEONmyIUCOBgWAfMtSoAEeDhBg7DEJbl+FBhgErHuwI
+YOFBhASDBsyAYKDBiwZoeaKrgMJGsAACBID4BAIFihWhVtRAIcGAAnYKAjzo1mCGDQMxIAwQPGBA
+Bgg9yqJtsKBigQgCUAiwBRfFVQUxNlcokFRzjcMSIXJdUHZGhB6PFz8YAFuxgdu3K/cMJSEuihoB
+EmhmgI9B5go7QMSt0SLDDrM6X3CtEKDC7NqyacfGnTuQMxszWtQQIGFGDAYhWPuYUaGFhBYCmMeQ
+sKDH2clc74AAQBtChMUS9PdfZLjp9hcGDYQAAggMOBACBy4AwFoPHITgAwMYYiiCC/VNhl6WYDsM
+EGJkPZRoQA+0GZAibj0A8EAt0PWwwwI00hiiZDLuAMCOPAKwA3e3gbgikETiNsACEEjywAoSLtDj
+k1C6IKWUUO4YgQQRVqnlji7cMcQdkIQp5phkBiLJD0EAADs=
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/lang_english/icon_email.gif
+
+R0lGODlhOwASANU/ALm5ua3F0f///+rq6pm6yv33rt3d3f/7yAhomIdpL+jQaWVjW+jUsNnj5/r6
++gBdjNG0jcXFxauPauLi4vDw8OXl5TRyklSXuJSUlLWaWfb29tPU1P/832yWqgdPdHNaHnOkvDmH
+rmCGliolEHiqw0d4kYqtv7vT30mGpOPt8qiYgL2khL3N1ZmCYkI8MsWfN/39/CJ3oeTLp9e/k87h
+6//+7/b5+9C4e6mKONfY2auvse309+7ixfPz883NzP///yH5BAEAAD8ALAAAAAA7ABIAAAb/wJ9w
+SCwaj8ikcvlTrVbMqHT6W6gEjtmqRe1KRY/wQ0IWmHkMlQghbrvf8LhbNEQQUmaATJCAmAU1BwwM
+MxgOf4iJiouMMCkECD8iBDB/C2YQEgIcBxxmMAkjO4eMpYowNCcOJwgaNg4ONiZgNn8GK2YTCQw1
+NQIMCR8jCwO1poswyckOMBcoPScPAxQa1TlhiCocPSsSLRmDoQkZIwADpGY0NGYplTTJOzSwsCcp
+sTYNJwMsDxMDPQA3YDPjQwaPbjI4JHAR6kUBBi4mUKgkgEYIBAguNLBzMQYIjBd6aLiIwASFHiRC
+DAjwwMA0ChR8DOyxIMEMHpwOKNj5wWGL/wUTNAhIduEChRAecoR4YCFHDA8mCHioAHOACQQDBpCw
+UIGlgQpZB8h8YKaHDgwLFoArwLbAiw8FXGCooAEWjIwxHpSYINXHhBAiDLCc0OACxpZaLQh+kMNf
+1rF/YPQwAADthww32Ca44cLHAFc2NMRA0SHAV68VQnRYbOAjiAB2JoBQzLJxhduQPznQ0GNAhQ1o
+GeL4sMBlNYAXYhAA0WFly9Sra4OIYSKv4tkbWG74ejtCmGXzjlPImgPAArn+AMJs0MFDCQIVWCiu
+0MFEDvn3S7hv72NWjgBNcVeBdw+IZENo1RzXw3i++bABWDAxOMAEBhgwQQUUTkChhRVSuFHBBjmE
+WCGHtlVA2QMimDANQCwuGCGDYIUlI4YX3lajhjRqmKGOPOqYQwQd0IEACABEYGSRACSp5JJMNunk
+k1ACoEMHDwwBhhxYZqkllnT8EAQAOw==
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/lang_english/icon_www.gif
+
+R0lGODlhOwASANU/ALm5uf////Ly8tz2/eTk5Nvc3GnL+wVnmOvr62qt6Fl3mP9uFlqbvI21yv2X
+MqbCz/+5ecTFxfv7+/+yL4zW82NiYLCXcaa1wWqSpp51WjZuiv/Ll3OCkcP4/4D6//L//nmiua4e
+BIWovuD//wBIbNHS0yAnTf+CFH6UpxQQKeDr8ff397zW4uPp7B5xm83Y3QBdjNrl6kovRUVfjvz/
+//+7CftGBv//+qisqP/LPk6Iqu7p1UB6p8XN0kuq+////yH5BAEAAD8ALAAAAAA7ABIAAAb/wJ9w
+SPypMpWicslsOpmOSe4nCz2v2KzQcZpMHAubdjzGwGAVrpd7csgO57h8Tq/b55jhoaHaOKJfYRsB
+FhkBh4iJiouMjYgqDQc/GA0BEH9rYRASHyMZFhKOoo40pRKnqKcNZisBXzWBNhA0HwMdHRUXo6Ol
+NKmpK8HCL2eIGBYnYQ6IH7cUHIwqiyo0KhK+qDESMcLCMQLg4SXFhzweFiGGAR0iCiAUHtCKLAfa
+DA0S9JEtKwwPK/oOtBBwT8CDAy8QhBMwDgYiBR4MMDBwg0YDEykUUHiWyJQLEAIO8EDAgAcBFyJC
+8mhRksCeGAd0tNChgwABBDgRNESkI6IP+gMBRojAqNEAB2ypGrg4CKPHgQstQLhQeuDgBQIMpsKx
+WuAmTgI9yAWQkMCAjwQ32BGlYHTFqW4tDrjQ4UJu1xdy6da9m9eFCw0vutq0GUGsBIJnJXQAYcIE
+Dx0zcHRbyIDEBREkOBRoQdIyCBIoBOsgAeAzihKDBxeGgVTCihk+PlDQoQDFjm8rFi7soaHACw09
+uiJ4oKBECeCCiZfgHUFw6tUCuq1AwKECjhK5dYPLmZOAYMEIvHctQH5wefLObRYAAIOSQu3bt3Of
+Hz61/fv47xeIgCEPDBAARCBgBAECYOCBCCao4IIMNoiDGUOYcceEFFY4YR4/BAEAOw==
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/images/lang_english/icon_msnm.gif
+
+R0lGODlhOwASANU/AJneqVel5LHJ0tvb2+3t7drj6AJRes/hlMXIxAJmmDZzkv///729veHi4m+X
+q461yIqos/T09OXl5TBlzABdjNb4w1FzpVRzZfn5+XGmvliUvF2JmzyHrGmJY6q8wbe3t6K0vdHR
+0XKLlO309szf6ThafPz8/HCsmxwwZeTt8i1PtcjU29785B8wPLrT3y98o7W7vzl553DChSJDfabn
+u5Tbz6CwqxRxnK78r/39/XXF/+Xr7ufo6J6ko4Syef///yH5BAEAAD8ALAAAAAA7ABIAAAb/wJ9w
+OPRdiMikcslsKmWHQ6vlrFqvRBwLoplhv+ANZUy51WqaycRgILvf8LhcvhlSHqnFIue5cGIxKhAN
+GHqGh4iJiouGOSkPFD8bDzmHDRcoMyoTHxImjKChOaMmpSYYqBgZYiOIOTwdFxc9IQSVobijOaan
+qb4RGCFjiSM0FQcdHT22iCmVJHoj0NEupSMjJiMuqQUYKSQRESQ74eXCFIgYAADHDiUlPRG3CyQJ
+DxwJLxk3CRoYLjf4kdDw4gG/FxH2GUyQAV8CAQQiEjiHiAUNYzZOvLPwIUIjDgYUDHhhAMIDAwQ0
+cJCAgMCDBCUFGBAgAKYDDxRKCHixoQGP/4gU9ZhgUSNDhQoQHFhAEWAGoV0mZA7gwcFBAwEUJBR4
+8ULAzxsiBjRI4EGCBpEDEoAYkEGkBB48EAwzBGCCDBYeki61EEMEj1QuKDQgUFUCVp8FNCQYXHWq
+2gZtxaplK7KBBJZzc7AIMEGLgAcZNKgooUNFrXCBGTswTGEAaJkgJDSWMDny2LVtQ1jGTAHqhRIo
+kv0uMQNFiw0WEPAIt0KBTweDXIh8QNKBWOgDJCjw4HqD2O3dxUpoIJdCCmA8QjBYz54BjA/rQ/yM
+yMNnfcsNxOYfoJ9/g/0AAuifBAPAQMEGGUh0338M8sefBBIRABdcl/Fw2XgMXvYfhvh16CzhAAxs
+UEcCDsCAQHsotgcfA/B94OKLMMYo44ww2iDGEGLMoeOOPOpYxw9BAAA7
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.ccsinfo.com/forum/images/smiles/icon_biggrin.gif
+
+R0lGODlhDwAPALMNAEVFRf/qAAAAAP/////OAP/JAP+0AP6dAP/+k//9E///x///6//lAAAAAAAA
+AAAAACH5BAEAAA0ALAAAAAAPAA8AAARZsEkJap241aUQIhcGcEkSnMQBTEBnnnC6aogpwHcAasqb
+B7mCCoD4wXCGSlHAbDqTANtgSh0IClACsEq9qjRaAfe6AxMYTvKXQiAU3m9ZpmKoG4YZlmU2iQAA
+Ow==
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.ccsinfo.com/forum/templates/subSilver/formIE.css
+
+INPUT {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+1px; BORDER-RIGHT-WIDTH: 1px
+}
+TEXTAREA {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+1px; BORDER-RIGHT-WIDTH: 1px
+}
+SELECT {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+1px; BORDER-RIGHT-WIDTH: 1px
+}
+INPUT {
+	TEXT-INDENT: 2px
+}
+INPUT.button {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-BOTTOM-WIDTH: =
+1px; BORDER-RIGHT-WIDTH: 1px
+}
+.postbody {
+	LINE-HEIGHT: 18px
+}
+
+------=_NextPart_000_0000_01C6B114.A3DF4AE0--

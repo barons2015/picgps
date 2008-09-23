@@ -1,0 +1,32 @@
+[PROJECT]
+Target=GpsLogger.HEX
+Development_Mode=2
+Processor=0x6710
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=GpsLogger.c;
+BuildTool=C-COMPILER
+OptionString=+FH
+AdditionalOptionString=
+BuildRequired=1
+
+[GpsLogger.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=C:\USERS\Projects\PIC\GPSLOG~1\Firmware\App\GPSLOG~1.C
+
+[Windows]
+0=0000 C:\USERS\Projects\PIC\GPSLOG~1\Firmware\App\GPSLOG~1.C 0 0 796 451 3 0
+
