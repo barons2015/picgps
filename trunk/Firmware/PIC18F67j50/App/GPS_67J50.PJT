@@ -1,9 +1,0 @@
-[PROJECT]
-Processor=0xB710
-Processor_Text=PIC18F67J50
-[Target Data]
-OptionString=-p +FH
-FileList=C:\Users\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c
-[Units]
-Count=1
-1=GPS_67J50.c (main)
