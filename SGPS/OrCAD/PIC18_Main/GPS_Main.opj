@@ -1,0 +1,123 @@
+(ExpressProject "GPS_P"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\users\projects\pic\orcad\mylib_lt.olb"
+        (Type "Schematic Library"))
+      (File "c:\users\projects\pic\orcad\ad7799bru.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\gps_main.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (RootChangedForceReNetlist "x")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "GPS_Main.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (FALSE)
+    (LAYOUT_Units "1")
+    (Board_sim_option "VHDL_flow")
+    (FALSE)
+    (FALSE)
+    (TRUE)
+    (TRUE)
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "C:\USERS\PROJECTS\PIC\GPS\ORCAD\PIC18_MAIN\GPSMAIN_BOM.xls")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Package}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tPackage")
+    (BOM_Include_File "C:\USERS\PROJECTS\PIC\GPS\ORCAD\PIC18_MAIN\GPS_MAIN.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (FALSE)
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\gps_p.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\gps_main.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\gpsmain_bom.xls"
+      (Type "Report")))
+  (Folder "Referenced Projects"
+    (File "..\reference\gps_reference.opj"
+      (Type "Orcad Project")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\projects\PIC\GPS\Orcad\PIC18_Main\gps_main.dsn")
+      (Path "Design Resources"
+         "C:\Users\projects\PIC\GPS\Orcad\PIC18_Main\gps_main.dsn" "Main")
+      (Path "Outputs")
+      (Path "Referenced Projects")
+      (Select "Design Resources"
+         "C:\Users\projects\PIC\GPS\Orcad\PIC18_Main\gps_main.dsn" "Main"
+         "3 - BT-BGB203"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 320 910 -4 -23 609 1105 19 741"))
+      (Tab 0)))
+  (PartMRUSelector
+    (AD7799BRU
+      (FullPartName "AD7799BRU.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_LT.OLB")
+      (DeviceIndex "0"))
+    (LIS3LV02DQ
+      (FullPartName "LIS3LV02DQ.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_LT.OLB")
+      (DeviceIndex "0"))
+    (SCP1000
+      (FullPartName "SCP1000.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_LT.OLB")
+      (DeviceIndex "0"))
+    ("TEST POINT"
+      (FullPartName "TEST POINT.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (UFL-R-SMT
+      (FullPartName "UFL-R-SMT.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_LT.OLB")
+      (DeviceIndex "0"))
+    ("CONN FLEX 24"
+      (FullPartName "CONN FLEX 24.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (25LC1024-I/MF
+      (FullPartName "25LC1024-I/MF.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_LT.OLB")
+      (DeviceIndex "0"))
+    (LM358
+      (FullPartName "LM358.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GR-89
+      (FullPartName "GR-89.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_LT.OLB")
+      (DeviceIndex "0"))
+    (24R-JAVK-GS-1
+      (FullPartName "24R-JAVK-GS-1.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_LT.OLB")
+      (DeviceIndex "0"))
+    (PIC18F67J50
+      (FullPartName "PIC18F67J50.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_LT.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "WFang")
+  (LastUsedLibraryBrowseDirectory "C:\OrCAD\OrCAD_10.3\tools\capture\library"))
