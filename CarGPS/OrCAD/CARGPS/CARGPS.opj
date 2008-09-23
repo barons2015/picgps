@@ -1,0 +1,122 @@
+(ExpressProject "CARGPS"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\cargps.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "CARGPS.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "1")
+    (FALSE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (BOM_Scope "1")
+    (BOM_Mode "0")
+    (BOM_Report_File "D:\USERS\PROJECTS\PIC\GPS\ORCAD\CARGPS\CARGPS_BOM_V2.exl")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Value}\t{Package}")
+    (BOM_Header "Item\tQuantity\tReference\tPart\tPackage")
+    (BOM_Include_File "C:\USERS\PROJECTS\PIC\GPS\ORCAD\CARGPS\CARGPS.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE")
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\cargps.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\cargps_bom.exl"
+      (Type "Report"))
+    (File ".\cargps_bom_v2.exl"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GS-92
+      (FullPartName "GS-92.Normal")
+      (LibraryName "D:\USERS\PROJECTS\PIC\GPS\ORCAD\CARGPS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (nRF24L01
+      (FullPartName "nRF24L01.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\GPS\ORCAD\CARGPS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON6A
+      (FullPartName "CON6A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON10A
+      (FullPartName "CON10A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BUZZER
+      (FullPartName "BUZZER.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.3\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (TypeB_USB-Shield
+      (FullPartName "TypeB_USB-Shield.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_DT.OLB")
+      (DeviceIndex "0"))
+    ("USB Mini-B"
+      (FullPartName "USB Mini-B.Normal")
+      (LibraryName "C:\USERS\PROJECTS\PIC\ORCAD\MYLIB_DT.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\Projects\PIC\GPS\Orcad\CARGPS\cargps.dsn")
+      (Path "Design Resources"
+         "C:\Users\Projects\PIC\GPS\Orcad\CARGPS\cargps.dsn" "CARGPS_MAIN")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\Projects\PIC\GPS\Orcad\CARGPS\cargps.dsn" "CARGPS_MAIN"
+         "1.00 - PIC18F67J50"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -34 28 694 1 624"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -34 56 1179 56 488")
+        (Scroll "0 90")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\PROJECTS\PIC\GPS\ORCAD\CARGPS\CARGPS.DSN")
+      (Schematic "CARGPS_MAIN")
+      (Page "1.00 - PIC18F67J50")))
+  (MPSSessionName "WFang")
+  (LastUsedLibraryBrowseDirectory "C:\OrCAD\OrCAD_10.3\tools\capture\library"))
