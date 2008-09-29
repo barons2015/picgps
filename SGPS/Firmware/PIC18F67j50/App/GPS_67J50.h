@@ -3,12 +3,12 @@
 #DEVICE HIGH_INTS=TRUE
 
 #FUSES NOWDT                    //No Watch Dog Timer
-#FUSES PLL_DIV1                   //4MHz input
-#FUSES CPUDIV1                    //No CPU system clock divide
+#FUSES PLL1	                //4MHz input
+#FUSES NOCPUDIV                 //No CPU system clock divide
 #FUSES NODEBUG                  //No Debug mode for ICD
 #FUSES NOPROTECT                //Code not protected from reading
-#FUSES NOEXTCPU               //Disable extended CPU
-#FUSES HSPLLUSBHSPLL
+#FUSES H4_SW			//HS-PLL, USB-HS-PLL
+#FUSES NOIESO
 
 #byte INTCON2=0xFF1
 #byte RCSTA1=0xFAC

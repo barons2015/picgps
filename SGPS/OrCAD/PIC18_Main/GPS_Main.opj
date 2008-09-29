@@ -56,19 +56,19 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\Users\projects\PIC\GPS\Orcad\PIC18_Main\gps_main.dsn")
+         "C:\Users\Projects\picproj\SGPS\OrCAD\PIC18_Main\gps_main.dsn")
       (Path "Design Resources"
-         "C:\Users\projects\PIC\GPS\Orcad\PIC18_Main\gps_main.dsn" "Main")
+         "C:\Users\Projects\picproj\SGPS\OrCAD\PIC18_Main\gps_main.dsn" "Main")
       (Path "Outputs")
       (Path "Referenced Projects")
       (Select "Design Resources"
-         "C:\Users\projects\PIC\GPS\Orcad\PIC18_Main\gps_main.dsn" "Main"
-         "3 - BT-BGB203"))
+         "C:\Users\Projects\picproj\SGPS\OrCAD\PIC18_Main\gps_main.dsn" "Main"
+         "5.10 - CONNECTOR_MAIN"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 320 910 -4 -23 609 1105 19 741"))
+        (Placement "44 0 1 320 910 -4 -23 1119 1615 29 751"))
       (Tab 0)))
   (PartMRUSelector
     (AD7799BRU

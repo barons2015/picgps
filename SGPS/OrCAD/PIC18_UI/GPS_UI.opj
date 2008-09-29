@@ -51,22 +51,35 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\projects\PIC\GPS\Orcad\PIC18_UI\gps_ui.dsn")
-      (Path "Design Resources"
-         "C:\Users\projects\PIC\GPS\Orcad\PIC18_UI\gps_ui.dsn" "Main")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Path "Referenced Projects")
-      (Select "Design Resources"
-         "C:\Users\projects\PIC\GPS\Orcad\PIC18_UI\gps_ui.dsn" "Main"
-         "1.00 - PIC18F67J50"))
+      (Path "Referenced Projects"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 160 910 -4 -23 1069 1565 75 793"))
-      (Tab 0)))
+        (Placement "44 0 1 160 874 -4 -23 1069 1565 75 793"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 19 1245 6 891")
+        (Scroll "0 0")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path "C:\USERS\PROJECTS\PICPROJ\SGPS\ORCAD\PIC18_UI\GPS_UI.DSN")
+      (Schematic "Main")
+      (Page "1.00 - PIC18F67J50"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 554 1950 312 936")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\PROJECTS\PICPROJ\SGPS\ORCAD\PIC18_UI\GPS_UI.DSN")
+      (Schematic "Main")
+      (Page "4 - LCD_HALTI")))
   (PartMRUSelector
     ("MCP9700AT-E/LT "
       (FullPartName "MCP9700AT-E/LT .Normal")

@@ -1,9 +1,35 @@
 [PROJECT]
-Processor=0xB710
-Processor_Text=PIC18F67J50
+Target=GPS_67J50.HEX
+Development_Mode=2
+Processor=0xB750
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
 [Target Data]
-OptionString=-p +FH
-FileList=C:\Users\Projects\PIC\GPS\Firmware\PIC18F67j50\App\GPS_67J50.c
+FileList=GPS_67J50.c;
+BuildTool=C-COMPILER
+OptionString=+FH
+AdditionalOptionString=
+BuildRequired=1
+
+[GPS_67J50.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=GPS_67~1.C
+
+[Windows]
+0=0000 GPS_67~1.C 0 0 796 451 3 0
+
 [Units]
 Count=1
 1=GPS_67J50.c (main)
