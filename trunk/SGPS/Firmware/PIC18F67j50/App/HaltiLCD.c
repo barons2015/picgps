@@ -8,12 +8,15 @@
 #define LCD_CSX      PIN_D2
 #define LCD_RESX   PIN_D3
 //#define LCD_VDDI   PIN_A2
-//#define LCD_RDX      PIN_A5
+#define LCD_RDX      PIN_B6
 //#define LCD_VDD      PIN_C0
 #define LCD_DATAOUT(data)      output_e(data)
+#define LCD_DATAIN()		input_e()
 
 #define LCDCMD_NOP   0x00
 #define LCDCMD_SWRESET   0x01
+#define LCDCMD_READ_DISPLAY_ID	0x04
+#define LCDCMD_READ_DISPLAY_STATUS	0x09
 #define LCDCMD_SLPIN   0x10   //Sleep in
 #define LCDCMD_SLPOUT   0x11   //Sleep out
 #define LCDCMD_PTLON   0x12   //Partial Mode On
@@ -24,10 +27,14 @@
 #define LCDCMD_PASET   0x2B   //Page address set
 #define LCDCMD_RAMWR   0x2C   //Memory Write
 #define LCDCMD_RGBSET   0x2D   //RGB table set
+#define LCDCMD_RAMRD	0x2E	//Memory Read
 #define LCDCMD_IDMOFF   0x38   //Idle mode off
 #define LCDCMD_IDMON   0x39   //Idle mode On
 #define LCDCMD_COLMOD   0x3A   //Interface pixel format
 #define LCDCMD_MADCTL    0x36
+#define LCDCMD_READ_ID1	 0xDA
+#define LCDCMD_READ_ID2	 0xDB
+#define LCDCMD_READ_ID3	0xDC	
 
 
 #define MADCTL_HORIZ      0xA8
@@ -53,6 +60,21 @@ void LCD_WriteData(byte data)
 
 #define FAST_WRITE(data)   LCD_DATAOUT(data);output_low(LCD_WRX);output_high(LCD_WRX);
 
+void LCD_ReadData(byte *buf, int len)
+{
+	int i;
+	output_high(LCD_DC);
+	for(i=0; i<len; i++)
+	{
+		output_low(LCD_RDX);
+		delay_cycles(1);
+		output_high(LCD_RDX);
+		*buf = LCD_DATAIN();
+		buf++;
+	}	
+	
+}
+	
 void LCD_WriteCommand(byte command)
 {
    output_low(LCD_DC);

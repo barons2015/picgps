@@ -1,3 +1,26 @@
 [Header]
 MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
 Version=1.0
+[File000]
+Location=GPS_67J50.ESYM
+Folder=Intermediary
+[File001]
+Location=C:\Users\Projects\picproj\SGPS\Firmware\PIC18F67j50\App\GPS_67J50.o
+Folder=Intermediary
+[File002]
+Location=GPS_67J50.HEX
+Folder=Output
+[File003]
+Location=GPS_67J50.LST
+Folder=Output
+[File004]
+Location=GPS_67J50.PJT
+Folder=Output
+[File005]
+Location=GPS_67J50.ERR
+Folder=Output
+[File006]
+Location=GPS_67J50.COF
+Folder=Output
+[TOOL_LOC_STAMPS]
+tool_loc{0C155615-B197-4A4B-AEB6-343BB3F41A35}=C:\Program files\Picc\CCSC.exe

@@ -326,6 +326,7 @@ void main()
    int16 nTick=0;
    char bSDReady=0;
    int error;
+   char lcdId[4];
    
    
 
@@ -338,7 +339,7 @@ void main()
    PLLEN=1; //Enable 48MHz PLL
    RBPU = 0;
    
-   setup_adc_ports(AN0_TO_AN3|VSS_VDD);
+   setup_adc_ports(sAN0|sAN1|sAN2|sAN3|VSS_VDD);
    setup_adc(ADC_CLOCK_DIV_32);
    setup_psp(PSP_DISABLED);
    set_tris_c(0b10010011); //c7=rx I, c6=tx O, c5 SDO O,c4 SDI I
@@ -455,6 +456,15 @@ void main()
     displayGPSSNR();
 	LCD_Gotoxy(0, 160);
     printf(LCD_PutChar, "%04ld", i++);
+    
+    //Enable LCD
+   output_low(LCD_CSX);
+   LCD_WriteCommand(LCDCMD_READ_DISPLAY_ID);
+    delay_us(1);
+    LCD_ReadData(lcdId, 4);
+    LCD_Gotoxy(0,12);
+    printf(LCD_PutChar, "ID%02X%02X%02X", lcdId[1], lcdId[2], lcdId[3]);
+   output_high(LCD_CSX);
 	}
 }
 /*
